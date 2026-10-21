@@ -1,0 +1,41 @@
+product_id,product_name,category,brand,base_price,launch_date,risk_profile
+P1001,Nova Smartphone,Electronics,Vertex,510.98,2025-03-28,none
+P1002,Pulse Wireless Earbuds,Electronics,Aster,563.04,2025-01-28,none
+P1003,Vertex Smartwatch,Electronics,Orbit,463.88,2024-11-25,none
+P1004,Aster Bluetooth Speaker,Electronics,Zenith,635.01,2024-10-26,none
+P1005,Orbit Tablet,Electronics,Nexora,503.1,2025-04-14,battery
+P1006,Zenith Power Bank,Electronics,Lumio,113.79,2025-05-03,none
+P1007,Nexora Webcam,Electronics,Nova,311.99,2025-02-14,none
+P1008,Lumio Router,Electronics,Pulse,604.96,2025-01-10,none
+P1009,Nova Air Fryer,Home Appliances,Vertex,430.98,2025-01-18,none
+P1010,Pulse Mixer Grinder,Home Appliances,Aster,307.7,2025-05-13,none
+P1011,Vertex Vacuum Cleaner,Home Appliances,Orbit,174.75,2024-10-26,none
+P1012,Aster Electric Kettle,Home Appliances,Zenith,74.25,2025-03-01,none
+P1013,Orbit Room Heater,Home Appliances,Nexora,543.99,2024-12-15,motor
+P1014,Zenith Air Purifier,Home Appliances,Lumio,501.22,2025-03-22,none
+P1015,Nexora Coffee Maker,Home Appliances,Nova,253.03,2024-10-19,none
+P1016,Lumio Fitness Band,Fitness & Wearables,Pulse,584.27,2025-06-23,none
+P1017,Nova Smart Scale,Fitness & Wearables,Vertex,513.71,2025-04-26,none
+P1018,Pulse Massage Gun,Fitness & Wearables,Aster,322.03,2024-11-23,charging
+P1019,Vertex Yoga Mat,Fitness & Wearables,Orbit,61.94,2025-02-27,none
+P1020,Aster Exercise Bike,Fitness & Wearables,Zenith,455.08,2024-11-12,none
+P1021,Orbit Treadmill,Fitness & Wearables,Nexora,493.03,2025-01-09,none
+P1022,Zenith Hair Dryer,Personal Care,Lumio,235.38,2025-06-22,none
+P1023,Nexora Electric Shaver,Personal Care,Nova,262.83,2024-10-21,none
+P1024,Lumio Trimmer,Personal Care,Pulse,151.52,2025-02-06,durability
+P1025,Nova Face Cleansing Brush,Personal Care,Vertex,114.9,2025-04-06,none
+P1026,Pulse Water Flosser,Personal Care,Aster,174.55,2025-02-07,none
+P1027,Vertex Hair Styler,Personal Care,Orbit,446.94,2025-06-14,none
+P1028,Aster Non-stick Cookware Set,Home & Kitchen,Zenith,547.1,2025-01-28,none
+P1029,Orbit Food Storage Set,Home & Kitchen,Nexora,465.66,2024-10-27,size_fit
+P1030,Zenith Water Bottle,Home & Kitchen,Lumio,546.84,2024-12-25,none
+P1031,Nexora Desk Lamp,Home & Kitchen,Nova,529.93,2025-05-18,none
+P1032,Lumio Kitchen Scale,Home & Kitchen,Pulse,212.32,2025-01-14,none
+P1033,Nova Knife Set,Home & Kitchen,Vertex,454.73,2025-03-23,none
+P1034,Pulse Bedsheet Set,Home & Kitchen,Aster,157.94,2024-11-08,packaging
+P1035,Vertex Laptop Sleeve,Accessories,Orbit,39.53,2025-05-06,none
+P1036,Aster USB-C Hub,Accessories,Zenith,443.88,2025-05-03,none
+P1037,Orbit Phone Case,Accessories,Nexora,468.68,2024-12-15,connectivity
+P1038,Zenith Charging Cable,Accessories,Lumio,317.23,2025-05-02,none
+P1039,Nexora Wireless Charger,Accessories,Nova,384.78,2024-10-11,none
+P1040,Lumio Car Phone Mount,Accessories,Pulse,105.44,2024-11-08,compatibility

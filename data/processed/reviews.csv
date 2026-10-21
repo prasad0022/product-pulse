@@ -1,0 +1,2201 @@
+review_id,product_id,customer_id,review_date,rating,review_text
+RV000001,P1035,C0384,2025-11-28,4,Good quality and works as expected.
+RV000002,P1012,C0493,2025-06-22,4,Value for money.
+RV000003,P1008,C0098,2025-06-28,4,Performance is acceptable.
+RV000004,P1022,C0053,2025-11-18,4,Value for money.
+RV000005,P1021,C0298,2025-03-27,5,Happy with the purchase.
+RV000006,P1035,C0120,2025-01-05,5,Value for money.
+RV000007,P1027,C0168,2025-03-17,5,Value for money.
+RV000008,P1036,C0180,2025-10-28,2,Expected better quality.
+RV000009,P1011,C0148,2025-02-18,4,Performance is acceptable.
+RV000010,P1026,C0205,2025-07-31,2,Expected better quality.
+RV000011,P1016,C0416,2025-09-30,4,Performance is acceptable.
+RV000012,P1006,C0490,2025-07-21,2,Expected better quality.
+RV000013,P1003,C0191,2025-11-28,1,Delivery was late.
+RV000014,P1019,C0482,2025-09-11,5,Good quality and works as expected.
+RV000015,P1006,C0380,2025-10-25,4,Performance is acceptable.
+RV000016,P1023,C0150,2025-12-23,4,Happy with the purchase.
+RV000017,P1018,C0175,2025-11-17,5,Performance is acceptable.
+RV000018,P1014,C0143,2025-07-18,2,Expected better quality.
+RV000019,P1027,C0441,2025-05-25,5,Value for money.
+RV000020,P1031,C0480,2025-03-31,5,Performance is acceptable.
+RV000021,P1020,C0300,2025-11-27,5,Happy with the purchase.
+RV000022,P1014,C0222,2025-10-23,5,Good quality and works as expected.
+RV000023,P1001,C0439,2025-06-09,5,Performance is acceptable.
+RV000024,P1039,C0095,2025-02-27,5,Value for money.
+RV000025,P1020,C0273,2025-02-17,5,Happy with the purchase.
+RV000026,P1014,C0037,2025-11-28,5,Value for money.
+RV000027,P1001,C0465,2025-03-31,5,Performance is acceptable.
+RV000028,P1025,C0292,2025-01-24,5,Value for money.
+RV000029,P1003,C0359,2025-06-29,2,Expected better quality.
+RV000030,P1007,C0059,2025-09-21,5,Happy with the purchase.
+RV000031,P1040,C0261,2025-07-26,3,It does not work with my device.
+RV000032,P1038,C0106,2025-10-30,4,Happy with the purchase.
+RV000033,P1006,C0300,2025-05-26,5,Happy with the purchase.
+RV000034,P1008,C0178,2025-08-24,4,Good quality and works as expected.
+RV000035,P1006,C0415,2025-07-11,4,Value for money.
+RV000036,P1034,C0075,2025-01-14,5,Performance is acceptable.
+RV000037,P1035,C0046,2025-06-29,5,Value for money.
+RV000038,P1033,C0433,2025-10-30,5,Happy with the purchase.
+RV000039,P1013,C0076,2025-04-03,4,Value for money.
+RV000040,P1025,C0038,2025-08-24,1,The product is okay but not great.
+RV000041,P1011,C0389,2025-03-26,5,Happy with the purchase.
+RV000042,P1029,C0106,2025-08-15,5,Value for money.
+RV000043,P1036,C0316,2025-05-17,5,Happy with the purchase.
+RV000044,P1008,C0494,2025-10-13,5,Happy with the purchase.
+RV000045,P1033,C0373,2025-07-23,5,Happy with the purchase.
+RV000046,P1010,C0426,2025-06-22,5,Good quality and works as expected.
+RV000047,P1035,C0256,2025-07-11,4,Good quality and works as expected.
+RV000048,P1035,C0310,2025-09-21,2,The product is okay but not great.
+RV000049,P1013,C0296,2025-06-19,2,The motor started making unusual noise.
+RV000050,P1018,C0447,2025-02-28,5,Good quality and works as expected.
+RV000051,P1006,C0070,2025-02-20,4,Value for money.
+RV000052,P1024,C0474,2025-12-30,2,The product broke sooner than expected.
+RV000053,P1025,C0112,2025-06-26,5,Good quality and works as expected.
+RV000054,P1027,C0009,2025-05-21,2,Delivery was late.
+RV000055,P1002,C0242,2025-03-30,5,Value for money.
+RV000056,P1022,C0499,2025-12-04,4,Happy with the purchase.
+RV000057,P1012,C0228,2025-09-20,5,Happy with the purchase.
+RV000058,P1030,C0376,2025-07-25,5,Good quality and works as expected.
+RV000059,P1021,C0365,2025-10-21,4,Performance is acceptable.
+RV000060,P1028,C0424,2025-08-19,5,Performance is acceptable.
+RV000061,P1019,C0272,2025-10-31,5,Happy with the purchase.
+RV000062,P1033,C0146,2025-04-18,5,Good quality and works as expected.
+RV000063,P1023,C0092,2025-10-31,5,Performance is acceptable.
+RV000064,P1022,C0172,2025-07-29,5,Value for money.
+RV000065,P1007,C0091,2025-11-28,1,Delivery was late.
+RV000066,P1022,C0284,2025-08-31,5,Happy with the purchase.
+RV000067,P1014,C0385,2025-09-16,5,Value for money.
+RV000068,P1004,C0224,2025-09-14,2,Delivery was late.
+RV000069,P1024,C0178,2025-11-30,2,Build quality does not feel durable.
+RV000070,P1023,C0344,2025-11-24,5,Happy with the purchase.
+RV000071,P1035,C0238,2025-01-26,2,Delivery was late.
+RV000072,P1007,C0473,2025-04-25,5,Good quality and works as expected.
+RV000073,P1029,C0297,2025-10-20,2,Fit is uncomfortable.
+RV000074,P1025,C0293,2025-02-26,5,Good quality and works as expected.
+RV000075,P1015,C0168,2025-01-23,5,Happy with the purchase.
+RV000076,P1011,C0021,2025-10-31,5,Value for money.
+RV000077,P1004,C0344,2025-06-15,4,Performance is acceptable.
+RV000078,P1029,C0047,2025-07-25,2,The size did not match the description.
+RV000079,P1035,C0301,2025-12-24,5,Value for money.
+RV000080,P1028,C0370,2025-07-30,5,Value for money.
+RV000081,P1022,C0277,2025-12-24,5,Value for money.
+RV000082,P1013,C0052,2025-12-15,3,The device stopped working during normal use.
+RV000083,P1023,C0198,2025-07-29,5,Happy with the purchase.
+RV000084,P1009,C0027,2025-11-29,5,Happy with the purchase.
+RV000085,P1026,C0398,2025-04-26,5,Performance is acceptable.
+RV000086,P1038,C0257,2025-09-14,5,Performance is acceptable.
+RV000087,P1002,C0282,2025-12-25,5,Happy with the purchase.
+RV000088,P1002,C0391,2025-07-29,5,Happy with the purchase.
+RV000089,P1024,C0402,2025-10-20,5,Value for money.
+RV000090,P1029,C0101,2025-06-30,3,Sizing information was misleading.
+RV000091,P1005,C0263,2025-05-14,5,Good quality and works as expected.
+RV000092,P1008,C0430,2025-10-29,5,Value for money.
+RV000093,P1037,C0050,2025-10-16,3,Connection drops frequently.
+RV000094,P1024,C0084,2025-11-09,5,Happy with the purchase.
+RV000095,P1040,C0451,2025-11-30,5,Good quality and works as expected.
+RV000096,P1007,C0220,2025-10-30,4,Happy with the purchase.
+RV000097,P1015,C0239,2025-11-27,4,Value for money.
+RV000098,P1001,C0462,2025-08-31,4,Value for money.
+RV000099,P1035,C0391,2025-08-18,5,Performance is acceptable.
+RV000100,P1038,C0412,2025-12-26,5,Value for money.
+RV000101,P1029,C0470,2025-10-07,1,Fit is uncomfortable.
+RV000102,P1024,C0398,2025-04-24,5,Good quality and works as expected.
+RV000103,P1001,C0161,2025-02-11,5,Value for money.
+RV000104,P1010,C0465,2025-09-13,5,Value for money.
+RV000105,P1001,C0413,2025-01-16,5,Happy with the purchase.
+RV000106,P1005,C0229,2025-03-25,3,Charging has become unreliable after a few weeks.
+RV000107,P1036,C0111,2025-05-28,5,Value for money.
+RV000108,P1006,C0297,2025-06-09,5,Good quality and works as expected.
+RV000109,P1006,C0243,2025-08-26,5,Good quality and works as expected.
+RV000110,P1018,C0129,2025-09-30,2,Charging is intermittent.
+RV000111,P1005,C0363,2025-10-26,5,Performance is acceptable.
+RV000112,P1034,C0347,2025-11-25,2,The item arrived with visible damage.
+RV000113,P1011,C0391,2025-02-17,3,Delivery was late.
+RV000114,P1001,C0132,2025-11-16,2,Expected better quality.
+RV000115,P1020,C0153,2025-10-30,5,Good quality and works as expected.
+RV000116,P1027,C0194,2025-04-05,4,Happy with the purchase.
+RV000117,P1001,C0158,2025-06-30,5,Happy with the purchase.
+RV000118,P1021,C0001,2025-01-31,4,Happy with the purchase.
+RV000119,P1038,C0028,2025-12-31,1,Expected better quality.
+RV000120,P1027,C0383,2025-12-15,5,Value for money.
+RV000121,P1030,C0467,2025-03-11,4,Value for money.
+RV000122,P1014,C0344,2025-04-30,4,Good quality and works as expected.
+RV000123,P1022,C0200,2025-03-30,5,Happy with the purchase.
+RV000124,P1022,C0432,2025-08-09,2,Delivery was late.
+RV000125,P1032,C0105,2025-07-21,5,Value for money.
+RV000126,P1011,C0144,2025-11-27,5,Performance is acceptable.
+RV000127,P1001,C0440,2025-10-16,5,Happy with the purchase.
+RV000128,P1023,C0473,2025-08-27,5,Happy with the purchase.
+RV000129,P1037,C0255,2025-12-30,4,Performance is acceptable.
+RV000130,P1018,C0328,2025-06-29,4,Happy with the purchase.
+RV000131,P1026,C0123,2025-03-30,4,Happy with the purchase.
+RV000132,P1027,C0276,2025-11-05,5,Good quality and works as expected.
+RV000133,P1034,C0058,2025-09-12,3,The item arrived with damaged packaging.
+RV000134,P1008,C0399,2025-12-13,4,Happy with the purchase.
+RV000135,P1017,C0141,2025-04-22,5,Good quality and works as expected.
+RV000136,P1030,C0405,2025-03-24,4,Happy with the purchase.
+RV000137,P1038,C0169,2025-07-18,5,Performance is acceptable.
+RV000138,P1032,C0314,2025-01-21,5,Happy with the purchase.
+RV000139,P1028,C0413,2025-08-27,4,Happy with the purchase.
+RV000140,P1019,C0078,2025-10-16,5,Happy with the purchase.
+RV000141,P1025,C0028,2025-10-30,4,Value for money.
+RV000142,P1022,C0425,2025-11-28,5,Performance is acceptable.
+RV000143,P1016,C0330,2025-08-24,2,The product is okay but not great.
+RV000144,P1013,C0184,2025-02-09,5,Happy with the purchase.
+RV000145,P1005,C0349,2025-02-22,4,Value for money.
+RV000146,P1038,C0275,2025-10-21,4,Value for money.
+RV000147,P1028,C0090,2025-04-27,5,Performance is acceptable.
+RV000148,P1031,C0150,2025-06-21,5,Good quality and works as expected.
+RV000149,P1035,C0095,2025-07-19,4,Happy with the purchase.
+RV000150,P1031,C0490,2025-01-28,5,Value for money.
+RV000151,P1039,C0448,2025-01-29,5,Good quality and works as expected.
+RV000152,P1021,C0250,2025-10-08,2,The product is okay but not great.
+RV000153,P1017,C0079,2025-07-25,5,Value for money.
+RV000154,P1023,C0117,2025-11-30,5,Performance is acceptable.
+RV000155,P1007,C0175,2025-07-26,2,Expected better quality.
+RV000156,P1036,C0009,2025-06-26,5,Performance is acceptable.
+RV000157,P1023,C0438,2025-10-30,5,Value for money.
+RV000158,P1035,C0491,2025-03-31,5,Performance is acceptable.
+RV000159,P1038,C0017,2025-09-16,4,Value for money.
+RV000160,P1027,C0149,2025-03-27,5,Value for money.
+RV000161,P1021,C0020,2025-11-27,4,Performance is acceptable.
+RV000162,P1030,C0466,2025-06-28,5,Performance is acceptable.
+RV000163,P1038,C0303,2025-04-27,5,Happy with the purchase.
+RV000164,P1036,C0426,2025-12-07,4,Performance is acceptable.
+RV000165,P1006,C0044,2025-01-31,4,Value for money.
+RV000166,P1028,C0094,2025-05-19,5,Happy with the purchase.
+RV000167,P1037,C0357,2025-06-20,4,Good quality and works as expected.
+RV000168,P1019,C0012,2025-04-29,5,Good quality and works as expected.
+RV000169,P1038,C0175,2025-04-29,1,The product is okay but not great.
+RV000170,P1038,C0041,2025-12-31,4,Happy with the purchase.
+RV000171,P1028,C0274,2025-01-26,4,Performance is acceptable.
+RV000172,P1012,C0037,2025-05-27,1,The product is okay but not great.
+RV000173,P1035,C0243,2025-09-07,1,Delivery was late.
+RV000174,P1028,C0175,2025-05-30,4,Happy with the purchase.
+RV000175,P1027,C0287,2025-01-14,5,Value for money.
+RV000176,P1039,C0407,2025-12-29,5,Performance is acceptable.
+RV000177,P1004,C0092,2025-06-29,4,Performance is acceptable.
+RV000178,P1031,C0210,2025-10-29,5,Happy with the purchase.
+RV000179,P1035,C0258,2025-11-19,5,Happy with the purchase.
+RV000180,P1039,C0287,2025-11-24,5,Performance is acceptable.
+RV000181,P1009,C0464,2025-11-30,5,Value for money.
+RV000182,P1026,C0456,2025-06-30,5,Value for money.
+RV000183,P1003,C0492,2025-03-27,5,Performance is acceptable.
+RV000184,P1035,C0484,2025-10-26,5,Performance is acceptable.
+RV000185,P1019,C0377,2025-07-10,4,Value for money.
+RV000186,P1003,C0093,2025-11-30,5,Value for money.
+RV000187,P1021,C0168,2025-01-30,4,Value for money.
+RV000188,P1017,C0455,2025-11-29,5,Happy with the purchase.
+RV000189,P1025,C0191,2025-05-21,4,Good quality and works as expected.
+RV000190,P1001,C0144,2025-12-31,4,Good quality and works as expected.
+RV000191,P1018,C0422,2025-10-31,1,The device does not always recognize the charger.
+RV000192,P1017,C0251,2025-04-22,5,Happy with the purchase.
+RV000193,P1008,C0418,2025-10-15,5,Value for money.
+RV000194,P1002,C0376,2025-09-11,2,The product is okay but not great.
+RV000195,P1025,C0205,2025-02-15,4,Performance is acceptable.
+RV000196,P1004,C0349,2025-06-24,5,Performance is acceptable.
+RV000197,P1032,C0316,2025-04-27,4,Good quality and works as expected.
+RV000198,P1018,C0399,2025-11-14,3,The device does not always recognize the charger.
+RV000199,P1026,C0211,2025-12-17,5,Good quality and works as expected.
+RV000200,P1006,C0203,2025-10-31,5,Happy with the purchase.
+RV000201,P1014,C0399,2025-03-25,4,Good quality and works as expected.
+RV000202,P1018,C0277,2025-12-31,4,Good quality and works as expected.
+RV000203,P1005,C0454,2025-08-31,1,Battery drains much faster than expected.
+RV000204,P1023,C0463,2025-03-17,4,Happy with the purchase.
+RV000205,P1024,C0056,2025-12-30,1,The product broke sooner than expected.
+RV000206,P1013,C0095,2025-07-22,5,Value for money.
+RV000207,P1022,C0486,2025-09-30,5,Value for money.
+RV000208,P1033,C0431,2025-06-29,4,Value for money.
+RV000209,P1027,C0150,2025-07-13,5,Good quality and works as expected.
+RV000210,P1030,C0469,2025-02-21,5,Good quality and works as expected.
+RV000211,P1021,C0356,2025-02-24,5,Value for money.
+RV000212,P1023,C0192,2025-05-30,5,Happy with the purchase.
+RV000213,P1022,C0064,2025-02-23,5,Happy with the purchase.
+RV000214,P1005,C0063,2025-01-28,5,Value for money.
+RV000215,P1008,C0455,2025-07-26,5,Happy with the purchase.
+RV000216,P1039,C0337,2025-09-04,5,Performance is acceptable.
+RV000217,P1005,C0432,2025-11-26,5,Good quality and works as expected.
+RV000218,P1022,C0099,2025-01-15,4,Performance is acceptable.
+RV000219,P1032,C0329,2025-12-26,5,Good quality and works as expected.
+RV000220,P1027,C0311,2025-01-29,5,Performance is acceptable.
+RV000221,P1028,C0229,2025-01-30,1,Delivery was late.
+RV000222,P1012,C0332,2025-12-30,5,Happy with the purchase.
+RV000223,P1040,C0149,2025-11-30,3,It does not work with my device.
+RV000224,P1007,C0500,2025-10-31,2,Delivery was late.
+RV000225,P1036,C0068,2025-03-26,4,Happy with the purchase.
+RV000226,P1037,C0152,2025-04-23,5,Good quality and works as expected.
+RV000227,P1008,C0252,2025-05-30,5,Good quality and works as expected.
+RV000228,P1021,C0048,2025-05-29,5,Value for money.
+RV000229,P1019,C0468,2025-04-24,1,Expected better quality.
+RV000230,P1037,C0363,2025-06-26,5,Good quality and works as expected.
+RV000231,P1017,C0245,2025-07-16,5,Value for money.
+RV000232,P1021,C0227,2025-07-22,5,Performance is acceptable.
+RV000233,P1014,C0246,2025-01-14,5,Value for money.
+RV000234,P1026,C0345,2025-01-19,5,Good quality and works as expected.
+RV000235,P1033,C0209,2025-01-26,4,Good quality and works as expected.
+RV000236,P1029,C0344,2025-12-31,3,The size did not match the description.
+RV000237,P1025,C0181,2025-11-15,4,Performance is acceptable.
+RV000238,P1008,C0331,2025-04-14,5,Performance is acceptable.
+RV000239,P1034,C0243,2025-02-26,4,Performance is acceptable.
+RV000240,P1038,C0110,2025-12-31,4,Value for money.
+RV000241,P1014,C0123,2025-11-26,5,Happy with the purchase.
+RV000242,P1007,C0454,2025-11-30,5,Value for money.
+RV000243,P1018,C0304,2025-08-30,1,Power connection is unreliable.
+RV000244,P1025,C0369,2025-07-29,4,Happy with the purchase.
+RV000245,P1016,C0480,2025-08-22,5,Performance is acceptable.
+RV000246,P1039,C0330,2025-12-29,4,Happy with the purchase.
+RV000247,P1017,C0259,2025-07-17,5,Value for money.
+RV000248,P1025,C0227,2025-05-19,4,Performance is acceptable.
+RV000249,P1028,C0224,2025-10-30,4,Value for money.
+RV000250,P1001,C0372,2025-03-20,2,Delivery was late.
+RV000251,P1017,C0057,2025-11-27,5,Performance is acceptable.
+RV000252,P1026,C0478,2025-08-03,4,Performance is acceptable.
+RV000253,P1010,C0464,2025-07-09,5,Happy with the purchase.
+RV000254,P1035,C0399,2025-08-27,4,Happy with the purchase.
+RV000255,P1001,C0216,2025-10-30,5,Good quality and works as expected.
+RV000256,P1016,C0261,2025-02-16,1,The product is okay but not great.
+RV000257,P1040,C0015,2025-06-26,3,It does not work with my device.
+RV000258,P1017,C0276,2025-09-29,5,Performance is acceptable.
+RV000259,P1034,C0321,2025-05-28,4,Happy with the purchase.
+RV000260,P1005,C0255,2025-10-25,5,Happy with the purchase.
+RV000261,P1006,C0190,2025-01-31,5,Value for money.
+RV000262,P1017,C0063,2025-06-28,5,Good quality and works as expected.
+RV000263,P1038,C0220,2025-05-28,5,Good quality and works as expected.
+RV000264,P1034,C0431,2025-09-27,4,Performance is acceptable.
+RV000265,P1039,C0447,2025-05-24,5,Value for money.
+RV000266,P1001,C0397,2025-06-28,5,Value for money.
+RV000267,P1011,C0406,2025-10-29,5,Happy with the purchase.
+RV000268,P1008,C0157,2025-09-08,5,Performance is acceptable.
+RV000269,P1021,C0100,2025-05-29,3,The product is okay but not great.
+RV000270,P1029,C0040,2025-02-14,5,Performance is acceptable.
+RV000271,P1031,C0423,2025-09-18,5,Value for money.
+RV000272,P1002,C0123,2025-06-27,5,Happy with the purchase.
+RV000273,P1020,C0216,2025-07-21,5,Happy with the purchase.
+RV000274,P1014,C0331,2025-01-28,4,Happy with the purchase.
+RV000275,P1027,C0364,2025-10-30,5,Happy with the purchase.
+RV000276,P1021,C0370,2025-02-10,4,Value for money.
+RV000277,P1016,C0445,2025-11-16,5,Good quality and works as expected.
+RV000278,P1029,C0264,2025-03-22,5,Value for money.
+RV000279,P1006,C0038,2025-07-30,4,Performance is acceptable.
+RV000280,P1013,C0329,2025-05-26,5,Performance is acceptable.
+RV000281,P1011,C0189,2025-10-15,5,Good quality and works as expected.
+RV000282,P1009,C0333,2025-07-30,4,Good quality and works as expected.
+RV000283,P1019,C0398,2025-02-23,5,Good quality and works as expected.
+RV000284,P1020,C0224,2025-06-28,4,Performance is acceptable.
+RV000285,P1032,C0212,2025-10-26,1,Expected better quality.
+RV000286,P1009,C0429,2025-04-27,4,Good quality and works as expected.
+RV000287,P1025,C0235,2025-10-30,4,Performance is acceptable.
+RV000288,P1035,C0463,2025-04-29,5,Happy with the purchase.
+RV000289,P1004,C0371,2025-01-14,4,Good quality and works as expected.
+RV000290,P1016,C0361,2025-09-12,5,Performance is acceptable.
+RV000291,P1008,C0210,2025-05-20,4,Value for money.
+RV000292,P1015,C0002,2025-04-27,5,Happy with the purchase.
+RV000293,P1031,C0148,2025-07-22,4,Performance is acceptable.
+RV000294,P1006,C0078,2025-02-27,4,Good quality and works as expected.
+RV000295,P1011,C0073,2025-01-28,2,The product is okay but not great.
+RV000296,P1028,C0453,2025-06-30,4,Happy with the purchase.
+RV000297,P1001,C0284,2025-08-22,5,Good quality and works as expected.
+RV000298,P1018,C0298,2025-01-20,5,Performance is acceptable.
+RV000299,P1025,C0161,2025-06-12,5,Performance is acceptable.
+RV000300,P1001,C0286,2025-09-12,5,Good quality and works as expected.
+RV000301,P1010,C0384,2025-03-24,2,Expected better quality.
+RV000302,P1019,C0053,2025-04-27,5,Performance is acceptable.
+RV000303,P1022,C0268,2025-08-29,4,Performance is acceptable.
+RV000304,P1013,C0003,2025-08-25,5,Happy with the purchase.
+RV000305,P1014,C0354,2025-09-23,2,The product is okay but not great.
+RV000306,P1016,C0152,2025-03-08,5,Happy with the purchase.
+RV000307,P1003,C0393,2025-11-14,5,Happy with the purchase.
+RV000308,P1026,C0450,2025-11-25,5,Performance is acceptable.
+RV000309,P1027,C0050,2025-04-19,4,Value for money.
+RV000310,P1037,C0111,2025-06-30,3,Connection drops frequently.
+RV000311,P1038,C0444,2025-06-27,3,The product is okay but not great.
+RV000312,P1030,C0241,2025-06-30,5,Performance is acceptable.
+RV000313,P1030,C0173,2025-01-26,5,Happy with the purchase.
+RV000314,P1028,C0429,2025-02-20,4,Happy with the purchase.
+RV000315,P1024,C0100,2025-08-14,3,The product broke sooner than expected.
+RV000316,P1019,C0120,2025-01-26,5,Value for money.
+RV000317,P1035,C0395,2025-04-28,4,Performance is acceptable.
+RV000318,P1009,C0327,2025-01-29,5,Performance is acceptable.
+RV000319,P1029,C0070,2025-02-27,5,Value for money.
+RV000320,P1028,C0098,2025-05-28,5,Happy with the purchase.
+RV000321,P1010,C0304,2025-01-31,5,Performance is acceptable.
+RV000322,P1035,C0252,2025-08-30,5,Value for money.
+RV000323,P1003,C0025,2025-10-12,5,Performance is acceptable.
+RV000324,P1017,C0339,2025-01-12,5,Happy with the purchase.
+RV000325,P1026,C0416,2025-10-13,5,Value for money.
+RV000326,P1013,C0376,2025-08-11,1,The device stopped working during normal use.
+RV000327,P1033,C0004,2025-06-28,1,The product is okay but not great.
+RV000328,P1036,C0404,2025-09-18,5,Happy with the purchase.
+RV000329,P1016,C0305,2025-03-20,4,Performance is acceptable.
+RV000330,P1028,C0492,2025-04-22,4,Value for money.
+RV000331,P1024,C0442,2025-09-23,5,Good quality and works as expected.
+RV000332,P1015,C0375,2025-08-28,5,Performance is acceptable.
+RV000333,P1005,C0271,2025-04-23,5,Performance is acceptable.
+RV000334,P1028,C0109,2025-02-27,1,The product is okay but not great.
+RV000335,P1007,C0008,2025-12-16,5,Value for money.
+RV000336,P1013,C0066,2025-08-29,2,Performance dropped after a few weeks.
+RV000337,P1027,C0350,2025-06-28,5,Value for money.
+RV000338,P1031,C0401,2025-03-10,5,Value for money.
+RV000339,P1007,C0390,2025-06-26,5,Good quality and works as expected.
+RV000340,P1014,C0004,2025-01-30,5,Good quality and works as expected.
+RV000341,P1038,C0328,2025-11-04,5,Good quality and works as expected.
+RV000342,P1032,C0291,2025-03-30,4,Good quality and works as expected.
+RV000343,P1014,C0400,2025-09-18,4,Performance is acceptable.
+RV000344,P1036,C0332,2025-07-25,4,Good quality and works as expected.
+RV000345,P1039,C0008,2025-04-28,5,Good quality and works as expected.
+RV000346,P1017,C0041,2025-12-15,5,Performance is acceptable.
+RV000347,P1030,C0104,2025-10-18,3,The product is okay but not great.
+RV000348,P1022,C0198,2025-12-25,5,Performance is acceptable.
+RV000349,P1014,C0156,2025-12-09,5,Value for money.
+RV000350,P1008,C0403,2025-01-30,4,Value for money.
+RV000351,P1019,C0302,2025-06-22,5,Performance is acceptable.
+RV000352,P1030,C0246,2025-02-20,1,Expected better quality.
+RV000353,P1006,C0493,2025-02-26,4,Value for money.
+RV000354,P1025,C0490,2025-01-28,2,The product is okay but not great.
+RV000355,P1030,C0169,2025-09-28,2,Expected better quality.
+RV000356,P1035,C0435,2025-10-30,5,Good quality and works as expected.
+RV000357,P1008,C0235,2025-03-29,4,Performance is acceptable.
+RV000358,P1002,C0126,2025-03-31,1,The product is okay but not great.
+RV000359,P1003,C0420,2025-07-03,2,Expected better quality.
+RV000360,P1018,C0177,2025-04-27,2,Charging is intermittent.
+RV000361,P1005,C0017,2025-04-19,2,Battery backup is poor compared with expectations.
+RV000362,P1038,C0355,2025-07-21,5,Performance is acceptable.
+RV000363,P1010,C0014,2025-08-29,5,Happy with the purchase.
+RV000364,P1030,C0175,2025-05-20,4,Happy with the purchase.
+RV000365,P1032,C0044,2025-09-30,4,Performance is acceptable.
+RV000366,P1003,C0412,2025-01-13,5,Good quality and works as expected.
+RV000367,P1036,C0317,2025-05-14,5,Value for money.
+RV000368,P1026,C0369,2025-03-26,4,Performance is acceptable.
+RV000369,P1028,C0457,2025-10-27,2,Delivery was late.
+RV000370,P1035,C0338,2025-03-28,5,Value for money.
+RV000371,P1025,C0238,2025-03-23,4,Good quality and works as expected.
+RV000372,P1029,C0324,2025-04-26,5,Performance is acceptable.
+RV000373,P1034,C0351,2025-01-16,4,Good quality and works as expected.
+RV000374,P1026,C0152,2025-09-23,3,Expected better quality.
+RV000375,P1012,C0151,2025-10-25,3,Delivery was late.
+RV000376,P1001,C0133,2025-11-24,5,Happy with the purchase.
+RV000377,P1022,C0415,2025-08-27,5,Value for money.
+RV000378,P1001,C0162,2025-07-30,5,Good quality and works as expected.
+RV000379,P1028,C0126,2025-05-29,5,Performance is acceptable.
+RV000380,P1011,C0212,2025-08-17,4,Value for money.
+RV000381,P1024,C0019,2025-03-04,5,Good quality and works as expected.
+RV000382,P1004,C0206,2025-07-19,5,Good quality and works as expected.
+RV000383,P1022,C0368,2025-12-07,2,The product is okay but not great.
+RV000384,P1011,C0446,2025-12-21,5,Good quality and works as expected.
+RV000385,P1001,C0384,2025-05-21,4,Happy with the purchase.
+RV000386,P1015,C0321,2025-08-03,3,The product is okay but not great.
+RV000387,P1038,C0130,2025-08-27,4,Happy with the purchase.
+RV000388,P1035,C0412,2025-11-11,5,Good quality and works as expected.
+RV000389,P1029,C0435,2025-06-27,5,Happy with the purchase.
+RV000390,P1007,C0087,2025-07-27,1,Expected better quality.
+RV000391,P1029,C0039,2025-12-20,1,The size did not match the description.
+RV000392,P1005,C0464,2025-02-25,5,Happy with the purchase.
+RV000393,P1026,C0194,2025-04-28,4,Happy with the purchase.
+RV000394,P1019,C0441,2025-05-25,4,Performance is acceptable.
+RV000395,P1040,C0282,2025-09-28,5,Performance is acceptable.
+RV000396,P1028,C0022,2025-02-28,5,Good quality and works as expected.
+RV000397,P1015,C0297,2025-04-23,5,Value for money.
+RV000398,P1023,C0471,2025-12-21,5,Good quality and works as expected.
+RV000399,P1014,C0333,2025-10-31,5,Performance is acceptable.
+RV000400,P1001,C0256,2025-02-27,5,Value for money.
+RV000401,P1034,C0235,2025-04-19,5,Good quality and works as expected.
+RV000402,P1040,C0221,2025-09-25,1,The accessory is incompatible with my setup.
+RV000403,P1011,C0228,2025-05-28,5,Good quality and works as expected.
+RV000404,P1026,C0284,2025-08-28,5,Performance is acceptable.
+RV000405,P1010,C0306,2025-03-23,5,Performance is acceptable.
+RV000406,P1037,C0489,2025-10-23,4,Performance is acceptable.
+RV000407,P1010,C0352,2025-07-31,4,Value for money.
+RV000408,P1029,C0482,2025-02-28,5,Value for money.
+RV000409,P1033,C0176,2025-06-24,5,Good quality and works as expected.
+RV000410,P1017,C0477,2025-05-27,4,Performance is acceptable.
+RV000411,P1008,C0275,2025-08-24,5,Value for money.
+RV000412,P1012,C0298,2025-06-30,5,Good quality and works as expected.
+RV000413,P1036,C0378,2025-05-20,2,Expected better quality.
+RV000414,P1029,C0381,2025-09-26,2,Fit is uncomfortable.
+RV000415,P1032,C0374,2025-06-25,5,Value for money.
+RV000416,P1025,C0365,2025-10-28,5,Performance is acceptable.
+RV000417,P1022,C0021,2025-02-15,4,Performance is acceptable.
+RV000418,P1035,C0201,2025-01-26,1,The product is okay but not great.
+RV000419,P1023,C0168,2025-03-30,5,Happy with the purchase.
+RV000420,P1033,C0430,2025-01-29,4,Good quality and works as expected.
+RV000421,P1038,C0243,2025-03-20,4,Performance is acceptable.
+RV000422,P1008,C0496,2025-07-30,5,Value for money.
+RV000423,P1013,C0011,2025-01-20,4,Good quality and works as expected.
+RV000424,P1004,C0238,2025-01-31,1,Expected better quality.
+RV000425,P1022,C0132,2025-06-11,5,Value for money.
+RV000426,P1004,C0472,2025-10-31,5,Value for money.
+RV000427,P1038,C0320,2025-01-13,1,Delivery was late.
+RV000428,P1032,C0261,2025-02-21,3,The product is okay but not great.
+RV000429,P1039,C0020,2025-08-13,4,Performance is acceptable.
+RV000430,P1038,C0480,2025-03-27,2,The product is okay but not great.
+RV000431,P1012,C0139,2025-06-30,3,Delivery was late.
+RV000432,P1024,C0390,2025-10-28,1,The product broke sooner than expected.
+RV000433,P1010,C0070,2025-07-29,5,Good quality and works as expected.
+RV000434,P1014,C0135,2025-12-02,4,Value for money.
+RV000435,P1014,C0365,2025-01-23,5,Happy with the purchase.
+RV000436,P1039,C0200,2025-09-23,5,Good quality and works as expected.
+RV000437,P1025,C0246,2025-06-26,5,Good quality and works as expected.
+RV000438,P1005,C0341,2025-03-28,5,Value for money.
+RV000439,P1017,C0078,2025-02-10,5,Happy with the purchase.
+RV000440,P1008,C0393,2025-02-11,5,Performance is acceptable.
+RV000441,P1021,C0209,2025-02-26,5,Happy with the purchase.
+RV000442,P1006,C0352,2025-02-07,4,Happy with the purchase.
+RV000443,P1028,C0302,2025-04-29,4,Good quality and works as expected.
+RV000444,P1001,C0058,2025-06-25,5,Value for money.
+RV000445,P1013,C0167,2025-03-12,5,Value for money.
+RV000446,P1035,C0088,2025-08-29,1,The product is okay but not great.
+RV000447,P1017,C0419,2025-05-10,5,Happy with the purchase.
+RV000448,P1009,C0341,2025-04-25,5,Happy with the purchase.
+RV000449,P1014,C0050,2025-11-28,5,Happy with the purchase.
+RV000450,P1022,C0314,2025-01-28,3,Expected better quality.
+RV000451,P1004,C0078,2025-06-28,1,Expected better quality.
+RV000452,P1036,C0263,2025-11-13,5,Performance is acceptable.
+RV000453,P1017,C0109,2025-03-30,4,Good quality and works as expected.
+RV000454,P1014,C0240,2025-12-29,4,Value for money.
+RV000455,P1021,C0316,2025-07-07,5,Good quality and works as expected.
+RV000456,P1016,C0460,2025-12-31,5,Happy with the purchase.
+RV000457,P1019,C0303,2025-12-15,4,Value for money.
+RV000458,P1037,C0165,2025-02-27,1,The device disconnects unexpectedly.
+RV000459,P1007,C0137,2025-07-27,4,Performance is acceptable.
+RV000460,P1014,C0208,2025-02-12,5,Value for money.
+RV000461,P1029,C0365,2025-12-29,3,Sizing information was misleading.
+RV000462,P1016,C0399,2025-01-09,2,Expected better quality.
+RV000463,P1002,C0465,2025-01-21,5,Performance is acceptable.
+RV000464,P1022,C0367,2025-05-28,2,The product is okay but not great.
+RV000465,P1004,C0474,2025-10-22,4,Good quality and works as expected.
+RV000466,P1026,C0233,2025-06-30,5,Good quality and works as expected.
+RV000467,P1011,C0372,2025-09-27,4,Performance is acceptable.
+RV000468,P1019,C0283,2025-09-28,5,Happy with the purchase.
+RV000469,P1016,C0350,2025-09-21,4,Performance is acceptable.
+RV000470,P1011,C0413,2025-07-24,2,Expected better quality.
+RV000471,P1016,C0077,2025-12-25,4,Happy with the purchase.
+RV000472,P1026,C0024,2025-06-04,4,Happy with the purchase.
+RV000473,P1016,C0127,2025-12-20,5,Value for money.
+RV000474,P1033,C0121,2025-09-23,5,Performance is acceptable.
+RV000475,P1007,C0123,2025-01-31,4,Happy with the purchase.
+RV000476,P1013,C0423,2025-07-22,4,Happy with the purchase.
+RV000477,P1027,C0113,2025-12-28,5,Happy with the purchase.
+RV000478,P1014,C0014,2025-04-27,5,Good quality and works as expected.
+RV000479,P1001,C0038,2025-07-07,5,Performance is acceptable.
+RV000480,P1008,C0063,2025-04-10,4,Value for money.
+RV000481,P1012,C0018,2025-09-19,5,Good quality and works as expected.
+RV000482,P1029,C0323,2025-04-23,5,Value for money.
+RV000483,P1036,C0011,2025-01-20,4,Good quality and works as expected.
+RV000484,P1023,C0441,2025-12-27,5,Performance is acceptable.
+RV000485,P1027,C0151,2025-08-12,4,Good quality and works as expected.
+RV000486,P1012,C0262,2025-01-30,1,The product is okay but not great.
+RV000487,P1019,C0011,2025-07-24,5,Good quality and works as expected.
+RV000488,P1005,C0004,2025-09-02,5,Performance is acceptable.
+RV000489,P1009,C0468,2025-05-27,5,Good quality and works as expected.
+RV000490,P1008,C0395,2025-05-22,5,Performance is acceptable.
+RV000491,P1037,C0358,2025-04-12,4,Performance is acceptable.
+RV000492,P1025,C0111,2025-03-23,5,Good quality and works as expected.
+RV000493,P1036,C0276,2025-05-20,4,Value for money.
+RV000494,P1001,C0178,2025-11-20,5,Performance is acceptable.
+RV000495,P1020,C0040,2025-06-08,4,Good quality and works as expected.
+RV000496,P1028,C0119,2025-10-26,5,Performance is acceptable.
+RV000497,P1036,C0220,2025-11-27,4,Value for money.
+RV000498,P1006,C0151,2025-06-29,4,Value for money.
+RV000499,P1020,C0374,2025-06-24,4,Value for money.
+RV000500,P1025,C0144,2025-03-18,5,Happy with the purchase.
+RV000501,P1024,C0155,2025-06-21,4,Happy with the purchase.
+RV000502,P1027,C0302,2025-05-18,3,Expected better quality.
+RV000503,P1014,C0280,2025-06-02,5,Happy with the purchase.
+RV000504,P1036,C0258,2025-01-17,1,Delivery was late.
+RV000505,P1004,C0077,2025-09-05,4,Happy with the purchase.
+RV000506,P1008,C0358,2025-02-23,2,Delivery was late.
+RV000507,P1038,C0116,2025-11-21,1,Delivery was late.
+RV000508,P1009,C0159,2025-01-21,5,Good quality and works as expected.
+RV000509,P1008,C0138,2025-09-30,5,Happy with the purchase.
+RV000510,P1005,C0116,2025-10-25,2,Battery backup is poor compared with expectations.
+RV000511,P1014,C0319,2025-09-15,5,Happy with the purchase.
+RV000512,P1001,C0287,2025-02-28,5,Happy with the purchase.
+RV000513,P1028,C0096,2025-03-15,5,Value for money.
+RV000514,P1035,C0155,2025-12-08,5,Performance is acceptable.
+RV000515,P1003,C0132,2025-08-08,4,Good quality and works as expected.
+RV000516,P1021,C0287,2025-05-29,5,Performance is acceptable.
+RV000517,P1034,C0192,2025-09-13,1,The product box was crushed during delivery.
+RV000518,P1002,C0495,2025-11-28,4,Happy with the purchase.
+RV000519,P1036,C0187,2025-05-20,2,Expected better quality.
+RV000520,P1016,C0338,2025-11-27,5,Value for money.
+RV000521,P1019,C0207,2025-12-29,4,Good quality and works as expected.
+RV000522,P1031,C0370,2025-02-17,5,Happy with the purchase.
+RV000523,P1019,C0095,2025-06-29,5,Good quality and works as expected.
+RV000524,P1018,C0005,2025-05-20,2,The device does not always recognize the charger.
+RV000525,P1008,C0415,2025-08-18,5,Value for money.
+RV000526,P1040,C0109,2025-03-06,4,Happy with the purchase.
+RV000527,P1022,C0493,2025-07-30,5,Value for money.
+RV000528,P1032,C0430,2025-12-31,5,Good quality and works as expected.
+RV000529,P1038,C0420,2025-07-25,3,The product is okay but not great.
+RV000530,P1004,C0055,2025-07-04,5,Value for money.
+RV000531,P1010,C0484,2025-04-06,4,Happy with the purchase.
+RV000532,P1032,C0271,2025-10-19,5,Performance is acceptable.
+RV000533,P1015,C0324,2025-09-28,4,Value for money.
+RV000534,P1025,C0025,2025-01-26,5,Performance is acceptable.
+RV000535,P1001,C0096,2025-11-28,5,Performance is acceptable.
+RV000536,P1037,C0424,2025-01-30,5,Happy with the purchase.
+RV000537,P1012,C0458,2025-08-31,5,Performance is acceptable.
+RV000538,P1024,C0134,2025-03-28,5,Happy with the purchase.
+RV000539,P1002,C0018,2025-11-23,5,Performance is acceptable.
+RV000540,P1018,C0107,2025-08-20,5,Value for money.
+RV000541,P1025,C0293,2025-03-31,4,Good quality and works as expected.
+RV000542,P1002,C0269,2025-11-08,5,Performance is acceptable.
+RV000543,P1006,C0162,2025-12-30,4,Performance is acceptable.
+RV000544,P1034,C0385,2025-10-31,5,Happy with the purchase.
+RV000545,P1021,C0410,2025-06-21,5,Performance is acceptable.
+RV000546,P1006,C0293,2025-08-26,5,Value for money.
+RV000547,P1015,C0063,2025-11-27,4,Good quality and works as expected.
+RV000548,P1011,C0030,2025-05-30,4,Value for money.
+RV000549,P1011,C0232,2025-01-13,5,Good quality and works as expected.
+RV000550,P1026,C0005,2025-11-23,5,Performance is acceptable.
+RV000551,P1015,C0434,2025-02-28,5,Performance is acceptable.
+RV000552,P1007,C0066,2025-11-23,5,Good quality and works as expected.
+RV000553,P1008,C0320,2025-12-11,5,Good quality and works as expected.
+RV000554,P1005,C0478,2025-07-29,2,Charging has become unreliable after a few weeks.
+RV000555,P1031,C0333,2025-09-17,4,Happy with the purchase.
+RV000556,P1027,C0456,2025-07-31,5,Good quality and works as expected.
+RV000557,P1027,C0232,2025-08-26,5,Value for money.
+RV000558,P1038,C0486,2025-08-12,4,Good quality and works as expected.
+RV000559,P1038,C0010,2025-11-30,4,Value for money.
+RV000560,P1030,C0252,2025-12-21,5,Performance is acceptable.
+RV000561,P1012,C0427,2025-06-09,4,Value for money.
+RV000562,P1004,C0292,2025-12-21,4,Value for money.
+RV000563,P1021,C0172,2025-05-27,4,Happy with the purchase.
+RV000564,P1010,C0179,2025-04-13,5,Happy with the purchase.
+RV000565,P1035,C0249,2025-05-26,5,Good quality and works as expected.
+RV000566,P1016,C0452,2025-06-28,5,Happy with the purchase.
+RV000567,P1004,C0135,2025-11-12,5,Performance is acceptable.
+RV000568,P1040,C0105,2025-06-30,4,Good quality and works as expected.
+RV000569,P1015,C0179,2025-06-20,5,Value for money.
+RV000570,P1009,C0014,2025-03-11,4,Good quality and works as expected.
+RV000571,P1009,C0042,2025-01-27,5,Happy with the purchase.
+RV000572,P1012,C0219,2025-12-28,4,Performance is acceptable.
+RV000573,P1013,C0001,2025-07-27,4,Value for money.
+RV000574,P1006,C0214,2025-05-09,5,Happy with the purchase.
+RV000575,P1015,C0219,2025-08-22,5,Value for money.
+RV000576,P1025,C0437,2025-03-21,5,Happy with the purchase.
+RV000577,P1022,C0099,2025-05-23,5,Happy with the purchase.
+RV000578,P1006,C0172,2025-08-21,4,Good quality and works as expected.
+RV000579,P1029,C0152,2025-07-24,4,Good quality and works as expected.
+RV000580,P1032,C0291,2025-02-19,5,Performance is acceptable.
+RV000581,P1017,C0441,2025-03-28,5,Happy with the purchase.
+RV000582,P1003,C0283,2025-01-25,5,Value for money.
+RV000583,P1006,C0291,2025-06-17,5,Happy with the purchase.
+RV000584,P1020,C0275,2025-07-31,4,Good quality and works as expected.
+RV000585,P1038,C0314,2025-10-20,1,Delivery was late.
+RV000586,P1022,C0297,2025-11-30,5,Happy with the purchase.
+RV000587,P1014,C0218,2025-07-22,4,Happy with the purchase.
+RV000588,P1023,C0378,2025-03-24,5,Value for money.
+RV000589,P1028,C0126,2025-05-15,5,Value for money.
+RV000590,P1011,C0243,2025-08-31,5,Good quality and works as expected.
+RV000591,P1032,C0422,2025-05-18,1,Delivery was late.
+RV000592,P1030,C0395,2025-05-23,5,Good quality and works as expected.
+RV000593,P1007,C0080,2025-12-15,5,Good quality and works as expected.
+RV000594,P1029,C0091,2025-04-14,4,Performance is acceptable.
+RV000595,P1003,C0170,2025-06-12,4,Value for money.
+RV000596,P1002,C0477,2025-02-21,4,Good quality and works as expected.
+RV000597,P1024,C0444,2025-05-24,2,Build quality does not feel durable.
+RV000598,P1005,C0376,2025-12-27,3,Battery backup is poor compared with expectations.
+RV000599,P1014,C0419,2025-08-27,5,Performance is acceptable.
+RV000600,P1011,C0264,2025-12-27,1,Delivery was late.
+RV000601,P1016,C0049,2025-10-31,1,Delivery was late.
+RV000602,P1006,C0262,2025-07-30,5,Happy with the purchase.
+RV000603,P1025,C0176,2025-10-18,4,Performance is acceptable.
+RV000604,P1016,C0475,2025-09-27,4,Happy with the purchase.
+RV000605,P1026,C0369,2025-07-18,5,Performance is acceptable.
+RV000606,P1027,C0413,2025-01-29,5,Performance is acceptable.
+RV000607,P1019,C0485,2025-12-02,4,Happy with the purchase.
+RV000608,P1035,C0428,2025-07-30,5,Value for money.
+RV000609,P1023,C0245,2025-06-17,4,Value for money.
+RV000610,P1011,C0064,2025-03-26,5,Good quality and works as expected.
+RV000611,P1038,C0327,2025-08-05,5,Value for money.
+RV000612,P1001,C0237,2025-08-30,4,Happy with the purchase.
+RV000613,P1033,C0375,2025-03-21,5,Performance is acceptable.
+RV000614,P1028,C0442,2025-09-30,5,Performance is acceptable.
+RV000615,P1021,C0365,2025-07-21,5,Good quality and works as expected.
+RV000616,P1039,C0475,2025-03-10,5,Good quality and works as expected.
+RV000617,P1031,C0012,2025-05-29,4,Performance is acceptable.
+RV000618,P1040,C0223,2025-10-25,5,Value for money.
+RV000619,P1029,C0318,2025-01-27,4,Performance is acceptable.
+RV000620,P1032,C0257,2025-01-28,4,Performance is acceptable.
+RV000621,P1022,C0103,2025-05-04,2,The product is okay but not great.
+RV000622,P1015,C0079,2025-02-27,1,The product is okay but not great.
+RV000623,P1040,C0437,2025-01-26,5,Value for money.
+RV000624,P1004,C0066,2025-05-11,4,Good quality and works as expected.
+RV000625,P1003,C0351,2025-09-20,5,Performance is acceptable.
+RV000626,P1013,C0145,2025-04-19,5,Value for money.
+RV000627,P1008,C0490,2025-03-26,4,Performance is acceptable.
+RV000628,P1001,C0194,2025-05-31,4,Value for money.
+RV000629,P1015,C0138,2025-07-23,5,Good quality and works as expected.
+RV000630,P1017,C0063,2025-05-31,4,Value for money.
+RV000631,P1017,C0014,2025-12-31,5,Value for money.
+RV000632,P1029,C0389,2025-01-05,5,Value for money.
+RV000633,P1006,C0241,2025-02-21,4,Good quality and works as expected.
+RV000634,P1038,C0017,2025-12-07,5,Performance is acceptable.
+RV000635,P1027,C0068,2025-06-06,5,Good quality and works as expected.
+RV000636,P1039,C0073,2025-06-17,4,Good quality and works as expected.
+RV000637,P1028,C0146,2025-12-07,2,The product is okay but not great.
+RV000638,P1022,C0148,2025-09-18,4,Happy with the purchase.
+RV000639,P1025,C0458,2025-09-29,5,Value for money.
+RV000640,P1024,C0293,2025-07-25,4,Good quality and works as expected.
+RV000641,P1008,C0248,2025-11-18,1,Delivery was late.
+RV000642,P1023,C0188,2025-02-20,5,Happy with the purchase.
+RV000643,P1005,C0338,2025-08-26,2,Battery drains much faster than expected.
+RV000644,P1015,C0064,2025-06-21,5,Value for money.
+RV000645,P1033,C0469,2025-11-24,5,Good quality and works as expected.
+RV000646,P1032,C0172,2025-12-27,1,Expected better quality.
+RV000647,P1025,C0406,2025-05-31,5,Happy with the purchase.
+RV000648,P1012,C0391,2025-07-31,4,Value for money.
+RV000649,P1039,C0179,2025-11-30,4,Good quality and works as expected.
+RV000650,P1035,C0365,2025-08-13,4,Performance is acceptable.
+RV000651,P1021,C0139,2025-06-27,5,Happy with the purchase.
+RV000652,P1003,C0013,2025-02-21,5,Value for money.
+RV000653,P1038,C0376,2025-08-31,5,Good quality and works as expected.
+RV000654,P1007,C0209,2025-09-27,5,Happy with the purchase.
+RV000655,P1039,C0222,2025-09-24,5,Value for money.
+RV000656,P1009,C0202,2025-03-16,4,Good quality and works as expected.
+RV000657,P1016,C0244,2025-08-27,4,Happy with the purchase.
+RV000658,P1016,C0050,2025-03-25,4,Good quality and works as expected.
+RV000659,P1034,C0359,2025-11-29,1,The item arrived with damaged packaging.
+RV000660,P1036,C0272,2025-04-29,5,Good quality and works as expected.
+RV000661,P1006,C0280,2025-10-29,5,Performance is acceptable.
+RV000662,P1038,C0435,2025-05-27,5,Good quality and works as expected.
+RV000663,P1008,C0042,2025-12-23,4,Happy with the purchase.
+RV000664,P1030,C0199,2025-01-16,4,Value for money.
+RV000665,P1017,C0199,2025-11-23,5,Happy with the purchase.
+RV000666,P1007,C0473,2025-09-11,5,Performance is acceptable.
+RV000667,P1036,C0456,2025-10-24,5,Happy with the purchase.
+RV000668,P1006,C0467,2025-09-14,5,Performance is acceptable.
+RV000669,P1017,C0452,2025-12-28,5,Value for money.
+RV000670,P1015,C0047,2025-10-29,4,Happy with the purchase.
+RV000671,P1001,C0413,2025-03-27,5,Value for money.
+RV000672,P1001,C0356,2025-05-26,5,Happy with the purchase.
+RV000673,P1014,C0413,2025-07-11,4,Value for money.
+RV000674,P1013,C0106,2025-07-25,3,The device stopped working during normal use.
+RV000675,P1015,C0045,2025-03-31,2,Delivery was late.
+RV000676,P1038,C0081,2025-06-13,5,Good quality and works as expected.
+RV000677,P1023,C0025,2025-05-31,4,Good quality and works as expected.
+RV000678,P1026,C0121,2025-05-31,5,Performance is acceptable.
+RV000679,P1011,C0313,2025-07-17,2,Delivery was late.
+RV000680,P1013,C0197,2025-11-27,2,The device stopped working during normal use.
+RV000681,P1021,C0119,2025-11-26,1,Expected better quality.
+RV000682,P1005,C0318,2025-03-23,4,Value for money.
+RV000683,P1007,C0386,2025-07-31,2,The product is okay but not great.
+RV000684,P1014,C0410,2025-06-30,5,Good quality and works as expected.
+RV000685,P1035,C0032,2025-11-28,3,The product is okay but not great.
+RV000686,P1013,C0241,2025-05-28,5,Value for money.
+RV000687,P1029,C0270,2025-12-03,4,Happy with the purchase.
+RV000688,P1022,C0355,2025-11-30,4,Happy with the purchase.
+RV000689,P1027,C0006,2025-07-31,5,Performance is acceptable.
+RV000690,P1035,C0381,2025-04-18,4,Good quality and works as expected.
+RV000691,P1026,C0009,2025-10-17,5,Value for money.
+RV000692,P1019,C0098,2025-02-20,5,Happy with the purchase.
+RV000693,P1008,C0038,2025-02-28,1,The product is okay but not great.
+RV000694,P1016,C0021,2025-10-27,4,Performance is acceptable.
+RV000695,P1005,C0419,2025-07-27,5,Happy with the purchase.
+RV000696,P1035,C0404,2025-04-19,5,Happy with the purchase.
+RV000697,P1014,C0096,2025-08-26,4,Performance is acceptable.
+RV000698,P1006,C0070,2025-04-23,5,Good quality and works as expected.
+RV000699,P1004,C0136,2025-01-13,5,Performance is acceptable.
+RV000700,P1026,C0297,2025-08-22,5,Value for money.
+RV000701,P1025,C0437,2025-07-28,2,The product is okay but not great.
+RV000702,P1010,C0407,2025-12-08,1,Delivery was late.
+RV000703,P1029,C0024,2025-08-20,2,The size did not match the description.
+RV000704,P1022,C0306,2025-04-29,5,Performance is acceptable.
+RV000705,P1008,C0088,2025-12-25,4,Performance is acceptable.
+RV000706,P1015,C0393,2025-02-10,4,Performance is acceptable.
+RV000707,P1025,C0235,2025-10-23,5,Performance is acceptable.
+RV000708,P1027,C0363,2025-02-28,4,Good quality and works as expected.
+RV000709,P1003,C0075,2025-11-28,4,Happy with the purchase.
+RV000710,P1017,C0069,2025-07-27,1,Expected better quality.
+RV000711,P1007,C0182,2025-01-31,5,Good quality and works as expected.
+RV000712,P1029,C0023,2025-05-26,1,The size did not match the description.
+RV000713,P1034,C0112,2025-01-30,5,Happy with the purchase.
+RV000714,P1032,C0464,2025-03-26,5,Value for money.
+RV000715,P1016,C0167,2025-01-31,5,Happy with the purchase.
+RV000716,P1023,C0429,2025-09-24,5,Value for money.
+RV000717,P1028,C0098,2025-09-14,5,Value for money.
+RV000718,P1007,C0328,2025-10-26,5,Value for money.
+RV000719,P1022,C0282,2025-04-30,4,Good quality and works as expected.
+RV000720,P1003,C0020,2025-03-09,4,Value for money.
+RV000721,P1016,C0370,2025-11-22,4,Happy with the purchase.
+RV000722,P1024,C0315,2025-10-30,4,Value for money.
+RV000723,P1026,C0203,2025-10-30,5,Happy with the purchase.
+RV000724,P1026,C0166,2025-05-25,2,Expected better quality.
+RV000725,P1034,C0385,2025-06-26,1,The product box was crushed during delivery.
+RV000726,P1007,C0119,2025-01-30,1,Delivery was late.
+RV000727,P1037,C0209,2025-08-30,1,Pairing is unreliable.
+RV000728,P1031,C0157,2025-03-26,4,Good quality and works as expected.
+RV000729,P1001,C0354,2025-09-22,5,Good quality and works as expected.
+RV000730,P1025,C0451,2025-08-28,4,Value for money.
+RV000731,P1039,C0272,2025-09-29,2,Delivery was late.
+RV000732,P1032,C0122,2025-01-25,5,Value for money.
+RV000733,P1006,C0127,2025-09-30,3,The product is okay but not great.
+RV000734,P1012,C0008,2025-06-29,4,Happy with the purchase.
+RV000735,P1018,C0464,2025-04-25,5,Value for money.
+RV000736,P1021,C0182,2025-06-27,4,Happy with the purchase.
+RV000737,P1006,C0220,2025-01-22,4,Happy with the purchase.
+RV000738,P1011,C0198,2025-04-30,4,Performance is acceptable.
+RV000739,P1003,C0185,2025-09-30,5,Happy with the purchase.
+RV000740,P1035,C0119,2025-06-22,5,Good quality and works as expected.
+RV000741,P1002,C0230,2025-07-21,4,Performance is acceptable.
+RV000742,P1034,C0369,2025-12-25,1,The item arrived with visible damage.
+RV000743,P1007,C0278,2025-05-10,5,Good quality and works as expected.
+RV000744,P1021,C0476,2025-04-21,2,The product is okay but not great.
+RV000745,P1011,C0471,2025-08-29,4,Performance is acceptable.
+RV000746,P1039,C0018,2025-05-25,5,Good quality and works as expected.
+RV000747,P1034,C0270,2025-11-21,2,The item arrived with damaged packaging.
+RV000748,P1014,C0438,2025-08-29,5,Happy with the purchase.
+RV000749,P1008,C0022,2025-05-21,5,Value for money.
+RV000750,P1030,C0165,2025-04-30,5,Good quality and works as expected.
+RV000751,P1014,C0205,2025-05-24,5,Performance is acceptable.
+RV000752,P1004,C0403,2025-11-29,4,Performance is acceptable.
+RV000753,P1038,C0256,2025-07-28,4,Happy with the purchase.
+RV000754,P1035,C0418,2025-10-30,5,Happy with the purchase.
+RV000755,P1020,C0152,2025-09-20,4,Happy with the purchase.
+RV000756,P1008,C0401,2025-03-05,5,Performance is acceptable.
+RV000757,P1016,C0453,2025-10-17,4,Value for money.
+RV000758,P1030,C0226,2025-12-30,4,Value for money.
+RV000759,P1039,C0003,2025-03-12,1,Delivery was late.
+RV000760,P1019,C0137,2025-10-08,4,Value for money.
+RV000761,P1035,C0252,2025-05-21,5,Value for money.
+RV000762,P1006,C0039,2025-02-24,4,Happy with the purchase.
+RV000763,P1002,C0347,2025-09-30,4,Happy with the purchase.
+RV000764,P1026,C0218,2025-05-12,4,Performance is acceptable.
+RV000765,P1025,C0401,2025-10-20,4,Performance is acceptable.
+RV000766,P1022,C0164,2025-11-20,4,Value for money.
+RV000767,P1006,C0392,2025-06-27,4,Performance is acceptable.
+RV000768,P1003,C0495,2025-01-28,5,Good quality and works as expected.
+RV000769,P1037,C0379,2025-01-14,4,Happy with the purchase.
+RV000770,P1004,C0480,2025-06-29,5,Happy with the purchase.
+RV000771,P1012,C0302,2025-11-25,5,Value for money.
+RV000772,P1010,C0032,2025-03-19,5,Happy with the purchase.
+RV000773,P1030,C0252,2025-04-30,5,Value for money.
+RV000774,P1031,C0062,2025-08-18,5,Good quality and works as expected.
+RV000775,P1040,C0198,2025-02-24,4,Happy with the purchase.
+RV000776,P1030,C0108,2025-03-24,5,Value for money.
+RV000777,P1028,C0207,2025-08-09,4,Good quality and works as expected.
+RV000778,P1014,C0233,2025-06-30,5,Performance is acceptable.
+RV000779,P1031,C0145,2025-09-25,5,Performance is acceptable.
+RV000780,P1003,C0156,2025-01-28,3,Delivery was late.
+RV000781,P1014,C0489,2025-10-25,4,Performance is acceptable.
+RV000782,P1012,C0405,2025-04-19,2,The product is okay but not great.
+RV000783,P1015,C0032,2025-05-30,2,Delivery was late.
+RV000784,P1004,C0100,2025-01-25,1,Delivery was late.
+RV000785,P1031,C0016,2025-06-25,4,Happy with the purchase.
+RV000786,P1023,C0160,2025-04-30,5,Performance is acceptable.
+RV000787,P1012,C0434,2025-04-29,5,Happy with the purchase.
+RV000788,P1027,C0483,2025-06-24,5,Good quality and works as expected.
+RV000789,P1002,C0410,2025-04-24,3,The product is okay but not great.
+RV000790,P1006,C0037,2025-10-24,5,Value for money.
+RV000791,P1015,C0432,2025-03-30,5,Performance is acceptable.
+RV000792,P1028,C0354,2025-11-20,4,Good quality and works as expected.
+RV000793,P1023,C0257,2025-10-19,2,Delivery was late.
+RV000794,P1022,C0468,2025-07-12,2,Expected better quality.
+RV000795,P1022,C0436,2025-12-31,4,Performance is acceptable.
+RV000796,P1008,C0332,2025-11-16,1,Expected better quality.
+RV000797,P1016,C0392,2025-08-28,5,Good quality and works as expected.
+RV000798,P1007,C0390,2025-03-22,4,Good quality and works as expected.
+RV000799,P1023,C0126,2025-09-25,4,Good quality and works as expected.
+RV000800,P1014,C0111,2025-12-31,5,Good quality and works as expected.
+RV000801,P1023,C0478,2025-01-16,5,Performance is acceptable.
+RV000802,P1014,C0334,2025-07-24,5,Good quality and works as expected.
+RV000803,P1002,C0463,2025-08-24,4,Good quality and works as expected.
+RV000804,P1012,C0171,2025-07-31,5,Good quality and works as expected.
+RV000805,P1022,C0146,2025-04-26,3,Expected better quality.
+RV000806,P1038,C0186,2025-04-18,5,Value for money.
+RV000807,P1035,C0230,2025-10-25,3,The product is okay but not great.
+RV000808,P1017,C0369,2025-11-28,5,Good quality and works as expected.
+RV000809,P1039,C0336,2025-05-27,5,Performance is acceptable.
+RV000810,P1008,C0173,2025-02-18,4,Performance is acceptable.
+RV000811,P1029,C0352,2025-04-05,5,Value for money.
+RV000812,P1019,C0014,2025-07-31,5,Good quality and works as expected.
+RV000813,P1026,C0250,2025-07-26,4,Performance is acceptable.
+RV000814,P1002,C0476,2025-01-17,2,The product is okay but not great.
+RV000815,P1031,C0057,2025-11-24,2,The product is okay but not great.
+RV000816,P1033,C0132,2025-07-29,5,Good quality and works as expected.
+RV000817,P1012,C0321,2025-03-17,4,Value for money.
+RV000818,P1024,C0391,2025-05-20,4,Happy with the purchase.
+RV000819,P1014,C0383,2025-08-26,4,Performance is acceptable.
+RV000820,P1025,C0481,2025-10-30,5,Value for money.
+RV000821,P1039,C0334,2025-05-19,4,Good quality and works as expected.
+RV000822,P1022,C0478,2025-04-08,5,Performance is acceptable.
+RV000823,P1008,C0211,2025-05-30,5,Good quality and works as expected.
+RV000824,P1032,C0184,2025-12-27,5,Good quality and works as expected.
+RV000825,P1004,C0247,2025-06-29,5,Performance is acceptable.
+RV000826,P1027,C0456,2025-12-31,5,Performance is acceptable.
+RV000827,P1014,C0221,2025-07-13,5,Good quality and works as expected.
+RV000828,P1031,C0488,2025-04-30,5,Good quality and works as expected.
+RV000829,P1019,C0244,2025-08-30,5,Happy with the purchase.
+RV000830,P1008,C0099,2025-11-08,5,Performance is acceptable.
+RV000831,P1025,C0414,2025-12-17,4,Happy with the purchase.
+RV000832,P1009,C0058,2025-06-25,5,Good quality and works as expected.
+RV000833,P1035,C0150,2025-02-28,4,Happy with the purchase.
+RV000834,P1037,C0112,2025-05-31,2,The device disconnects unexpectedly.
+RV000835,P1011,C0210,2025-01-31,5,Value for money.
+RV000836,P1011,C0043,2025-09-20,4,Performance is acceptable.
+RV000837,P1027,C0112,2025-10-15,5,Performance is acceptable.
+RV000838,P1032,C0405,2025-08-30,5,Performance is acceptable.
+RV000839,P1023,C0309,2025-07-28,5,Value for money.
+RV000840,P1033,C0075,2025-11-27,5,Happy with the purchase.
+RV000841,P1012,C0018,2025-01-16,4,Performance is acceptable.
+RV000842,P1038,C0150,2025-10-30,4,Happy with the purchase.
+RV000843,P1013,C0063,2025-07-29,5,Good quality and works as expected.
+RV000844,P1004,C0495,2025-01-31,4,Good quality and works as expected.
+RV000845,P1001,C0472,2025-02-06,5,Performance is acceptable.
+RV000846,P1035,C0409,2025-04-11,5,Performance is acceptable.
+RV000847,P1028,C0411,2025-12-08,4,Happy with the purchase.
+RV000848,P1031,C0204,2025-03-27,5,Performance is acceptable.
+RV000849,P1032,C0126,2025-02-09,2,Delivery was late.
+RV000850,P1031,C0302,2025-07-30,5,Value for money.
+RV000851,P1011,C0487,2025-05-30,5,Value for money.
+RV000852,P1040,C0344,2025-08-29,4,Happy with the purchase.
+RV000853,P1038,C0489,2025-03-31,2,Expected better quality.
+RV000854,P1033,C0488,2025-05-05,4,Happy with the purchase.
+RV000855,P1019,C0110,2025-02-15,4,Value for money.
+RV000856,P1034,C0054,2025-08-23,5,Good quality and works as expected.
+RV000857,P1006,C0259,2025-06-30,4,Good quality and works as expected.
+RV000858,P1012,C0132,2025-02-28,5,Value for money.
+RV000859,P1031,C0072,2025-08-30,5,Performance is acceptable.
+RV000860,P1006,C0238,2025-10-15,4,Happy with the purchase.
+RV000861,P1016,C0037,2025-12-30,5,Good quality and works as expected.
+RV000862,P1026,C0258,2025-06-18,5,Performance is acceptable.
+RV000863,P1033,C0112,2025-04-22,4,Happy with the purchase.
+RV000864,P1025,C0483,2025-11-24,5,Good quality and works as expected.
+RV000865,P1002,C0247,2025-12-18,5,Performance is acceptable.
+RV000866,P1038,C0237,2025-10-20,5,Performance is acceptable.
+RV000867,P1012,C0029,2025-10-29,4,Value for money.
+RV000868,P1017,C0472,2025-10-27,1,The product is okay but not great.
+RV000869,P1003,C0499,2025-12-22,4,Happy with the purchase.
+RV000870,P1016,C0125,2025-11-23,4,Happy with the purchase.
+RV000871,P1037,C0040,2025-06-26,4,Performance is acceptable.
+RV000872,P1023,C0366,2025-04-26,2,Delivery was late.
+RV000873,P1016,C0480,2025-03-22,4,Value for money.
+RV000874,P1036,C0355,2025-10-24,5,Value for money.
+RV000875,P1001,C0394,2025-12-30,5,Happy with the purchase.
+RV000876,P1036,C0305,2025-11-26,1,Expected better quality.
+RV000877,P1036,C0087,2025-05-19,1,Expected better quality.
+RV000878,P1011,C0046,2025-04-30,3,Expected better quality.
+RV000879,P1035,C0434,2025-01-18,5,Performance is acceptable.
+RV000880,P1025,C0487,2025-10-24,3,Delivery was late.
+RV000881,P1024,C0343,2025-09-26,5,Good quality and works as expected.
+RV000882,P1002,C0206,2025-08-25,5,Value for money.
+RV000883,P1021,C0322,2025-01-18,5,Value for money.
+RV000884,P1040,C0176,2025-03-12,4,Happy with the purchase.
+RV000885,P1026,C0082,2025-11-30,4,Good quality and works as expected.
+RV000886,P1035,C0092,2025-08-19,3,Expected better quality.
+RV000887,P1016,C0283,2025-01-24,5,Good quality and works as expected.
+RV000888,P1026,C0171,2025-03-22,5,Value for money.
+RV000889,P1004,C0471,2025-09-25,3,The product is okay but not great.
+RV000890,P1026,C0143,2025-01-31,5,Performance is acceptable.
+RV000891,P1011,C0246,2025-02-28,1,The product is okay but not great.
+RV000892,P1030,C0457,2025-04-02,4,Value for money.
+RV000893,P1007,C0137,2025-06-30,5,Happy with the purchase.
+RV000894,P1002,C0068,2025-06-15,5,Value for money.
+RV000895,P1006,C0033,2025-11-29,4,Good quality and works as expected.
+RV000896,P1019,C0405,2025-05-21,5,Happy with the purchase.
+RV000897,P1010,C0235,2025-01-04,5,Performance is acceptable.
+RV000898,P1032,C0334,2025-01-28,5,Good quality and works as expected.
+RV000899,P1013,C0407,2025-04-20,4,Value for money.
+RV000900,P1033,C0172,2025-10-28,5,Value for money.
+RV000901,P1014,C0071,2025-06-27,5,Happy with the purchase.
+RV000902,P1011,C0088,2025-11-15,4,Performance is acceptable.
+RV000903,P1028,C0384,2025-06-26,4,Happy with the purchase.
+RV000904,P1036,C0295,2025-10-26,2,Expected better quality.
+RV000905,P1033,C0114,2025-02-15,2,Expected better quality.
+RV000906,P1033,C0494,2025-09-26,5,Good quality and works as expected.
+RV000907,P1007,C0077,2025-08-24,4,Happy with the purchase.
+RV000908,P1011,C0285,2025-11-05,5,Value for money.
+RV000909,P1018,C0203,2025-08-30,3,Power connection is unreliable.
+RV000910,P1027,C0352,2025-10-25,5,Happy with the purchase.
+RV000911,P1032,C0335,2025-01-07,4,Happy with the purchase.
+RV000912,P1033,C0495,2025-03-28,5,Value for money.
+RV000913,P1020,C0406,2025-07-27,4,Performance is acceptable.
+RV000914,P1004,C0360,2025-09-20,5,Good quality and works as expected.
+RV000915,P1011,C0437,2025-09-29,4,Happy with the purchase.
+RV000916,P1025,C0429,2025-09-24,4,Performance is acceptable.
+RV000917,P1018,C0249,2025-12-18,5,Value for money.
+RV000918,P1011,C0379,2025-10-10,5,Value for money.
+RV000919,P1026,C0221,2025-04-12,5,Good quality and works as expected.
+RV000920,P1011,C0494,2025-09-23,3,Expected better quality.
+RV000921,P1005,C0401,2025-07-28,5,Good quality and works as expected.
+RV000922,P1017,C0410,2025-09-26,5,Happy with the purchase.
+RV000923,P1035,C0223,2025-06-25,4,Performance is acceptable.
+RV000924,P1026,C0299,2025-03-19,5,Happy with the purchase.
+RV000925,P1026,C0035,2025-03-17,5,Happy with the purchase.
+RV000926,P1023,C0160,2025-09-27,3,The product is okay but not great.
+RV000927,P1019,C0280,2025-02-09,5,Value for money.
+RV000928,P1020,C0441,2025-11-21,5,Happy with the purchase.
+RV000929,P1004,C0237,2025-10-31,4,Value for money.
+RV000930,P1031,C0491,2025-08-16,5,Value for money.
+RV000931,P1030,C0465,2025-02-27,5,Value for money.
+RV000932,P1038,C0064,2025-09-28,1,Delivery was late.
+RV000933,P1004,C0375,2025-09-23,5,Value for money.
+RV000934,P1037,C0163,2025-11-30,5,Performance is acceptable.
+RV000935,P1001,C0287,2025-11-05,5,Good quality and works as expected.
+RV000936,P1012,C0384,2025-09-20,5,Performance is acceptable.
+RV000937,P1019,C0099,2025-02-12,5,Happy with the purchase.
+RV000938,P1030,C0122,2025-01-13,1,The product is okay but not great.
+RV000939,P1003,C0201,2025-06-25,4,Performance is acceptable.
+RV000940,P1038,C0118,2025-04-30,3,The product is okay but not great.
+RV000941,P1027,C0356,2025-12-31,1,The product is okay but not great.
+RV000942,P1034,C0284,2025-05-21,5,Value for money.
+RV000943,P1023,C0500,2025-01-28,5,Performance is acceptable.
+RV000944,P1038,C0307,2025-01-29,1,Expected better quality.
+RV000945,P1028,C0068,2025-11-27,5,Value for money.
+RV000946,P1033,C0108,2025-03-27,4,Value for money.
+RV000947,P1035,C0337,2025-08-27,5,Good quality and works as expected.
+RV000948,P1009,C0016,2025-08-27,4,Happy with the purchase.
+RV000949,P1021,C0328,2025-08-23,2,Delivery was late.
+RV000950,P1026,C0422,2025-01-07,2,Delivery was late.
+RV000951,P1006,C0134,2025-11-27,4,Performance is acceptable.
+RV000952,P1036,C0223,2025-05-27,5,Performance is acceptable.
+RV000953,P1026,C0391,2025-02-20,2,Delivery was late.
+RV000954,P1038,C0394,2025-06-13,5,Performance is acceptable.
+RV000955,P1038,C0172,2025-12-15,2,The product is okay but not great.
+RV000956,P1008,C0345,2025-11-21,5,Good quality and works as expected.
+RV000957,P1029,C0260,2025-06-29,4,Happy with the purchase.
+RV000958,P1002,C0040,2025-01-21,5,Performance is acceptable.
+RV000959,P1037,C0426,2025-04-10,5,Performance is acceptable.
+RV000960,P1026,C0142,2025-07-08,5,Value for money.
+RV000961,P1017,C0245,2025-08-25,4,Good quality and works as expected.
+RV000962,P1004,C0193,2025-04-26,1,Delivery was late.
+RV000963,P1003,C0312,2025-06-28,5,Good quality and works as expected.
+RV000964,P1007,C0210,2025-11-23,5,Performance is acceptable.
+RV000965,P1017,C0030,2025-02-05,4,Value for money.
+RV000966,P1001,C0429,2025-04-06,4,Happy with the purchase.
+RV000967,P1004,C0185,2025-11-23,5,Happy with the purchase.
+RV000968,P1034,C0010,2025-10-06,1,The item arrived with visible damage.
+RV000969,P1038,C0292,2025-04-07,5,Good quality and works as expected.
+RV000970,P1009,C0136,2025-10-31,5,Value for money.
+RV000971,P1018,C0179,2025-01-03,5,Good quality and works as expected.
+RV000972,P1011,C0386,2025-03-17,4,Performance is acceptable.
+RV000973,P1005,C0213,2025-05-09,5,Performance is acceptable.
+RV000974,P1037,C0343,2025-09-28,5,Performance is acceptable.
+RV000975,P1001,C0180,2025-12-30,4,Good quality and works as expected.
+RV000976,P1008,C0463,2025-01-16,2,Delivery was late.
+RV000977,P1040,C0258,2025-11-27,2,It does not work with my device.
+RV000978,P1025,C0062,2025-10-22,5,Performance is acceptable.
+RV000979,P1014,C0428,2025-08-30,5,Happy with the purchase.
+RV000980,P1030,C0024,2025-12-11,4,Value for money.
+RV000981,P1009,C0060,2025-12-20,2,Delivery was late.
+RV000982,P1021,C0478,2025-11-30,5,Value for money.
+RV000983,P1028,C0384,2025-07-08,4,Value for money.
+RV000984,P1020,C0148,2025-08-28,3,Expected better quality.
+RV000985,P1039,C0392,2025-08-08,5,Value for money.
+RV000986,P1033,C0104,2025-11-28,3,The product is okay but not great.
+RV000987,P1030,C0082,2025-06-07,5,Happy with the purchase.
+RV000988,P1015,C0083,2025-09-20,3,Delivery was late.
+RV000989,P1012,C0136,2025-07-29,2,Expected better quality.
+RV000990,P1011,C0153,2025-08-04,5,Good quality and works as expected.
+RV000991,P1016,C0012,2025-10-24,5,Value for money.
+RV000992,P1015,C0320,2025-08-23,5,Happy with the purchase.
+RV000993,P1028,C0132,2025-10-31,5,Good quality and works as expected.
+RV000994,P1007,C0048,2025-04-22,5,Value for money.
+RV000995,P1017,C0052,2025-01-16,2,The product is okay but not great.
+RV000996,P1018,C0095,2025-02-28,4,Performance is acceptable.
+RV000997,P1033,C0117,2025-07-13,5,Happy with the purchase.
+RV000998,P1022,C0349,2025-02-09,4,Good quality and works as expected.
+RV000999,P1038,C0314,2025-07-22,4,Happy with the purchase.
+RV001000,P1034,C0022,2025-03-18,4,Happy with the purchase.
+RV001001,P1003,C0066,2025-02-09,1,Expected better quality.
+RV001002,P1004,C0047,2025-12-23,5,Happy with the purchase.
+RV001003,P1039,C0333,2025-06-12,5,Performance is acceptable.
+RV001004,P1025,C0003,2025-07-16,1,Delivery was late.
+RV001005,P1033,C0350,2025-10-16,4,Value for money.
+RV001006,P1018,C0110,2025-12-28,2,The device does not always recognize the charger.
+RV001007,P1007,C0324,2025-07-18,5,Good quality and works as expected.
+RV001008,P1017,C0213,2025-07-22,5,Happy with the purchase.
+RV001009,P1010,C0268,2025-04-12,4,Good quality and works as expected.
+RV001010,P1026,C0044,2025-02-25,3,Delivery was late.
+RV001011,P1023,C0487,2025-06-19,5,Happy with the purchase.
+RV001012,P1006,C0447,2025-11-29,4,Happy with the purchase.
+RV001013,P1021,C0118,2025-04-14,1,Delivery was late.
+RV001014,P1012,C0076,2025-11-27,5,Value for money.
+RV001015,P1006,C0231,2025-11-27,5,Happy with the purchase.
+RV001016,P1015,C0467,2025-08-20,5,Happy with the purchase.
+RV001017,P1007,C0330,2025-08-27,4,Performance is acceptable.
+RV001018,P1001,C0469,2025-08-30,5,Performance is acceptable.
+RV001019,P1001,C0302,2025-12-30,5,Performance is acceptable.
+RV001020,P1001,C0317,2025-10-29,5,Happy with the purchase.
+RV001021,P1028,C0360,2025-02-20,4,Happy with the purchase.
+RV001022,P1036,C0354,2025-12-31,4,Value for money.
+RV001023,P1011,C0078,2025-05-21,4,Value for money.
+RV001024,P1004,C0354,2025-09-07,5,Value for money.
+RV001025,P1040,C0099,2025-07-11,3,Compatibility information is unclear.
+RV001026,P1024,C0481,2025-04-15,4,Value for money.
+RV001027,P1037,C0244,2025-08-12,1,The device disconnects unexpectedly.
+RV001028,P1016,C0326,2025-11-30,5,Value for money.
+RV001029,P1026,C0259,2025-10-30,1,Delivery was late.
+RV001030,P1013,C0355,2025-04-09,3,The motor started making unusual noise.
+RV001031,P1035,C0141,2025-11-29,4,Performance is acceptable.
+RV001032,P1008,C0449,2025-01-22,5,Value for money.
+RV001033,P1015,C0099,2025-11-26,2,Expected better quality.
+RV001034,P1011,C0361,2025-06-25,4,Value for money.
+RV001035,P1028,C0251,2025-04-27,5,Good quality and works as expected.
+RV001036,P1011,C0240,2025-11-11,5,Value for money.
+RV001037,P1010,C0439,2025-09-23,5,Happy with the purchase.
+RV001038,P1009,C0327,2025-08-21,5,Happy with the purchase.
+RV001039,P1020,C0325,2025-08-20,4,Performance is acceptable.
+RV001040,P1023,C0392,2025-03-31,5,Happy with the purchase.
+RV001041,P1039,C0312,2025-09-29,4,Value for money.
+RV001042,P1028,C0449,2025-08-21,4,Performance is acceptable.
+RV001043,P1014,C0162,2025-12-10,2,The product is okay but not great.
+RV001044,P1012,C0204,2025-10-23,5,Happy with the purchase.
+RV001045,P1004,C0357,2025-07-30,1,Expected better quality.
+RV001046,P1022,C0450,2025-05-31,2,Expected better quality.
+RV001047,P1038,C0446,2025-08-23,4,Happy with the purchase.
+RV001048,P1019,C0208,2025-05-22,4,Performance is acceptable.
+RV001049,P1030,C0487,2025-01-17,5,Value for money.
+RV001050,P1024,C0141,2025-01-07,4,Performance is acceptable.
+RV001051,P1037,C0235,2025-06-13,3,Pairing is unreliable.
+RV001052,P1001,C0119,2025-09-28,5,Good quality and works as expected.
+RV001053,P1030,C0292,2025-02-24,5,Value for money.
+RV001054,P1004,C0444,2025-02-28,2,Expected better quality.
+RV001055,P1008,C0477,2025-12-29,2,The product is okay but not great.
+RV001056,P1027,C0422,2025-05-24,4,Value for money.
+RV001057,P1024,C0097,2025-04-20,5,Good quality and works as expected.
+RV001058,P1039,C0322,2025-05-26,1,Expected better quality.
+RV001059,P1029,C0397,2025-10-11,4,Value for money.
+RV001060,P1001,C0054,2025-12-25,5,Value for money.
+RV001061,P1008,C0402,2025-03-31,4,Good quality and works as expected.
+RV001062,P1023,C0213,2025-11-19,4,Good quality and works as expected.
+RV001063,P1005,C0463,2025-08-07,5,Performance is acceptable.
+RV001064,P1004,C0427,2025-12-31,5,Value for money.
+RV001065,P1003,C0207,2025-09-30,4,Good quality and works as expected.
+RV001066,P1001,C0037,2025-10-31,5,Value for money.
+RV001067,P1022,C0026,2025-05-25,5,Good quality and works as expected.
+RV001068,P1008,C0066,2025-03-20,5,Value for money.
+RV001069,P1020,C0375,2025-05-30,4,Value for money.
+RV001070,P1019,C0336,2025-05-31,5,Good quality and works as expected.
+RV001071,P1001,C0474,2025-05-10,3,Delivery was late.
+RV001072,P1015,C0142,2025-03-16,5,Value for money.
+RV001073,P1037,C0350,2025-06-20,5,Value for money.
+RV001074,P1032,C0246,2025-01-10,5,Performance is acceptable.
+RV001075,P1005,C0222,2025-03-31,5,Good quality and works as expected.
+RV001076,P1022,C0475,2025-07-31,5,Good quality and works as expected.
+RV001077,P1001,C0403,2025-02-16,1,The product is okay but not great.
+RV001078,P1025,C0175,2025-01-28,5,Good quality and works as expected.
+RV001079,P1012,C0348,2025-02-26,5,Good quality and works as expected.
+RV001080,P1015,C0344,2025-08-23,5,Good quality and works as expected.
+RV001081,P1027,C0267,2025-10-29,5,Good quality and works as expected.
+RV001082,P1030,C0255,2025-08-09,4,Value for money.
+RV001083,P1008,C0418,2025-09-07,5,Happy with the purchase.
+RV001084,P1005,C0135,2025-06-04,2,Charging has become unreliable after a few weeks.
+RV001085,P1017,C0268,2025-09-23,4,Happy with the purchase.
+RV001086,P1002,C0338,2025-02-16,3,The product is okay but not great.
+RV001087,P1038,C0326,2025-04-16,5,Performance is acceptable.
+RV001088,P1008,C0166,2025-01-22,5,Value for money.
+RV001089,P1039,C0482,2025-11-18,5,Performance is acceptable.
+RV001090,P1036,C0407,2025-01-18,2,Delivery was late.
+RV001091,P1022,C0051,2025-06-17,5,Happy with the purchase.
+RV001092,P1027,C0368,2025-09-21,4,Performance is acceptable.
+RV001093,P1024,C0411,2025-08-30,5,Good quality and works as expected.
+RV001094,P1021,C0320,2025-09-28,4,Happy with the purchase.
+RV001095,P1033,C0027,2025-07-29,5,Happy with the purchase.
+RV001096,P1034,C0383,2025-09-21,5,Happy with the purchase.
+RV001097,P1023,C0322,2025-01-16,5,Performance is acceptable.
+RV001098,P1001,C0015,2025-10-25,5,Performance is acceptable.
+RV001099,P1037,C0214,2025-05-19,3,Connection drops frequently.
+RV001100,P1022,C0235,2025-07-08,5,Happy with the purchase.
+RV001101,P1014,C0387,2025-12-30,5,Value for money.
+RV001102,P1009,C0037,2025-09-28,3,Delivery was late.
+RV001103,P1002,C0493,2025-07-27,3,The product is okay but not great.
+RV001104,P1027,C0150,2025-06-23,5,Happy with the purchase.
+RV001105,P1019,C0312,2025-06-18,4,Value for money.
+RV001106,P1028,C0037,2025-12-30,5,Happy with the purchase.
+RV001107,P1024,C0184,2025-12-31,5,Performance is acceptable.
+RV001108,P1009,C0470,2025-12-17,4,Happy with the purchase.
+RV001109,P1014,C0178,2025-12-31,5,Good quality and works as expected.
+RV001110,P1030,C0133,2025-01-31,5,Performance is acceptable.
+RV001111,P1007,C0496,2025-03-24,5,Performance is acceptable.
+RV001112,P1013,C0250,2025-03-31,4,Value for money.
+RV001113,P1039,C0087,2025-04-30,5,Performance is acceptable.
+RV001114,P1011,C0081,2025-12-22,5,Value for money.
+RV001115,P1002,C0093,2025-04-30,4,Performance is acceptable.
+RV001116,P1015,C0305,2025-08-13,1,Delivery was late.
+RV001117,P1001,C0056,2025-09-15,4,Performance is acceptable.
+RV001118,P1038,C0336,2025-05-27,5,Value for money.
+RV001119,P1021,C0047,2025-04-25,5,Good quality and works as expected.
+RV001120,P1019,C0292,2025-02-21,5,Happy with the purchase.
+RV001121,P1038,C0109,2025-04-30,4,Happy with the purchase.
+RV001122,P1006,C0164,2025-03-19,4,Good quality and works as expected.
+RV001123,P1007,C0031,2025-03-05,5,Performance is acceptable.
+RV001124,P1033,C0338,2025-12-06,5,Good quality and works as expected.
+RV001125,P1039,C0358,2025-12-29,4,Good quality and works as expected.
+RV001126,P1035,C0072,2025-07-27,5,Happy with the purchase.
+RV001127,P1012,C0291,2025-06-19,4,Happy with the purchase.
+RV001128,P1034,C0108,2025-09-29,5,Performance is acceptable.
+RV001129,P1010,C0366,2025-08-14,2,The product is okay but not great.
+RV001130,P1036,C0233,2025-02-23,5,Happy with the purchase.
+RV001131,P1036,C0357,2025-12-30,5,Performance is acceptable.
+RV001132,P1007,C0177,2025-12-20,5,Performance is acceptable.
+RV001133,P1016,C0189,2025-03-28,5,Happy with the purchase.
+RV001134,P1033,C0222,2025-09-25,4,Happy with the purchase.
+RV001135,P1022,C0255,2025-12-25,5,Happy with the purchase.
+RV001136,P1012,C0192,2025-07-27,4,Good quality and works as expected.
+RV001137,P1009,C0416,2025-02-17,4,Good quality and works as expected.
+RV001138,P1024,C0458,2025-12-30,3,The product broke sooner than expected.
+RV001139,P1011,C0116,2025-01-24,5,Value for money.
+RV001140,P1001,C0214,2025-05-10,4,Happy with the purchase.
+RV001141,P1025,C0182,2025-07-31,4,Happy with the purchase.
+RV001142,P1024,C0102,2025-03-20,5,Performance is acceptable.
+RV001143,P1032,C0169,2025-05-30,4,Value for money.
+RV001144,P1013,C0209,2025-11-23,5,Good quality and works as expected.
+RV001145,P1021,C0375,2025-01-29,5,Good quality and works as expected.
+RV001146,P1002,C0102,2025-07-11,2,The product is okay but not great.
+RV001147,P1027,C0219,2025-01-25,4,Happy with the purchase.
+RV001148,P1005,C0354,2025-03-11,1,Charging has become unreliable after a few weeks.
+RV001149,P1022,C0342,2025-08-29,5,Happy with the purchase.
+RV001150,P1036,C0370,2025-11-25,3,Expected better quality.
+RV001151,P1014,C0221,2025-05-22,5,Performance is acceptable.
+RV001152,P1026,C0084,2025-04-27,5,Happy with the purchase.
+RV001153,P1012,C0039,2025-04-13,5,Good quality and works as expected.
+RV001154,P1028,C0099,2025-03-31,5,Good quality and works as expected.
+RV001155,P1009,C0234,2025-10-29,4,Happy with the purchase.
+RV001156,P1030,C0191,2025-03-31,5,Happy with the purchase.
+RV001157,P1039,C0171,2025-07-25,5,Happy with the purchase.
+RV001158,P1039,C0142,2025-06-30,5,Performance is acceptable.
+RV001159,P1017,C0075,2025-11-11,4,Good quality and works as expected.
+RV001160,P1009,C0466,2025-03-27,4,Value for money.
+RV001161,P1015,C0173,2025-10-22,4,Performance is acceptable.
+RV001162,P1021,C0372,2025-12-22,4,Performance is acceptable.
+RV001163,P1037,C0404,2025-07-19,5,Performance is acceptable.
+RV001164,P1029,C0201,2025-11-29,5,Good quality and works as expected.
+RV001165,P1029,C0364,2025-06-23,5,Performance is acceptable.
+RV001166,P1033,C0129,2025-02-18,2,Delivery was late.
+RV001167,P1024,C0372,2025-12-20,1,A component became loose after limited use.
+RV001168,P1022,C0420,2025-06-24,5,Performance is acceptable.
+RV001169,P1038,C0439,2025-08-01,4,Performance is acceptable.
+RV001170,P1029,C0003,2025-07-29,5,Value for money.
+RV001171,P1035,C0250,2025-11-27,4,Happy with the purchase.
+RV001172,P1011,C0117,2025-02-23,5,Performance is acceptable.
+RV001173,P1031,C0146,2025-04-26,4,Happy with the purchase.
+RV001174,P1010,C0008,2025-01-27,1,Delivery was late.
+RV001175,P1038,C0469,2025-05-30,4,Good quality and works as expected.
+RV001176,P1031,C0411,2025-11-30,5,Good quality and works as expected.
+RV001177,P1013,C0058,2025-09-03,1,Performance dropped after a few weeks.
+RV001178,P1013,C0395,2025-05-27,5,Good quality and works as expected.
+RV001179,P1005,C0380,2025-11-18,5,Good quality and works as expected.
+RV001180,P1017,C0263,2025-01-27,3,The product is okay but not great.
+RV001181,P1001,C0081,2025-11-24,5,Good quality and works as expected.
+RV001182,P1004,C0390,2025-09-10,4,Value for money.
+RV001183,P1001,C0417,2025-03-14,4,Performance is acceptable.
+RV001184,P1006,C0393,2025-10-26,4,Good quality and works as expected.
+RV001185,P1013,C0298,2025-09-26,4,Happy with the purchase.
+RV001186,P1005,C0448,2025-05-21,2,Battery backup is poor compared with expectations.
+RV001187,P1028,C0100,2025-08-31,3,Delivery was late.
+RV001188,P1027,C0030,2025-10-16,5,Happy with the purchase.
+RV001189,P1005,C0326,2025-06-30,1,Battery drains much faster than expected.
+RV001190,P1029,C0273,2025-03-23,4,Value for money.
+RV001191,P1020,C0445,2025-05-31,4,Good quality and works as expected.
+RV001192,P1023,C0086,2025-08-29,4,Performance is acceptable.
+RV001193,P1014,C0309,2025-01-13,5,Performance is acceptable.
+RV001194,P1035,C0033,2025-04-26,5,Performance is acceptable.
+RV001195,P1008,C0493,2025-12-17,4,Performance is acceptable.
+RV001196,P1025,C0183,2025-12-25,5,Value for money.
+RV001197,P1038,C0290,2025-02-28,5,Happy with the purchase.
+RV001198,P1024,C0435,2025-02-22,5,Happy with the purchase.
+RV001199,P1026,C0373,2025-10-29,4,Happy with the purchase.
+RV001200,P1012,C0284,2025-01-31,4,Performance is acceptable.
+RV001201,P1018,C0109,2025-06-10,3,Power connection is unreliable.
+RV001202,P1021,C0360,2025-03-15,5,Performance is acceptable.
+RV001203,P1019,C0435,2025-12-12,5,Good quality and works as expected.
+RV001204,P1026,C0294,2025-05-25,5,Good quality and works as expected.
+RV001205,P1009,C0098,2025-02-19,5,Performance is acceptable.
+RV001206,P1011,C0334,2025-03-17,4,Good quality and works as expected.
+RV001207,P1028,C0082,2025-03-31,5,Happy with the purchase.
+RV001208,P1019,C0165,2025-04-28,5,Value for money.
+RV001209,P1035,C0110,2025-03-31,5,Performance is acceptable.
+RV001210,P1013,C0206,2025-02-22,4,Good quality and works as expected.
+RV001211,P1002,C0013,2025-11-20,4,Happy with the purchase.
+RV001212,P1024,C0089,2025-06-26,3,The product broke sooner than expected.
+RV001213,P1014,C0404,2025-08-29,4,Value for money.
+RV001214,P1020,C0026,2025-06-30,5,Performance is acceptable.
+RV001215,P1009,C0083,2025-02-26,4,Performance is acceptable.
+RV001216,P1012,C0372,2025-03-31,5,Value for money.
+RV001217,P1006,C0075,2025-03-29,5,Value for money.
+RV001218,P1030,C0351,2025-05-31,2,The product is okay but not great.
+RV001219,P1027,C0465,2025-06-24,5,Happy with the purchase.
+RV001220,P1006,C0358,2025-05-31,5,Happy with the purchase.
+RV001221,P1025,C0366,2025-11-23,1,The product is okay but not great.
+RV001222,P1010,C0221,2025-08-27,4,Good quality and works as expected.
+RV001223,P1017,C0071,2025-05-17,5,Performance is acceptable.
+RV001224,P1008,C0046,2025-10-20,4,Happy with the purchase.
+RV001225,P1039,C0470,2025-07-31,4,Happy with the purchase.
+RV001226,P1006,C0226,2025-11-29,5,Performance is acceptable.
+RV001227,P1006,C0414,2025-06-15,4,Good quality and works as expected.
+RV001228,P1024,C0486,2025-06-25,4,Good quality and works as expected.
+RV001229,P1026,C0192,2025-04-23,5,Good quality and works as expected.
+RV001230,P1033,C0250,2025-01-27,5,Happy with the purchase.
+RV001231,P1006,C0426,2025-11-19,4,Value for money.
+RV001232,P1011,C0079,2025-05-20,5,Good quality and works as expected.
+RV001233,P1012,C0274,2025-04-20,5,Good quality and works as expected.
+RV001234,P1009,C0251,2025-07-21,5,Performance is acceptable.
+RV001235,P1027,C0293,2025-08-31,4,Good quality and works as expected.
+RV001236,P1006,C0433,2025-07-17,4,Performance is acceptable.
+RV001237,P1027,C0077,2025-08-31,4,Good quality and works as expected.
+RV001238,P1021,C0264,2025-05-25,2,Expected better quality.
+RV001239,P1019,C0131,2025-08-24,4,Happy with the purchase.
+RV001240,P1023,C0036,2025-02-14,2,Expected better quality.
+RV001241,P1027,C0081,2025-02-27,5,Performance is acceptable.
+RV001242,P1025,C0427,2025-01-29,4,Value for money.
+RV001243,P1019,C0122,2025-04-28,4,Performance is acceptable.
+RV001244,P1006,C0058,2025-01-20,5,Happy with the purchase.
+RV001245,P1016,C0354,2025-09-25,5,Value for money.
+RV001246,P1010,C0127,2025-10-08,4,Value for money.
+RV001247,P1003,C0479,2025-09-24,2,Expected better quality.
+RV001248,P1016,C0480,2025-05-21,4,Value for money.
+RV001249,P1028,C0044,2025-11-26,2,Expected better quality.
+RV001250,P1025,C0495,2025-05-21,1,Expected better quality.
+RV001251,P1014,C0431,2025-08-27,5,Happy with the purchase.
+RV001252,P1011,C0384,2025-09-04,4,Happy with the purchase.
+RV001253,P1010,C0028,2025-11-14,2,The product is okay but not great.
+RV001254,P1009,C0453,2025-09-29,5,Performance is acceptable.
+RV001255,P1035,C0275,2025-01-14,5,Value for money.
+RV001256,P1017,C0197,2025-06-23,5,Happy with the purchase.
+RV001257,P1003,C0295,2025-02-09,1,Expected better quality.
+RV001258,P1025,C0100,2025-09-27,4,Value for money.
+RV001259,P1027,C0297,2025-03-23,5,Performance is acceptable.
+RV001260,P1035,C0150,2025-04-26,4,Happy with the purchase.
+RV001261,P1014,C0008,2025-07-30,5,Happy with the purchase.
+RV001262,P1002,C0041,2025-12-30,1,The product is okay but not great.
+RV001263,P1026,C0162,2025-02-26,5,Good quality and works as expected.
+RV001264,P1031,C0263,2025-12-12,5,Performance is acceptable.
+RV001265,P1013,C0488,2025-07-29,5,Happy with the purchase.
+RV001266,P1020,C0058,2025-07-31,5,Good quality and works as expected.
+RV001267,P1020,C0125,2025-11-24,5,Happy with the purchase.
+RV001268,P1006,C0177,2025-12-21,5,Happy with the purchase.
+RV001269,P1013,C0058,2025-04-30,5,Value for money.
+RV001270,P1009,C0064,2025-08-30,1,Delivery was late.
+RV001271,P1002,C0198,2025-11-17,4,Performance is acceptable.
+RV001272,P1037,C0135,2025-03-30,1,The device disconnects unexpectedly.
+RV001273,P1023,C0464,2025-03-28,1,Delivery was late.
+RV001274,P1038,C0357,2025-10-29,5,Value for money.
+RV001275,P1033,C0150,2025-12-11,4,Value for money.
+RV001276,P1031,C0444,2025-12-14,5,Good quality and works as expected.
+RV001277,P1005,C0259,2025-10-24,2,Battery backup is poor compared with expectations.
+RV001278,P1009,C0329,2025-11-15,5,Happy with the purchase.
+RV001279,P1039,C0413,2025-03-19,5,Good quality and works as expected.
+RV001280,P1028,C0098,2025-09-30,4,Value for money.
+RV001281,P1019,C0038,2025-04-19,4,Happy with the purchase.
+RV001282,P1026,C0282,2025-11-25,5,Value for money.
+RV001283,P1037,C0344,2025-10-17,5,Good quality and works as expected.
+RV001284,P1032,C0246,2025-12-17,5,Good quality and works as expected.
+RV001285,P1026,C0421,2025-11-25,5,Performance is acceptable.
+RV001286,P1039,C0294,2025-01-29,3,The product is okay but not great.
+RV001287,P1028,C0322,2025-10-26,1,Expected better quality.
+RV001288,P1028,C0139,2025-03-28,5,Value for money.
+RV001289,P1037,C0039,2025-11-24,5,Happy with the purchase.
+RV001290,P1028,C0092,2025-01-31,2,The product is okay but not great.
+RV001291,P1008,C0284,2025-10-31,5,Performance is acceptable.
+RV001292,P1029,C0351,2025-11-25,1,Sizing information was misleading.
+RV001293,P1005,C0477,2025-01-18,3,Battery backup is poor compared with expectations.
+RV001294,P1015,C0339,2025-09-22,4,Good quality and works as expected.
+RV001295,P1037,C0448,2025-08-21,4,Performance is acceptable.
+RV001296,P1017,C0026,2025-07-26,3,The product is okay but not great.
+RV001297,P1025,C0290,2025-06-15,5,Happy with the purchase.
+RV001298,P1017,C0150,2025-12-31,5,Performance is acceptable.
+RV001299,P1003,C0461,2025-05-13,5,Performance is acceptable.
+RV001300,P1018,C0394,2025-07-20,1,The device does not always recognize the charger.
+RV001301,P1001,C0230,2025-06-21,4,Good quality and works as expected.
+RV001302,P1010,C0406,2025-04-21,5,Good quality and works as expected.
+RV001303,P1010,C0127,2025-11-19,4,Performance is acceptable.
+RV001304,P1007,C0413,2025-08-22,4,Happy with the purchase.
+RV001305,P1029,C0056,2025-03-31,5,Happy with the purchase.
+RV001306,P1039,C0219,2025-02-28,5,Good quality and works as expected.
+RV001307,P1028,C0436,2025-07-29,5,Happy with the purchase.
+RV001308,P1007,C0173,2025-09-20,5,Performance is acceptable.
+RV001309,P1030,C0288,2025-03-27,4,Value for money.
+RV001310,P1010,C0111,2025-07-31,4,Value for money.
+RV001311,P1029,C0174,2025-07-28,2,Fit is uncomfortable.
+RV001312,P1018,C0112,2025-12-19,1,Power connection is unreliable.
+RV001313,P1009,C0168,2025-10-27,5,Value for money.
+RV001314,P1040,C0107,2025-04-29,5,Good quality and works as expected.
+RV001315,P1015,C0003,2025-03-15,4,Performance is acceptable.
+RV001316,P1021,C0317,2025-03-29,5,Performance is acceptable.
+RV001317,P1006,C0140,2025-02-25,5,Value for money.
+RV001318,P1030,C0354,2025-12-21,1,The product is okay but not great.
+RV001319,P1023,C0068,2025-01-26,5,Happy with the purchase.
+RV001320,P1020,C0450,2025-10-29,1,The product is okay but not great.
+RV001321,P1030,C0233,2025-09-22,4,Value for money.
+RV001322,P1011,C0328,2025-04-15,5,Happy with the purchase.
+RV001323,P1039,C0360,2025-09-24,4,Performance is acceptable.
+RV001324,P1003,C0379,2025-02-26,2,Delivery was late.
+RV001325,P1034,C0136,2025-08-31,2,The item arrived with visible damage.
+RV001326,P1024,C0224,2025-10-28,1,The product broke sooner than expected.
+RV001327,P1031,C0360,2025-03-26,5,Good quality and works as expected.
+RV001328,P1023,C0035,2025-06-27,4,Value for money.
+RV001329,P1008,C0305,2025-09-17,4,Performance is acceptable.
+RV001330,P1028,C0126,2025-05-27,5,Good quality and works as expected.
+RV001331,P1014,C0254,2025-05-16,4,Performance is acceptable.
+RV001332,P1037,C0043,2025-02-05,5,Happy with the purchase.
+RV001333,P1031,C0091,2025-07-24,4,Good quality and works as expected.
+RV001334,P1008,C0400,2025-01-31,5,Value for money.
+RV001335,P1018,C0374,2025-12-18,3,Power connection is unreliable.
+RV001336,P1001,C0202,2025-09-03,2,Expected better quality.
+RV001337,P1030,C0410,2025-07-22,5,Value for money.
+RV001338,P1025,C0053,2025-11-20,5,Value for money.
+RV001339,P1023,C0257,2025-01-29,5,Good quality and works as expected.
+RV001340,P1028,C0372,2025-02-22,5,Value for money.
+RV001341,P1004,C0265,2025-09-25,5,Value for money.
+RV001342,P1015,C0059,2025-10-04,5,Value for money.
+RV001343,P1020,C0308,2025-12-17,5,Good quality and works as expected.
+RV001344,P1039,C0110,2025-03-27,5,Value for money.
+RV001345,P1003,C0457,2025-01-28,5,Value for money.
+RV001346,P1006,C0225,2025-10-27,4,Good quality and works as expected.
+RV001347,P1021,C0412,2025-08-11,5,Value for money.
+RV001348,P1031,C0111,2025-12-31,4,Good quality and works as expected.
+RV001349,P1026,C0222,2025-09-21,4,Happy with the purchase.
+RV001350,P1024,C0204,2025-08-23,1,Build quality does not feel durable.
+RV001351,P1023,C0069,2025-07-29,5,Performance is acceptable.
+RV001352,P1009,C0242,2025-09-23,4,Value for money.
+RV001353,P1027,C0393,2025-09-06,4,Good quality and works as expected.
+RV001354,P1014,C0067,2025-02-26,5,Performance is acceptable.
+RV001355,P1005,C0460,2025-09-19,5,Value for money.
+RV001356,P1020,C0121,2025-03-27,4,Good quality and works as expected.
+RV001357,P1005,C0246,2025-05-29,2,Battery drains much faster than expected.
+RV001358,P1019,C0374,2025-01-18,4,Happy with the purchase.
+RV001359,P1030,C0084,2025-10-24,4,Performance is acceptable.
+RV001360,P1040,C0148,2025-04-19,4,Happy with the purchase.
+RV001361,P1014,C0049,2025-11-26,1,Expected better quality.
+RV001362,P1017,C0163,2025-06-21,5,Performance is acceptable.
+RV001363,P1020,C0398,2025-11-30,5,Value for money.
+RV001364,P1036,C0347,2025-11-29,4,Good quality and works as expected.
+RV001365,P1022,C0011,2025-05-31,4,Happy with the purchase.
+RV001366,P1029,C0045,2025-08-25,5,Performance is acceptable.
+RV001367,P1013,C0418,2025-12-24,1,The motor started making unusual noise.
+RV001368,P1006,C0234,2025-03-23,5,Happy with the purchase.
+RV001369,P1003,C0424,2025-06-30,5,Happy with the purchase.
+RV001370,P1028,C0392,2025-12-31,5,Performance is acceptable.
+RV001371,P1025,C0215,2025-05-28,4,Happy with the purchase.
+RV001372,P1034,C0049,2025-07-26,1,The item arrived with visible damage.
+RV001373,P1036,C0225,2025-05-24,5,Happy with the purchase.
+RV001374,P1019,C0216,2025-12-12,2,Delivery was late.
+RV001375,P1030,C0215,2025-11-21,3,Delivery was late.
+RV001376,P1003,C0068,2025-03-28,2,Expected better quality.
+RV001377,P1037,C0139,2025-03-29,4,Value for money.
+RV001378,P1027,C0233,2025-05-30,5,Happy with the purchase.
+RV001379,P1027,C0081,2025-10-19,5,Value for money.
+RV001380,P1001,C0292,2025-08-31,3,Expected better quality.
+RV001381,P1013,C0290,2025-02-08,4,Value for money.
+RV001382,P1037,C0382,2025-05-24,5,Value for money.
+RV001383,P1010,C0180,2025-09-29,4,Good quality and works as expected.
+RV001384,P1020,C0445,2025-12-30,1,Delivery was late.
+RV001385,P1019,C0421,2025-11-22,5,Happy with the purchase.
+RV001386,P1008,C0386,2025-12-21,2,The product is okay but not great.
+RV001387,P1011,C0035,2025-10-27,4,Value for money.
+RV001388,P1039,C0453,2025-04-29,4,Happy with the purchase.
+RV001389,P1005,C0182,2025-10-15,4,Performance is acceptable.
+RV001390,P1022,C0308,2025-12-16,4,Good quality and works as expected.
+RV001391,P1029,C0228,2025-04-14,4,Happy with the purchase.
+RV001392,P1025,C0008,2025-04-23,5,Good quality and works as expected.
+RV001393,P1027,C0083,2025-06-10,5,Good quality and works as expected.
+RV001394,P1039,C0021,2025-11-24,5,Good quality and works as expected.
+RV001395,P1024,C0320,2025-08-12,5,Value for money.
+RV001396,P1029,C0224,2025-07-28,3,The size did not match the description.
+RV001397,P1015,C0274,2025-08-18,5,Good quality and works as expected.
+RV001398,P1002,C0028,2025-07-12,4,Value for money.
+RV001399,P1002,C0070,2025-07-31,5,Good quality and works as expected.
+RV001400,P1006,C0223,2025-07-20,5,Happy with the purchase.
+RV001401,P1022,C0341,2025-08-29,5,Happy with the purchase.
+RV001402,P1011,C0479,2025-04-19,5,Good quality and works as expected.
+RV001403,P1007,C0056,2025-05-30,5,Value for money.
+RV001404,P1028,C0181,2025-06-13,5,Good quality and works as expected.
+RV001405,P1026,C0136,2025-03-27,5,Value for money.
+RV001406,P1032,C0386,2025-12-29,4,Happy with the purchase.
+RV001407,P1032,C0265,2025-11-26,3,The product is okay but not great.
+RV001408,P1038,C0155,2025-06-07,3,The product is okay but not great.
+RV001409,P1034,C0440,2025-07-27,1,The item arrived with visible damage.
+RV001410,P1002,C0200,2025-06-16,4,Performance is acceptable.
+RV001411,P1019,C0445,2025-11-29,4,Good quality and works as expected.
+RV001412,P1005,C0037,2025-12-30,5,Good quality and works as expected.
+RV001413,P1010,C0208,2025-02-24,4,Good quality and works as expected.
+RV001414,P1026,C0089,2025-02-21,4,Value for money.
+RV001415,P1015,C0110,2025-08-12,5,Good quality and works as expected.
+RV001416,P1006,C0332,2025-06-28,2,The product is okay but not great.
+RV001417,P1022,C0466,2025-01-09,4,Performance is acceptable.
+RV001418,P1027,C0046,2025-02-05,5,Happy with the purchase.
+RV001419,P1027,C0098,2025-04-10,5,Performance is acceptable.
+RV001420,P1040,C0294,2025-10-31,1,The accessory is incompatible with my setup.
+RV001421,P1027,C0454,2025-03-28,4,Performance is acceptable.
+RV001422,P1023,C0267,2025-09-25,5,Value for money.
+RV001423,P1014,C0293,2025-06-15,5,Performance is acceptable.
+RV001424,P1011,C0396,2025-03-09,1,Expected better quality.
+RV001425,P1022,C0102,2025-07-27,4,Good quality and works as expected.
+RV001426,P1001,C0140,2025-06-09,5,Happy with the purchase.
+RV001427,P1024,C0233,2025-03-27,5,Value for money.
+RV001428,P1040,C0478,2025-08-31,5,Good quality and works as expected.
+RV001429,P1025,C0209,2025-11-29,5,Happy with the purchase.
+RV001430,P1005,C0169,2025-03-09,4,Happy with the purchase.
+RV001431,P1022,C0214,2025-10-31,4,Happy with the purchase.
+RV001432,P1037,C0029,2025-06-30,5,Good quality and works as expected.
+RV001433,P1026,C0428,2025-01-23,4,Good quality and works as expected.
+RV001434,P1036,C0313,2025-03-24,5,Performance is acceptable.
+RV001435,P1006,C0500,2025-10-25,5,Value for money.
+RV001436,P1013,C0426,2025-06-25,5,Performance is acceptable.
+RV001437,P1026,C0058,2025-11-17,4,Happy with the purchase.
+RV001438,P1026,C0117,2025-02-26,2,Expected better quality.
+RV001439,P1037,C0010,2025-09-25,3,The device disconnects unexpectedly.
+RV001440,P1035,C0365,2025-07-29,5,Performance is acceptable.
+RV001441,P1008,C0197,2025-04-30,4,Performance is acceptable.
+RV001442,P1025,C0245,2025-11-26,3,The product is okay but not great.
+RV001443,P1040,C0043,2025-03-31,1,Compatibility information is unclear.
+RV001444,P1022,C0067,2025-12-31,5,Happy with the purchase.
+RV001445,P1017,C0439,2025-04-17,5,Value for money.
+RV001446,P1032,C0049,2025-12-31,5,Performance is acceptable.
+RV001447,P1014,C0148,2025-07-19,4,Value for money.
+RV001448,P1005,C0295,2025-10-22,3,Battery backup is poor compared with expectations.
+RV001449,P1034,C0287,2025-05-31,5,Value for money.
+RV001450,P1019,C0134,2025-06-19,4,Performance is acceptable.
+RV001451,P1032,C0274,2025-05-30,5,Good quality and works as expected.
+RV001452,P1004,C0245,2025-02-10,5,Happy with the purchase.
+RV001453,P1022,C0312,2025-01-18,4,Value for money.
+RV001454,P1017,C0483,2025-12-09,5,Good quality and works as expected.
+RV001455,P1020,C0221,2025-07-29,5,Happy with the purchase.
+RV001456,P1002,C0272,2025-11-04,5,Performance is acceptable.
+RV001457,P1010,C0250,2025-07-09,4,Good quality and works as expected.
+RV001458,P1029,C0381,2025-06-30,3,Sizing information was misleading.
+RV001459,P1020,C0364,2025-04-07,2,Delivery was late.
+RV001460,P1012,C0007,2025-06-24,5,Happy with the purchase.
+RV001461,P1012,C0320,2025-02-24,5,Value for money.
+RV001462,P1007,C0056,2025-03-31,5,Happy with the purchase.
+RV001463,P1023,C0020,2025-09-29,5,Good quality and works as expected.
+RV001464,P1031,C0143,2025-10-29,5,Happy with the purchase.
+RV001465,P1018,C0427,2025-09-27,5,Performance is acceptable.
+RV001466,P1018,C0223,2025-06-30,3,Charging is intermittent.
+RV001467,P1028,C0384,2025-09-27,5,Performance is acceptable.
+RV001468,P1010,C0426,2025-02-24,4,Performance is acceptable.
+RV001469,P1023,C0103,2025-04-07,2,Delivery was late.
+RV001470,P1002,C0494,2025-04-23,5,Happy with the purchase.
+RV001471,P1026,C0426,2025-07-17,4,Value for money.
+RV001472,P1007,C0212,2025-10-11,5,Value for money.
+RV001473,P1019,C0277,2025-07-27,5,Happy with the purchase.
+RV001474,P1019,C0027,2025-06-28,5,Happy with the purchase.
+RV001475,P1026,C0473,2025-07-28,4,Good quality and works as expected.
+RV001476,P1025,C0403,2025-10-18,4,Value for money.
+RV001477,P1019,C0088,2025-02-08,4,Value for money.
+RV001478,P1001,C0396,2025-06-22,5,Good quality and works as expected.
+RV001479,P1020,C0368,2025-06-30,4,Value for money.
+RV001480,P1030,C0473,2025-01-23,2,The product is okay but not great.
+RV001481,P1009,C0325,2025-01-16,5,Performance is acceptable.
+RV001482,P1006,C0234,2025-11-28,5,Value for money.
+RV001483,P1029,C0214,2025-01-22,2,Fit is uncomfortable.
+RV001484,P1014,C0074,2025-07-28,3,The product is okay but not great.
+RV001485,P1028,C0283,2025-07-22,5,Happy with the purchase.
+RV001486,P1010,C0003,2025-08-06,4,Good quality and works as expected.
+RV001487,P1033,C0407,2025-03-31,4,Good quality and works as expected.
+RV001488,P1013,C0151,2025-06-17,5,Happy with the purchase.
+RV001489,P1013,C0075,2025-12-17,3,The motor started making unusual noise.
+RV001490,P1008,C0030,2025-12-28,4,Happy with the purchase.
+RV001491,P1032,C0107,2025-05-31,5,Performance is acceptable.
+RV001492,P1004,C0462,2025-07-14,4,Good quality and works as expected.
+RV001493,P1004,C0141,2025-08-27,5,Good quality and works as expected.
+RV001494,P1012,C0149,2025-01-24,5,Value for money.
+RV001495,P1014,C0451,2025-07-23,1,Expected better quality.
+RV001496,P1018,C0443,2025-07-27,3,The device does not always recognize the charger.
+RV001497,P1008,C0163,2025-12-25,5,Good quality and works as expected.
+RV001498,P1030,C0157,2025-11-30,5,Value for money.
+RV001499,P1013,C0187,2025-01-06,5,Value for money.
+RV001500,P1036,C0119,2025-10-29,4,Good quality and works as expected.
+RV001501,P1018,C0145,2025-11-30,5,Performance is acceptable.
+RV001502,P1010,C0034,2025-12-21,4,Good quality and works as expected.
+RV001503,P1027,C0289,2025-06-29,5,Happy with the purchase.
+RV001504,P1032,C0374,2025-06-29,3,Delivery was late.
+RV001505,P1010,C0214,2025-09-15,2,Expected better quality.
+RV001506,P1031,C0206,2025-04-23,5,Good quality and works as expected.
+RV001507,P1007,C0056,2025-09-28,5,Performance is acceptable.
+RV001508,P1005,C0162,2025-12-31,2,Battery backup is poor compared with expectations.
+RV001509,P1019,C0417,2025-05-05,5,Happy with the purchase.
+RV001510,P1026,C0322,2025-03-30,4,Performance is acceptable.
+RV001511,P1031,C0265,2025-12-31,5,Performance is acceptable.
+RV001512,P1007,C0026,2025-04-15,4,Happy with the purchase.
+RV001513,P1025,C0322,2025-04-12,5,Good quality and works as expected.
+RV001514,P1015,C0224,2025-09-12,5,Good quality and works as expected.
+RV001515,P1034,C0321,2025-12-31,4,Happy with the purchase.
+RV001516,P1011,C0370,2025-04-24,5,Performance is acceptable.
+RV001517,P1001,C0225,2025-12-27,2,The product is okay but not great.
+RV001518,P1024,C0478,2025-09-20,5,Performance is acceptable.
+RV001519,P1034,C0162,2025-01-27,2,The item arrived with visible damage.
+RV001520,P1005,C0248,2025-12-27,2,Battery drains much faster than expected.
+RV001521,P1004,C0196,2025-12-30,1,Delivery was late.
+RV001522,P1004,C0058,2025-04-29,4,Performance is acceptable.
+RV001523,P1032,C0079,2025-11-24,4,Good quality and works as expected.
+RV001524,P1030,C0301,2025-08-13,5,Happy with the purchase.
+RV001525,P1010,C0480,2025-04-30,5,Performance is acceptable.
+RV001526,P1029,C0209,2025-07-18,2,Fit is uncomfortable.
+RV001527,P1014,C0486,2025-05-28,4,Good quality and works as expected.
+RV001528,P1006,C0207,2025-02-26,5,Value for money.
+RV001529,P1039,C0496,2025-05-28,4,Value for money.
+RV001530,P1018,C0452,2025-04-13,5,Happy with the purchase.
+RV001531,P1022,C0391,2025-09-18,5,Value for money.
+RV001532,P1022,C0026,2025-09-23,2,Delivery was late.
+RV001533,P1012,C0218,2025-06-20,4,Performance is acceptable.
+RV001534,P1007,C0345,2025-06-30,5,Happy with the purchase.
+RV001535,P1014,C0086,2025-09-21,5,Performance is acceptable.
+RV001536,P1024,C0421,2025-01-28,5,Performance is acceptable.
+RV001537,P1022,C0273,2025-06-22,5,Performance is acceptable.
+RV001538,P1023,C0110,2025-01-26,4,Performance is acceptable.
+RV001539,P1015,C0283,2025-07-27,4,Value for money.
+RV001540,P1030,C0494,2025-06-30,2,Delivery was late.
+RV001541,P1017,C0129,2025-10-18,5,Good quality and works as expected.
+RV001542,P1009,C0252,2025-02-27,4,Happy with the purchase.
+RV001543,P1034,C0128,2025-07-26,5,Good quality and works as expected.
+RV001544,P1033,C0010,2025-02-20,4,Happy with the purchase.
+RV001545,P1016,C0339,2025-03-28,4,Performance is acceptable.
+RV001546,P1036,C0479,2025-02-22,5,Performance is acceptable.
+RV001547,P1018,C0337,2025-09-21,3,The device does not always recognize the charger.
+RV001548,P1005,C0192,2025-06-24,3,Charging has become unreliable after a few weeks.
+RV001549,P1001,C0296,2025-07-31,4,Good quality and works as expected.
+RV001550,P1014,C0224,2025-01-14,5,Happy with the purchase.
+RV001551,P1023,C0176,2025-07-31,4,Happy with the purchase.
+RV001552,P1038,C0295,2025-08-29,5,Performance is acceptable.
+RV001553,P1006,C0389,2025-08-28,5,Good quality and works as expected.
+RV001554,P1011,C0464,2025-05-15,3,Expected better quality.
+RV001555,P1035,C0242,2025-03-25,4,Good quality and works as expected.
+RV001556,P1027,C0335,2025-03-24,5,Value for money.
+RV001557,P1033,C0193,2025-01-12,1,Delivery was late.
+RV001558,P1030,C0090,2025-10-08,5,Happy with the purchase.
+RV001559,P1011,C0251,2025-05-22,4,Good quality and works as expected.
+RV001560,P1039,C0469,2025-11-22,5,Good quality and works as expected.
+RV001561,P1022,C0233,2025-11-16,4,Happy with the purchase.
+RV001562,P1038,C0227,2025-08-15,5,Value for money.
+RV001563,P1033,C0075,2025-11-30,5,Value for money.
+RV001564,P1040,C0372,2025-10-21,2,It does not work with my device.
+RV001565,P1020,C0230,2025-08-18,4,Happy with the purchase.
+RV001566,P1014,C0152,2025-05-23,5,Happy with the purchase.
+RV001567,P1003,C0076,2025-07-30,2,The product is okay but not great.
+RV001568,P1031,C0069,2025-11-06,5,Happy with the purchase.
+RV001569,P1027,C0189,2025-09-29,5,Value for money.
+RV001570,P1038,C0330,2025-02-16,5,Value for money.
+RV001571,P1039,C0427,2025-09-20,4,Performance is acceptable.
+RV001572,P1024,C0195,2025-11-08,1,A component became loose after limited use.
+RV001573,P1035,C0227,2025-09-13,4,Performance is acceptable.
+RV001574,P1008,C0223,2025-07-26,5,Good quality and works as expected.
+RV001575,P1019,C0151,2025-08-19,5,Happy with the purchase.
+RV001576,P1038,C0241,2025-10-12,5,Happy with the purchase.
+RV001577,P1016,C0302,2025-12-26,5,Value for money.
+RV001578,P1028,C0356,2025-06-24,5,Happy with the purchase.
+RV001579,P1028,C0457,2025-08-24,5,Value for money.
+RV001580,P1016,C0263,2025-01-19,4,Performance is acceptable.
+RV001581,P1018,C0141,2025-01-27,4,Value for money.
+RV001582,P1001,C0243,2025-07-15,4,Happy with the purchase.
+RV001583,P1039,C0084,2025-02-27,5,Performance is acceptable.
+RV001584,P1010,C0137,2025-10-12,5,Good quality and works as expected.
+RV001585,P1019,C0395,2025-04-28,5,Performance is acceptable.
+RV001586,P1032,C0149,2025-01-19,4,Value for money.
+RV001587,P1022,C0489,2025-05-13,1,The product is okay but not great.
+RV001588,P1019,C0065,2025-12-16,5,Performance is acceptable.
+RV001589,P1004,C0431,2025-07-19,4,Value for money.
+RV001590,P1001,C0061,2025-11-23,5,Happy with the purchase.
+RV001591,P1027,C0351,2025-06-30,5,Happy with the purchase.
+RV001592,P1032,C0063,2025-08-21,4,Good quality and works as expected.
+RV001593,P1025,C0399,2025-08-07,2,Expected better quality.
+RV001594,P1005,C0481,2025-05-31,5,Value for money.
+RV001595,P1025,C0288,2025-08-29,4,Value for money.
+RV001596,P1018,C0168,2025-05-29,5,Happy with the purchase.
+RV001597,P1040,C0327,2025-06-20,5,Performance is acceptable.
+RV001598,P1022,C0069,2025-09-30,5,Value for money.
+RV001599,P1019,C0142,2025-12-29,5,Value for money.
+RV001600,P1012,C0139,2025-11-13,5,Performance is acceptable.
+RV001601,P1004,C0257,2025-02-28,4,Good quality and works as expected.
+RV001602,P1014,C0387,2025-09-19,5,Good quality and works as expected.
+RV001603,P1021,C0201,2025-12-20,4,Good quality and works as expected.
+RV001604,P1037,C0255,2025-05-21,4,Happy with the purchase.
+RV001605,P1029,C0413,2025-01-29,4,Good quality and works as expected.
+RV001606,P1019,C0165,2025-07-13,1,The product is okay but not great.
+RV001607,P1023,C0214,2025-06-21,5,Performance is acceptable.
+RV001608,P1030,C0393,2025-12-14,4,Happy with the purchase.
+RV001609,P1030,C0341,2025-07-11,4,Happy with the purchase.
+RV001610,P1004,C0015,2025-04-23,5,Performance is acceptable.
+RV001611,P1001,C0394,2025-02-26,5,Good quality and works as expected.
+RV001612,P1009,C0278,2025-04-30,3,Delivery was late.
+RV001613,P1031,C0487,2025-08-29,4,Value for money.
+RV001614,P1027,C0104,2025-11-19,5,Performance is acceptable.
+RV001615,P1008,C0315,2025-07-27,5,Performance is acceptable.
+RV001616,P1040,C0448,2025-10-24,3,It does not work with my device.
+RV001617,P1036,C0261,2025-08-25,3,The product is okay but not great.
+RV001618,P1022,C0328,2025-03-31,4,Performance is acceptable.
+RV001619,P1018,C0204,2025-10-17,5,Performance is acceptable.
+RV001620,P1035,C0139,2025-10-21,4,Happy with the purchase.
+RV001621,P1009,C0005,2025-12-23,4,Performance is acceptable.
+RV001622,P1034,C0180,2025-09-30,5,Performance is acceptable.
+RV001623,P1029,C0200,2025-05-28,5,Good quality and works as expected.
+RV001624,P1013,C0080,2025-02-17,4,Value for money.
+RV001625,P1037,C0164,2025-08-12,4,Good quality and works as expected.
+RV001626,P1015,C0464,2025-10-21,5,Good quality and works as expected.
+RV001627,P1015,C0360,2025-03-28,5,Happy with the purchase.
+RV001628,P1007,C0443,2025-11-17,5,Performance is acceptable.
+RV001629,P1038,C0123,2025-05-27,4,Happy with the purchase.
+RV001630,P1012,C0044,2025-08-19,5,Value for money.
+RV001631,P1009,C0258,2025-04-04,4,Performance is acceptable.
+RV001632,P1018,C0037,2025-02-25,4,Good quality and works as expected.
+RV001633,P1012,C0095,2025-10-30,5,Value for money.
+RV001634,P1016,C0229,2025-06-11,5,Performance is acceptable.
+RV001635,P1025,C0247,2025-05-24,5,Value for money.
+RV001636,P1005,C0091,2025-04-02,5,Good quality and works as expected.
+RV001637,P1025,C0457,2025-10-12,5,Happy with the purchase.
+RV001638,P1002,C0047,2025-11-26,5,Happy with the purchase.
+RV001639,P1030,C0428,2025-04-29,4,Value for money.
+RV001640,P1028,C0395,2025-11-18,4,Good quality and works as expected.
+RV001641,P1018,C0387,2025-09-28,5,Performance is acceptable.
+RV001642,P1029,C0446,2025-08-18,3,Fit is uncomfortable.
+RV001643,P1015,C0296,2025-02-21,5,Value for money.
+RV001644,P1026,C0163,2025-02-26,5,Happy with the purchase.
+RV001645,P1017,C0311,2025-04-22,4,Good quality and works as expected.
+RV001646,P1027,C0031,2025-06-28,5,Performance is acceptable.
+RV001647,P1005,C0398,2025-10-20,4,Good quality and works as expected.
+RV001648,P1012,C0391,2025-12-31,5,Performance is acceptable.
+RV001649,P1031,C0316,2025-04-29,5,Good quality and works as expected.
+RV001650,P1004,C0476,2025-10-27,5,Performance is acceptable.
+RV001651,P1026,C0457,2025-04-05,4,Value for money.
+RV001652,P1007,C0222,2025-04-20,4,Happy with the purchase.
+RV001653,P1020,C0065,2025-01-13,5,Happy with the purchase.
+RV001654,P1018,C0026,2025-05-27,4,Happy with the purchase.
+RV001655,P1011,C0189,2025-03-20,5,Good quality and works as expected.
+RV001656,P1033,C0263,2025-03-30,5,Performance is acceptable.
+RV001657,P1003,C0252,2025-02-22,4,Happy with the purchase.
+RV001658,P1031,C0498,2025-07-28,5,Good quality and works as expected.
+RV001659,P1018,C0153,2025-04-20,5,Performance is acceptable.
+RV001660,P1013,C0417,2025-01-27,4,Happy with the purchase.
+RV001661,P1016,C0466,2025-08-29,3,The product is okay but not great.
+RV001662,P1010,C0140,2025-08-19,5,Happy with the purchase.
+RV001663,P1018,C0401,2025-06-26,1,The device does not always recognize the charger.
+RV001664,P1016,C0034,2025-06-28,4,Value for money.
+RV001665,P1022,C0480,2025-12-31,5,Happy with the purchase.
+RV001666,P1020,C0239,2025-12-30,5,Happy with the purchase.
+RV001667,P1012,C0441,2025-05-25,5,Performance is acceptable.
+RV001668,P1027,C0434,2025-09-30,4,Value for money.
+RV001669,P1024,C0362,2025-05-30,1,The product broke sooner than expected.
+RV001670,P1025,C0019,2025-05-30,5,Good quality and works as expected.
+RV001671,P1024,C0130,2025-11-24,1,A component became loose after limited use.
+RV001672,P1035,C0088,2025-03-30,5,Good quality and works as expected.
+RV001673,P1009,C0279,2025-09-16,5,Good quality and works as expected.
+RV001674,P1022,C0159,2025-12-14,3,The product is okay but not great.
+RV001675,P1029,C0320,2025-03-16,5,Happy with the purchase.
+RV001676,P1005,C0156,2025-02-08,2,Battery backup is poor compared with expectations.
+RV001677,P1029,C0188,2025-12-26,1,Sizing information was misleading.
+RV001678,P1038,C0143,2025-12-31,2,Expected better quality.
+RV001679,P1034,C0216,2025-04-14,5,Good quality and works as expected.
+RV001680,P1009,C0492,2025-11-13,5,Value for money.
+RV001681,P1030,C0068,2025-02-28,2,Expected better quality.
+RV001682,P1028,C0363,2025-01-23,4,Happy with the purchase.
+RV001683,P1004,C0346,2025-07-30,5,Happy with the purchase.
+RV001684,P1026,C0493,2025-12-17,4,Value for money.
+RV001685,P1027,C0083,2025-10-19,5,Happy with the purchase.
+RV001686,P1025,C0085,2025-10-30,3,The product is okay but not great.
+RV001687,P1035,C0260,2025-02-08,5,Performance is acceptable.
+RV001688,P1020,C0368,2025-03-25,5,Happy with the purchase.
+RV001689,P1033,C0269,2025-06-27,5,Good quality and works as expected.
+RV001690,P1029,C0065,2025-01-31,5,Happy with the purchase.
+RV001691,P1013,C0480,2025-06-26,5,Happy with the purchase.
+RV001692,P1021,C0068,2025-06-16,4,Good quality and works as expected.
+RV001693,P1039,C0423,2025-06-30,5,Performance is acceptable.
+RV001694,P1032,C0448,2025-02-27,5,Happy with the purchase.
+RV001695,P1037,C0103,2025-04-24,4,Good quality and works as expected.
+RV001696,P1031,C0152,2025-10-11,4,Performance is acceptable.
+RV001697,P1015,C0228,2025-10-31,1,The product is okay but not great.
+RV001698,P1026,C0112,2025-07-30,5,Performance is acceptable.
+RV001699,P1035,C0446,2025-11-21,1,Expected better quality.
+RV001700,P1015,C0013,2025-07-17,4,Happy with the purchase.
+RV001701,P1024,C0117,2025-09-21,4,Performance is acceptable.
+RV001702,P1016,C0492,2025-04-22,4,Performance is acceptable.
+RV001703,P1010,C0422,2025-12-31,4,Happy with the purchase.
+RV001704,P1014,C0087,2025-01-29,5,Value for money.
+RV001705,P1012,C0003,2025-10-22,5,Performance is acceptable.
+RV001706,P1040,C0354,2025-12-28,2,The accessory is incompatible with my setup.
+RV001707,P1011,C0406,2025-12-28,4,Value for money.
+RV001708,P1011,C0162,2025-01-27,4,Good quality and works as expected.
+RV001709,P1007,C0289,2025-11-30,5,Value for money.
+RV001710,P1017,C0238,2025-01-04,5,Performance is acceptable.
+RV001711,P1028,C0200,2025-02-17,2,The product is okay but not great.
+RV001712,P1022,C0346,2025-09-26,5,Happy with the purchase.
+RV001713,P1006,C0315,2025-05-31,5,Good quality and works as expected.
+RV001714,P1038,C0305,2025-09-30,5,Good quality and works as expected.
+RV001715,P1014,C0402,2025-05-29,4,Good quality and works as expected.
+RV001716,P1033,C0010,2025-12-20,5,Good quality and works as expected.
+RV001717,P1034,C0108,2025-02-14,5,Value for money.
+RV001718,P1039,C0024,2025-09-21,4,Value for money.
+RV001719,P1038,C0141,2025-01-31,5,Happy with the purchase.
+RV001720,P1036,C0317,2025-01-31,5,Value for money.
+RV001721,P1014,C0011,2025-10-21,5,Good quality and works as expected.
+RV001722,P1030,C0367,2025-10-23,4,Performance is acceptable.
+RV001723,P1021,C0250,2025-07-20,4,Good quality and works as expected.
+RV001724,P1018,C0082,2025-02-17,4,Happy with the purchase.
+RV001725,P1024,C0076,2025-04-30,4,Happy with the purchase.
+RV001726,P1010,C0289,2025-07-28,4,Performance is acceptable.
+RV001727,P1030,C0082,2025-08-22,3,Expected better quality.
+RV001728,P1010,C0021,2025-07-23,3,Delivery was late.
+RV001729,P1007,C0190,2025-09-29,1,Expected better quality.
+RV001730,P1037,C0364,2025-02-26,5,Happy with the purchase.
+RV001731,P1010,C0310,2025-03-18,5,Value for money.
+RV001732,P1023,C0482,2025-07-29,5,Happy with the purchase.
+RV001733,P1024,C0215,2025-10-27,5,Value for money.
+RV001734,P1019,C0084,2025-06-28,2,The product is okay but not great.
+RV001735,P1022,C0308,2025-12-16,5,Good quality and works as expected.
+RV001736,P1004,C0157,2025-09-17,5,Performance is acceptable.
+RV001737,P1008,C0436,2025-02-12,5,Value for money.
+RV001738,P1007,C0343,2025-01-24,4,Performance is acceptable.
+RV001739,P1008,C0424,2025-09-22,4,Happy with the purchase.
+RV001740,P1019,C0151,2025-10-23,5,Good quality and works as expected.
+RV001741,P1029,C0257,2025-10-27,2,The size did not match the description.
+RV001742,P1003,C0273,2025-04-12,4,Performance is acceptable.
+RV001743,P1027,C0458,2025-11-16,1,Expected better quality.
+RV001744,P1023,C0193,2025-03-06,5,Happy with the purchase.
+RV001745,P1022,C0167,2025-06-18,5,Performance is acceptable.
+RV001746,P1025,C0126,2025-05-18,4,Happy with the purchase.
+RV001747,P1038,C0303,2025-12-21,5,Good quality and works as expected.
+RV001748,P1006,C0136,2025-11-30,5,Happy with the purchase.
+RV001749,P1032,C0138,2025-06-11,5,Good quality and works as expected.
+RV001750,P1035,C0109,2025-08-08,5,Good quality and works as expected.
+RV001751,P1018,C0308,2025-07-31,5,Good quality and works as expected.
+RV001752,P1001,C0119,2025-07-30,5,Performance is acceptable.
+RV001753,P1040,C0238,2025-07-31,1,The accessory is incompatible with my setup.
+RV001754,P1029,C0141,2025-10-18,3,Fit is uncomfortable.
+RV001755,P1010,C0148,2025-06-06,3,Delivery was late.
+RV001756,P1008,C0210,2025-06-28,4,Good quality and works as expected.
+RV001757,P1001,C0224,2025-05-27,4,Performance is acceptable.
+RV001758,P1020,C0363,2025-11-28,5,Good quality and works as expected.
+RV001759,P1035,C0367,2025-09-28,5,Value for money.
+RV001760,P1001,C0316,2025-11-15,5,Value for money.
+RV001761,P1026,C0278,2025-04-16,3,Expected better quality.
+RV001762,P1038,C0193,2025-04-07,4,Performance is acceptable.
+RV001763,P1001,C0154,2025-06-30,4,Performance is acceptable.
+RV001764,P1022,C0317,2025-06-29,5,Happy with the purchase.
+RV001765,P1008,C0483,2025-04-19,5,Value for money.
+RV001766,P1035,C0350,2025-11-07,5,Good quality and works as expected.
+RV001767,P1008,C0427,2025-07-10,4,Happy with the purchase.
+RV001768,P1034,C0403,2025-07-26,5,Happy with the purchase.
+RV001769,P1040,C0187,2025-07-14,2,It does not work with my device.
+RV001770,P1024,C0082,2025-06-29,1,A component became loose after limited use.
+RV001771,P1022,C0476,2025-01-31,2,The product is okay but not great.
+RV001772,P1035,C0200,2025-05-20,5,Performance is acceptable.
+RV001773,P1025,C0355,2025-03-24,4,Happy with the purchase.
+RV001774,P1025,C0123,2025-10-26,4,Good quality and works as expected.
+RV001775,P1006,C0225,2025-05-31,5,Good quality and works as expected.
+RV001776,P1009,C0247,2025-10-24,5,Value for money.
+RV001777,P1006,C0040,2025-09-17,5,Happy with the purchase.
+RV001778,P1028,C0469,2025-01-10,5,Happy with the purchase.
+RV001779,P1019,C0413,2025-08-31,5,Happy with the purchase.
+RV001780,P1023,C0089,2025-03-16,3,The product is okay but not great.
+RV001781,P1023,C0213,2025-01-07,5,Value for money.
+RV001782,P1030,C0474,2025-08-31,5,Good quality and works as expected.
+RV001783,P1034,C0426,2025-03-13,1,The product box was crushed during delivery.
+RV001784,P1025,C0179,2025-08-29,5,Good quality and works as expected.
+RV001785,P1004,C0037,2025-07-10,5,Good quality and works as expected.
+RV001786,P1035,C0229,2025-12-23,4,Good quality and works as expected.
+RV001787,P1015,C0414,2025-07-17,4,Good quality and works as expected.
+RV001788,P1003,C0100,2025-03-30,5,Value for money.
+RV001789,P1023,C0194,2025-02-28,5,Value for money.
+RV001790,P1002,C0167,2025-10-22,5,Performance is acceptable.
+RV001791,P1006,C0068,2025-04-26,5,Value for money.
+RV001792,P1021,C0064,2025-10-30,4,Performance is acceptable.
+RV001793,P1032,C0057,2025-08-15,3,Expected better quality.
+RV001794,P1004,C0242,2025-01-26,5,Performance is acceptable.
+RV001795,P1013,C0115,2025-01-29,5,Value for money.
+RV001796,P1007,C0160,2025-06-25,4,Value for money.
+RV001797,P1009,C0099,2025-07-16,5,Happy with the purchase.
+RV001798,P1002,C0246,2025-09-20,5,Performance is acceptable.
+RV001799,P1037,C0111,2025-08-30,2,Connection drops frequently.
+RV001800,P1007,C0148,2025-09-23,5,Good quality and works as expected.
+RV001801,P1038,C0255,2025-05-28,1,Expected better quality.
+RV001802,P1011,C0404,2025-08-25,5,Happy with the purchase.
+RV001803,P1016,C0241,2025-03-27,1,Delivery was late.
+RV001804,P1031,C0075,2025-05-22,5,Value for money.
+RV001805,P1005,C0037,2025-10-21,2,Battery drains much faster than expected.
+RV001806,P1011,C0458,2025-12-30,1,The product is okay but not great.
+RV001807,P1036,C0436,2025-05-11,4,Happy with the purchase.
+RV001808,P1019,C0135,2025-04-25,5,Value for money.
+RV001809,P1009,C0118,2025-03-28,2,The product is okay but not great.
+RV001810,P1006,C0332,2025-10-21,4,Performance is acceptable.
+RV001811,P1026,C0455,2025-11-19,1,Expected better quality.
+RV001812,P1036,C0027,2025-08-25,5,Good quality and works as expected.
+RV001813,P1036,C0231,2025-04-28,4,Happy with the purchase.
+RV001814,P1009,C0251,2025-05-30,5,Happy with the purchase.
+RV001815,P1021,C0206,2025-11-12,5,Performance is acceptable.
+RV001816,P1010,C0408,2025-07-21,5,Performance is acceptable.
+RV001817,P1007,C0313,2025-01-25,5,Good quality and works as expected.
+RV001818,P1037,C0295,2025-04-18,4,Performance is acceptable.
+RV001819,P1030,C0411,2025-09-16,3,Delivery was late.
+RV001820,P1011,C0206,2025-12-15,5,Good quality and works as expected.
+RV001821,P1010,C0199,2025-09-06,5,Good quality and works as expected.
+RV001822,P1010,C0307,2025-10-29,5,Happy with the purchase.
+RV001823,P1022,C0225,2025-08-06,5,Good quality and works as expected.
+RV001824,P1029,C0471,2025-12-25,2,The size did not match the description.
+RV001825,P1016,C0017,2025-04-29,5,Performance is acceptable.
+RV001826,P1008,C0119,2025-08-24,5,Good quality and works as expected.
+RV001827,P1027,C0361,2025-03-30,5,Good quality and works as expected.
+RV001828,P1007,C0246,2025-07-29,5,Value for money.
+RV001829,P1032,C0188,2025-09-23,2,The product is okay but not great.
+RV001830,P1035,C0211,2025-12-31,5,Good quality and works as expected.
+RV001831,P1034,C0392,2025-05-27,5,Performance is acceptable.
+RV001832,P1022,C0210,2025-03-31,4,Value for money.
+RV001833,P1024,C0444,2025-12-31,5,Performance is acceptable.
+RV001834,P1029,C0355,2025-08-31,4,Good quality and works as expected.
+RV001835,P1021,C0280,2025-12-13,5,Happy with the purchase.
+RV001836,P1015,C0315,2025-02-25,4,Performance is acceptable.
+RV001837,P1027,C0186,2025-07-18,5,Value for money.
+RV001838,P1020,C0295,2025-02-25,1,The product is okay but not great.
+RV001839,P1021,C0465,2025-03-10,5,Value for money.
+RV001840,P1004,C0040,2025-01-19,5,Happy with the purchase.
+RV001841,P1029,C0464,2025-10-19,2,Sizing information was misleading.
+RV001842,P1023,C0019,2025-08-22,5,Happy with the purchase.
+RV001843,P1021,C0473,2025-11-30,5,Performance is acceptable.
+RV001844,P1018,C0235,2025-07-29,5,Good quality and works as expected.
+RV001845,P1023,C0433,2025-07-29,5,Performance is acceptable.
+RV001846,P1032,C0064,2025-02-24,3,The product is okay but not great.
+RV001847,P1013,C0190,2025-05-18,5,Good quality and works as expected.
+RV001848,P1018,C0188,2025-11-18,1,Charging is intermittent.
+RV001849,P1006,C0201,2025-03-30,4,Good quality and works as expected.
+RV001850,P1015,C0152,2025-09-28,5,Performance is acceptable.
+RV001851,P1034,C0417,2025-07-15,5,Happy with the purchase.
+RV001852,P1013,C0003,2025-07-31,4,Value for money.
+RV001853,P1035,C0127,2025-06-12,4,Happy with the purchase.
+RV001854,P1040,C0483,2025-02-28,2,It does not work with my device.
+RV001855,P1011,C0181,2025-10-28,5,Performance is acceptable.
+RV001856,P1025,C0309,2025-12-20,4,Good quality and works as expected.
+RV001857,P1032,C0416,2025-06-29,4,Value for money.
+RV001858,P1038,C0234,2025-03-31,2,Expected better quality.
+RV001859,P1002,C0355,2025-04-25,5,Performance is acceptable.
+RV001860,P1028,C0463,2025-10-29,4,Value for money.
+RV001861,P1005,C0017,2025-12-29,2,Battery drains much faster than expected.
+RV001862,P1027,C0114,2025-12-10,4,Good quality and works as expected.
+RV001863,P1003,C0045,2025-11-09,5,Good quality and works as expected.
+RV001864,P1022,C0406,2025-02-14,5,Performance is acceptable.
+RV001865,P1002,C0470,2025-10-26,5,Value for money.
+RV001866,P1030,C0437,2025-04-14,5,Value for money.
+RV001867,P1024,C0398,2025-10-28,3,Build quality does not feel durable.
+RV001868,P1039,C0337,2025-11-16,5,Good quality and works as expected.
+RV001869,P1018,C0481,2025-06-29,5,Happy with the purchase.
+RV001870,P1004,C0121,2025-05-06,5,Good quality and works as expected.
+RV001871,P1018,C0127,2025-11-24,5,Performance is acceptable.
+RV001872,P1011,C0006,2025-07-31,4,Value for money.
+RV001873,P1036,C0145,2025-08-06,5,Performance is acceptable.
+RV001874,P1005,C0382,2025-06-26,5,Good quality and works as expected.
+RV001875,P1033,C0470,2025-01-23,5,Happy with the purchase.
+RV001876,P1038,C0024,2025-08-28,5,Value for money.
+RV001877,P1012,C0252,2025-09-21,4,Performance is acceptable.
+RV001878,P1023,C0322,2025-10-25,5,Value for money.
+RV001879,P1030,C0491,2025-12-30,5,Performance is acceptable.
+RV001880,P1019,C0422,2025-09-19,5,Good quality and works as expected.
+RV001881,P1013,C0065,2025-05-21,5,Good quality and works as expected.
+RV001882,P1031,C0156,2025-08-28,4,Good quality and works as expected.
+RV001883,P1011,C0185,2025-05-28,5,Value for money.
+RV001884,P1040,C0378,2025-06-06,4,Performance is acceptable.
+RV001885,P1029,C0129,2025-01-21,5,Happy with the purchase.
+RV001886,P1038,C0142,2025-03-31,5,Performance is acceptable.
+RV001887,P1017,C0371,2025-03-29,5,Value for money.
+RV001888,P1023,C0012,2025-06-30,3,Delivery was late.
+RV001889,P1032,C0054,2025-02-19,5,Performance is acceptable.
+RV001890,P1018,C0100,2025-07-29,4,Happy with the purchase.
+RV001891,P1032,C0421,2025-11-20,5,Good quality and works as expected.
+RV001892,P1036,C0112,2025-01-30,3,The product is okay but not great.
+RV001893,P1001,C0396,2025-07-26,4,Performance is acceptable.
+RV001894,P1011,C0006,2025-10-19,2,Expected better quality.
+RV001895,P1017,C0036,2025-08-25,5,Happy with the purchase.
+RV001896,P1001,C0181,2025-04-15,5,Good quality and works as expected.
+RV001897,P1039,C0492,2025-03-14,5,Good quality and works as expected.
+RV001898,P1035,C0079,2025-02-08,5,Value for money.
+RV001899,P1029,C0246,2025-12-06,1,Fit is uncomfortable.
+RV001900,P1007,C0320,2025-04-26,5,Value for money.
+RV001901,P1037,C0145,2025-10-15,3,Pairing is unreliable.
+RV001902,P1015,C0073,2025-02-24,5,Value for money.
+RV001903,P1035,C0131,2025-02-26,5,Performance is acceptable.
+RV001904,P1016,C0196,2025-04-30,5,Value for money.
+RV001905,P1007,C0002,2025-03-26,5,Performance is acceptable.
+RV001906,P1001,C0007,2025-09-23,5,Happy with the purchase.
+RV001907,P1007,C0353,2025-05-27,4,Happy with the purchase.
+RV001908,P1009,C0104,2025-05-20,4,Happy with the purchase.
+RV001909,P1010,C0126,2025-01-31,5,Happy with the purchase.
+RV001910,P1005,C0055,2025-11-28,1,Battery drains much faster than expected.
+RV001911,P1011,C0329,2025-11-30,4,Happy with the purchase.
+RV001912,P1003,C0438,2025-08-21,4,Good quality and works as expected.
+RV001913,P1016,C0223,2025-12-07,5,Performance is acceptable.
+RV001914,P1016,C0475,2025-04-21,5,Value for money.
+RV001915,P1028,C0396,2025-02-22,5,Good quality and works as expected.
+RV001916,P1017,C0384,2025-09-25,5,Performance is acceptable.
+RV001917,P1028,C0146,2025-07-17,2,Expected better quality.
+RV001918,P1025,C0455,2025-04-06,5,Happy with the purchase.
+RV001919,P1019,C0219,2025-12-20,5,Value for money.
+RV001920,P1024,C0126,2025-01-23,4,Good quality and works as expected.
+RV001921,P1027,C0388,2025-05-31,4,Good quality and works as expected.
+RV001922,P1022,C0257,2025-11-27,5,Value for money.
+RV001923,P1040,C0498,2025-09-21,3,The accessory is incompatible with my setup.
+RV001924,P1025,C0346,2025-02-23,1,Delivery was late.
+RV001925,P1024,C0014,2025-04-30,2,A component became loose after limited use.
+RV001926,P1010,C0278,2025-10-24,5,Good quality and works as expected.
+RV001927,P1026,C0497,2025-09-22,5,Good quality and works as expected.
+RV001928,P1019,C0202,2025-02-27,2,Delivery was late.
+RV001929,P1012,C0233,2025-09-21,4,Value for money.
+RV001930,P1035,C0273,2025-09-30,4,Good quality and works as expected.
+RV001931,P1023,C0222,2025-09-21,5,Happy with the purchase.
+RV001932,P1009,C0441,2025-09-24,1,Expected better quality.
+RV001933,P1025,C0208,2025-12-23,5,Performance is acceptable.
+RV001934,P1035,C0443,2025-10-28,5,Happy with the purchase.
+RV001935,P1002,C0270,2025-02-17,3,The product is okay but not great.
+RV001936,P1007,C0267,2025-11-24,4,Happy with the purchase.
+RV001937,P1001,C0206,2025-10-29,5,Happy with the purchase.
+RV001938,P1014,C0237,2025-09-24,1,Delivery was late.
+RV001939,P1002,C0189,2025-03-16,4,Performance is acceptable.
+RV001940,P1031,C0087,2025-09-29,5,Happy with the purchase.
+RV001941,P1029,C0058,2025-12-05,4,Performance is acceptable.
+RV001942,P1032,C0280,2025-01-16,5,Performance is acceptable.
+RV001943,P1011,C0025,2025-04-20,2,The product is okay but not great.
+RV001944,P1014,C0361,2025-11-27,5,Happy with the purchase.
+RV001945,P1015,C0360,2025-11-30,5,Happy with the purchase.
+RV001946,P1017,C0227,2025-11-24,5,Performance is acceptable.
+RV001947,P1014,C0408,2025-10-20,5,Value for money.
+RV001948,P1023,C0413,2025-07-23,5,Value for money.
+RV001949,P1011,C0479,2025-03-31,4,Happy with the purchase.
+RV001950,P1007,C0018,2025-09-26,2,Delivery was late.
+RV001951,P1037,C0051,2025-05-22,5,Performance is acceptable.
+RV001952,P1007,C0494,2025-08-26,4,Good quality and works as expected.
+RV001953,P1037,C0050,2025-10-23,4,Good quality and works as expected.
+RV001954,P1025,C0086,2025-12-26,2,Expected better quality.
+RV001955,P1027,C0369,2025-08-27,1,Delivery was late.
+RV001956,P1025,C0113,2025-01-23,5,Happy with the purchase.
+RV001957,P1032,C0404,2025-08-12,5,Happy with the purchase.
+RV001958,P1001,C0342,2025-10-17,5,Value for money.
+RV001959,P1005,C0140,2025-09-24,4,Good quality and works as expected.
+RV001960,P1038,C0392,2025-06-27,5,Value for money.
+RV001961,P1024,C0251,2025-09-26,4,Value for money.
+RV001962,P1039,C0476,2025-04-14,5,Value for money.
+RV001963,P1038,C0403,2025-09-29,5,Value for money.
+RV001964,P1038,C0406,2025-02-10,2,The product is okay but not great.
+RV001965,P1038,C0431,2025-12-31,5,Happy with the purchase.
+RV001966,P1039,C0400,2025-01-25,4,Value for money.
+RV001967,P1002,C0143,2025-06-25,5,Performance is acceptable.
+RV001968,P1016,C0117,2025-04-22,5,Value for money.
+RV001969,P1034,C0223,2025-09-24,3,The item arrived with damaged packaging.
+RV001970,P1011,C0006,2025-11-26,5,Good quality and works as expected.
+RV001971,P1010,C0083,2025-06-25,5,Happy with the purchase.
+RV001972,P1011,C0023,2025-12-23,5,Good quality and works as expected.
+RV001973,P1030,C0430,2025-06-26,5,Happy with the purchase.
+RV001974,P1015,C0257,2025-11-07,5,Performance is acceptable.
+RV001975,P1013,C0352,2025-05-27,2,Performance dropped after a few weeks.
+RV001976,P1021,C0221,2025-02-27,5,Happy with the purchase.
+RV001977,P1014,C0235,2025-08-09,4,Good quality and works as expected.
+RV001978,P1031,C0044,2025-03-29,4,Value for money.
+RV001979,P1010,C0206,2025-01-31,5,Value for money.
+RV001980,P1028,C0404,2025-06-24,4,Happy with the purchase.
+RV001981,P1010,C0402,2025-04-22,5,Performance is acceptable.
+RV001982,P1001,C0298,2025-09-22,4,Happy with the purchase.
+RV001983,P1016,C0490,2025-09-07,2,Expected better quality.
+RV001984,P1001,C0482,2025-07-22,4,Good quality and works as expected.
+RV001985,P1001,C0360,2025-03-23,1,Delivery was late.
+RV001986,P1025,C0351,2025-02-27,5,Good quality and works as expected.
+RV001987,P1039,C0018,2025-05-30,5,Good quality and works as expected.
+RV001988,P1032,C0146,2025-08-25,3,Expected better quality.
+RV001989,P1015,C0143,2025-02-28,5,Performance is acceptable.
+RV001990,P1031,C0304,2025-04-25,4,Value for money.
+RV001991,P1008,C0419,2025-02-28,4,Good quality and works as expected.
+RV001992,P1036,C0063,2025-10-06,4,Happy with the purchase.
+RV001993,P1033,C0371,2025-07-20,5,Value for money.
+RV001994,P1038,C0118,2025-04-17,4,Performance is acceptable.
+RV001995,P1033,C0474,2025-10-27,5,Performance is acceptable.
+RV001996,P1011,C0347,2025-09-27,1,The product is okay but not great.
+RV001997,P1016,C0159,2025-06-09,4,Happy with the purchase.
+RV001998,P1028,C0085,2025-12-19,5,Performance is acceptable.
+RV001999,P1024,C0075,2025-11-30,5,Performance is acceptable.
+RV002000,P1004,C0068,2025-03-28,1,Delivery was late.
+RV002001,P1018,C0434,2025-02-22,5,Happy with the purchase.
+RV002002,P1025,C0342,2025-02-21,5,Performance is acceptable.
+RV002003,P1025,C0488,2025-10-15,5,Performance is acceptable.
+RV002004,P1002,C0471,2025-02-24,4,Happy with the purchase.
+RV002005,P1040,C0313,2025-06-27,3,The accessory is incompatible with my setup.
+RV002006,P1038,C0412,2025-04-26,4,Happy with the purchase.
+RV002007,P1037,C0138,2025-02-07,5,Performance is acceptable.
+RV002008,P1023,C0445,2025-08-23,5,Value for money.
+RV002009,P1009,C0004,2025-11-17,5,Happy with the purchase.
+RV002010,P1007,C0387,2025-06-28,1,Delivery was late.
+RV002011,P1008,C0110,2025-08-27,4,Value for money.
+RV002012,P1027,C0281,2025-09-09,4,Good quality and works as expected.
+RV002013,P1008,C0337,2025-07-22,4,Good quality and works as expected.
+RV002014,P1017,C0030,2025-10-14,5,Happy with the purchase.
+RV002015,P1023,C0191,2025-02-28,5,Happy with the purchase.
+RV002016,P1018,C0091,2025-10-20,4,Performance is acceptable.
+RV002017,P1017,C0237,2025-01-26,5,Good quality and works as expected.
+RV002018,P1004,C0306,2025-05-26,5,Good quality and works as expected.
+RV002019,P1014,C0115,2025-03-30,4,Performance is acceptable.
+RV002020,P1024,C0071,2025-01-31,2,A component became loose after limited use.
+RV002021,P1006,C0252,2025-11-26,5,Happy with the purchase.
+RV002022,P1019,C0166,2025-07-06,5,Happy with the purchase.
+RV002023,P1032,C0003,2025-03-31,5,Performance is acceptable.
+RV002024,P1003,C0129,2025-05-14,5,Value for money.
+RV002025,P1024,C0238,2025-04-16,3,A component became loose after limited use.
+RV002026,P1027,C0213,2025-09-12,4,Performance is acceptable.
+RV002027,P1015,C0396,2025-05-29,5,Good quality and works as expected.
+RV002028,P1014,C0249,2025-07-28,4,Value for money.
+RV002029,P1028,C0077,2025-06-08,5,Performance is acceptable.
+RV002030,P1014,C0313,2025-08-24,4,Good quality and works as expected.
+RV002031,P1029,C0086,2025-12-16,2,Sizing information was misleading.
+RV002032,P1040,C0037,2025-12-11,4,Value for money.
+RV002033,P1040,C0294,2025-12-13,2,Compatibility information is unclear.
+RV002034,P1011,C0091,2025-08-25,5,Happy with the purchase.
+RV002035,P1001,C0176,2025-03-29,4,Performance is acceptable.
+RV002036,P1028,C0100,2025-10-14,2,Delivery was late.
+RV002037,P1021,C0367,2025-12-30,4,Good quality and works as expected.
+RV002038,P1031,C0099,2025-01-07,4,Good quality and works as expected.
+RV002039,P1022,C0195,2025-10-19,5,Performance is acceptable.
+RV002040,P1029,C0268,2025-05-27,5,Value for money.
+RV002041,P1004,C0445,2025-01-27,5,Value for money.
+RV002042,P1040,C0221,2025-01-31,5,Value for money.
+RV002043,P1017,C0108,2025-10-31,5,Good quality and works as expected.
+RV002044,P1012,C0412,2025-09-21,4,Happy with the purchase.
+RV002045,P1037,C0204,2025-02-28,3,The device disconnects unexpectedly.
+RV002046,P1034,C0309,2025-04-26,1,The item arrived with visible damage.
+RV002047,P1036,C0429,2025-10-24,5,Good quality and works as expected.
+RV002048,P1004,C0053,2025-07-14,5,Performance is acceptable.
+RV002049,P1023,C0478,2025-08-27,4,Performance is acceptable.
+RV002050,P1013,C0316,2025-04-25,2,The device stopped working during normal use.
+RV002051,P1037,C0318,2025-05-27,5,Good quality and works as expected.
+RV002052,P1008,C0326,2025-01-30,4,Happy with the purchase.
+RV002053,P1028,C0130,2025-08-31,5,Value for money.
+RV002054,P1013,C0223,2025-12-31,2,The device stopped working during normal use.
+RV002055,P1022,C0212,2025-12-21,4,Good quality and works as expected.
+RV002056,P1040,C0138,2025-05-13,5,Happy with the purchase.
+RV002057,P1019,C0270,2025-02-28,4,Performance is acceptable.
+RV002058,P1023,C0175,2025-05-30,5,Good quality and works as expected.
+RV002059,P1030,C0192,2025-07-16,5,Value for money.
+RV002060,P1022,C0179,2025-06-30,5,Good quality and works as expected.
+RV002061,P1037,C0189,2025-01-19,5,Performance is acceptable.
+RV002062,P1024,C0157,2025-04-27,2,A component became loose after limited use.
+RV002063,P1029,C0352,2025-11-15,5,Performance is acceptable.
+RV002064,P1019,C0148,2025-04-12,4,Good quality and works as expected.
+RV002065,P1018,C0364,2025-08-25,3,Charging is intermittent.
+RV002066,P1003,C0311,2025-04-26,4,Good quality and works as expected.
+RV002067,P1020,C0344,2025-08-29,4,Value for money.
+RV002068,P1029,C0293,2025-02-24,2,The size did not match the description.
+RV002069,P1010,C0036,2025-03-28,5,Good quality and works as expected.
+RV002070,P1004,C0121,2025-01-19,4,Value for money.
+RV002071,P1002,C0029,2025-08-19,5,Value for money.
+RV002072,P1002,C0311,2025-08-20,4,Good quality and works as expected.
+RV002073,P1008,C0353,2025-11-10,5,Happy with the purchase.
+RV002074,P1008,C0250,2025-12-31,5,Performance is acceptable.
+RV002075,P1024,C0381,2025-03-20,4,Performance is acceptable.
+RV002076,P1013,C0246,2025-07-20,5,Happy with the purchase.
+RV002077,P1003,C0201,2025-01-21,5,Happy with the purchase.
+RV002078,P1040,C0416,2025-04-30,1,The accessory is incompatible with my setup.
+RV002079,P1031,C0069,2025-01-29,5,Performance is acceptable.
+RV002080,P1008,C0499,2025-10-27,4,Good quality and works as expected.
+RV002081,P1005,C0051,2025-10-31,2,Battery backup is poor compared with expectations.
+RV002082,P1026,C0342,2025-10-27,4,Performance is acceptable.
+RV002083,P1037,C0462,2025-04-29,5,Good quality and works as expected.
+RV002084,P1029,C0441,2025-03-28,5,Performance is acceptable.
+RV002085,P1002,C0317,2025-05-25,4,Good quality and works as expected.
+RV002086,P1001,C0456,2025-07-19,4,Performance is acceptable.
+RV002087,P1018,C0498,2025-06-19,3,Charging is intermittent.
+RV002088,P1007,C0178,2025-05-22,5,Value for money.
+RV002089,P1021,C0476,2025-11-08,2,Expected better quality.
+RV002090,P1010,C0308,2025-11-26,4,Performance is acceptable.
+RV002091,P1013,C0496,2025-12-16,1,The device stopped working during normal use.
+RV002092,P1003,C0024,2025-06-15,4,Happy with the purchase.
+RV002093,P1024,C0475,2025-01-19,4,Happy with the purchase.
+RV002094,P1030,C0044,2025-07-20,5,Happy with the purchase.
+RV002095,P1026,C0192,2025-02-26,5,Performance is acceptable.
+RV002096,P1026,C0082,2025-12-18,5,Good quality and works as expected.
+RV002097,P1015,C0499,2025-02-13,4,Good quality and works as expected.
+RV002098,P1028,C0186,2025-09-27,5,Performance is acceptable.
+RV002099,P1039,C0327,2025-12-24,5,Performance is acceptable.
+RV002100,P1009,C0373,2025-09-07,5,Happy with the purchase.
+RV002101,P1010,C0304,2025-03-20,5,Value for money.
+RV002102,P1039,C0103,2025-04-29,5,Happy with the purchase.
+RV002103,P1005,C0374,2025-09-19,1,Battery backup is poor compared with expectations.
+RV002104,P1006,C0051,2025-01-30,5,Value for money.
+RV002105,P1028,C0249,2025-03-30,5,Value for money.
+RV002106,P1001,C0418,2025-05-04,5,Performance is acceptable.
+RV002107,P1029,C0013,2025-09-07,1,Fit is uncomfortable.
+RV002108,P1027,C0134,2025-02-28,5,Good quality and works as expected.
+RV002109,P1011,C0109,2025-01-18,5,Performance is acceptable.
+RV002110,P1031,C0017,2025-05-29,5,Performance is acceptable.
+RV002111,P1039,C0244,2025-06-26,5,Happy with the purchase.
+RV002112,P1030,C0466,2025-06-25,4,Good quality and works as expected.
+RV002113,P1011,C0267,2025-07-30,4,Value for money.
+RV002114,P1022,C0424,2025-11-12,5,Performance is acceptable.
+RV002115,P1012,C0242,2025-09-14,5,Good quality and works as expected.
+RV002116,P1002,C0142,2025-09-25,5,Good quality and works as expected.
+RV002117,P1019,C0098,2025-02-27,4,Value for money.
+RV002118,P1040,C0144,2025-07-08,5,Good quality and works as expected.
+RV002119,P1015,C0279,2025-07-22,5,Good quality and works as expected.
+RV002120,P1006,C0278,2025-08-26,4,Good quality and works as expected.
+RV002121,P1023,C0229,2025-04-29,4,Happy with the purchase.
+RV002122,P1025,C0402,2025-12-26,5,Happy with the purchase.
+RV002123,P1030,C0355,2025-11-29,4,Good quality and works as expected.
+RV002124,P1013,C0461,2025-09-27,5,Performance is acceptable.
+RV002125,P1020,C0089,2025-10-30,5,Happy with the purchase.
+RV002126,P1004,C0394,2025-10-30,3,The product is okay but not great.
+RV002127,P1014,C0178,2025-02-17,5,Happy with the purchase.
+RV002128,P1029,C0171,2025-06-24,5,Value for money.
+RV002129,P1035,C0069,2025-07-31,5,Performance is acceptable.
+RV002130,P1017,C0133,2025-09-10,5,Happy with the purchase.
+RV002131,P1007,C0179,2025-08-18,5,Value for money.
+RV002132,P1038,C0488,2025-12-20,5,Good quality and works as expected.
+RV002133,P1025,C0005,2025-02-13,5,Performance is acceptable.
+RV002134,P1013,C0210,2025-01-30,5,Happy with the purchase.
+RV002135,P1027,C0394,2025-08-31,4,Good quality and works as expected.
+RV002136,P1009,C0499,2025-02-06,5,Performance is acceptable.
+RV002137,P1020,C0401,2025-06-21,5,Happy with the purchase.
+RV002138,P1039,C0244,2025-09-30,5,Performance is acceptable.
+RV002139,P1033,C0364,2025-11-22,5,Good quality and works as expected.
+RV002140,P1028,C0448,2025-01-21,4,Performance is acceptable.
+RV002141,P1040,C0144,2025-10-04,1,Compatibility information is unclear.
+RV002142,P1017,C0064,2025-09-25,5,Happy with the purchase.
+RV002143,P1035,C0060,2025-05-26,5,Performance is acceptable.
+RV002144,P1031,C0130,2025-10-21,5,Value for money.
+RV002145,P1017,C0001,2025-02-23,4,Value for money.
+RV002146,P1023,C0500,2025-10-31,5,Good quality and works as expected.
+RV002147,P1018,C0030,2025-01-24,4,Performance is acceptable.
+RV002148,P1002,C0003,2025-10-18,5,Value for money.
+RV002149,P1035,C0367,2025-02-25,5,Value for money.
+RV002150,P1026,C0111,2025-09-30,5,Performance is acceptable.
+RV002151,P1024,C0031,2025-02-25,5,Good quality and works as expected.
+RV002152,P1016,C0322,2025-09-30,5,Performance is acceptable.
+RV002153,P1034,C0158,2025-01-06,3,The product box was crushed during delivery.
+RV002154,P1025,C0464,2025-05-11,5,Performance is acceptable.
+RV002155,P1039,C0474,2025-09-18,5,Happy with the purchase.
+RV002156,P1021,C0270,2025-06-20,4,Good quality and works as expected.
+RV002157,P1037,C0349,2025-02-07,4,Good quality and works as expected.
+RV002158,P1035,C0215,2025-08-10,5,Good quality and works as expected.
+RV002159,P1003,C0253,2025-07-31,5,Good quality and works as expected.
+RV002160,P1013,C0453,2025-02-28,3,The motor started making unusual noise.
+RV002161,P1029,C0365,2025-01-14,5,Happy with the purchase.
+RV002162,P1031,C0055,2025-06-24,5,Good quality and works as expected.
+RV002163,P1028,C0142,2025-08-31,5,Happy with the purchase.
+RV002164,P1014,C0361,2025-01-24,5,Performance is acceptable.
+RV002165,P1006,C0091,2025-11-24,5,Performance is acceptable.
+RV002166,P1002,C0396,2025-12-28,5,Value for money.
+RV002167,P1031,C0137,2025-01-12,3,Expected better quality.
+RV002168,P1010,C0027,2025-10-29,4,Value for money.
+RV002169,P1007,C0390,2025-02-27,4,Good quality and works as expected.
+RV002170,P1039,C0023,2025-10-11,2,Expected better quality.
+RV002171,P1019,C0342,2025-08-12,4,Performance is acceptable.
+RV002172,P1040,C0245,2025-11-29,2,Compatibility information is unclear.
+RV002173,P1017,C0136,2025-12-23,4,Performance is acceptable.
+RV002174,P1016,C0272,2025-03-31,5,Performance is acceptable.
+RV002175,P1002,C0307,2025-11-30,5,Happy with the purchase.
+RV002176,P1002,C0036,2025-04-15,5,Happy with the purchase.
+RV002177,P1012,C0415,2025-12-29,5,Good quality and works as expected.
+RV002178,P1034,C0341,2025-12-19,1,The item arrived with visible damage.
+RV002179,P1035,C0377,2025-11-25,3,Expected better quality.
+RV002180,P1038,C0464,2025-09-29,5,Performance is acceptable.
+RV002181,P1002,C0283,2025-08-31,4,Value for money.
+RV002182,P1003,C0345,2025-10-26,5,Value for money.
+RV002183,P1009,C0409,2025-12-25,5,Value for money.
+RV002184,P1028,C0119,2025-03-13,5,Value for money.
+RV002185,P1025,C0112,2025-12-20,4,Happy with the purchase.
+RV002186,P1002,C0414,2025-12-30,5,Happy with the purchase.
+RV002187,P1031,C0013,2025-05-16,4,Performance is acceptable.
+RV002188,P1037,C0259,2025-11-13,2,Connection drops frequently.
+RV002189,P1009,C0466,2025-09-30,5,Good quality and works as expected.
+RV002190,P1023,C0165,2025-01-24,1,The product is okay but not great.
+RV002191,P1026,C0114,2025-05-26,5,Happy with the purchase.
+RV002192,P1039,C0315,2025-03-21,4,Good quality and works as expected.
+RV002193,P1034,C0224,2025-08-24,5,Performance is acceptable.
+RV002194,P1023,C0049,2025-06-14,4,Performance is acceptable.
+RV002195,P1012,C0429,2025-12-31,5,Performance is acceptable.
+RV002196,P1038,C0373,2025-01-26,4,Happy with the purchase.
+RV002197,P1025,C0126,2025-06-29,2,The product is okay but not great.
+RV002198,P1030,C0150,2025-01-22,3,Expected better quality.
+RV002199,P1028,C0172,2025-07-26,2,Expected better quality.
+RV002200,P1002,C0290,2025-12-25,4,Happy with the purchase.

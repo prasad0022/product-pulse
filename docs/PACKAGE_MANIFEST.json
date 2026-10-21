@@ -1,0 +1,36 @@
+{
+  "project_version": "0.2.0",
+  "project_title": "Product Risk Detection Platform",
+  "application_name": "Product Pulse",
+  "data_is_synthetic": true,
+  "data_period": "2025-01 through 2025-12",
+  "random_seed": 42,
+  "processed_csv_row_counts": {
+    "customers.csv": 500,
+    "knowledge_documents.csv": 48,
+    "order_items.csv": 6202,
+    "orders.csv": 5010,
+    "product_metrics_monthly.csv": 480,
+    "product_risk_labels.csv": 440,
+    "product_risk_summary.csv": 40,
+    "products.csv": 40,
+    "returns.csv": 444,
+    "reviews.csv": 2200,
+    "risk_model_predictions.csv": 440,
+    "support_tickets.csv": 1000
+  },
+  "rag_chunk_count": 48,
+  "ml_artifact": "models/risk_model.joblib (rebuild with scripts/train_model.py)",
+  "required_rebuild_steps": [
+    "python scripts/generate_data.py",
+    "python scripts/validate_data.py",
+    "python scripts/train_model.py",
+    "python scripts/evaluate_rag.py",
+    "pytest -q"
+  ],
+  "known_verification_limits": [
+    "Docker Compose was not run in the authoring workspace because Docker was unavailable.",
+    "npm install/npm run build was not completed in the authoring workspace; JSX syntax check passed.",
+    "Gemini API call is optional and requires a user-provided API key."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "products.csv": [
+    "product_id",
+    "product_name",
+    "category",
+    "brand",
+    "base_price",
+    "launch_date",
+    "risk_profile"
+  ],
+  "customers.csv": [
+    "customer_id",
+    "customer_segment",
+    "region",
+    "signup_date"
+  ],
+  "orders.csv": [
+    "order_id",
+    "customer_id",
+    "order_date",
+    "order_status",
+    "payment_method",
+    "channel"
+  ],
+  "order_items.csv": [
+    "order_item_id",
+    "order_id",
+    "product_id",
+    "quantity",
+    "unit_price"
+  ],
+  "returns.csv": [
+    "return_id",
+    "order_item_id",
+    "return_date",
+    "return_reason",
+    "return_status",
+    "returned_quantity"
+  ],
+  "reviews.csv": [
+    "review_id",
+    "product_id",
+    "customer_id",
+    "review_date",
+    "rating",
+    "review_text"
+  ],
+  "support_tickets.csv": [
+    "ticket_id",
+    "product_id",
+    "customer_id",
+    "created_at",
+    "issue_type",
+    "priority",
+    "resolution_time_hours",
+    "resolution_status",
+    "ticket_text"
+  ],
+  "product_metrics_monthly.csv": [
+    "product_id",
+    "month",
+    "orders",
+    "units_sold",
+    "returned_units",
+    "avg_rating",
+    "review_count",
+    "negative_review_rate",
+    "support_ticket_count",
+    "return_rate"
+  ],
+  "product_risk_labels.csv": [
+    "product_id",
+    "month",
+    "risk_score",
+    "risk_level",
+    "future_high_risk"
+  ],
+  "product_risk_summary.csv": [
+    "product_id",
+    "product_name",
+    "category",
+    "brand",
+    "return_rate",
+    "avg_rating",
+    "negative_review_rate",
+    "support_ticket_count",
+    "risk_signal_score",
+    "risk_level"
+  ],
+  "knowledge_documents.csv": [
+    "document_id",
+    "product_id",
+    "document_type",
+    "title",
+    "content"
+  ],
+  "data/rag/document_chunks.csv": [
+    "chunk_id",
+    "document_id",
+    "product_id",
+    "document_type",
+    "title",
+    "chunk_index",
+    "text"
+  ],
+  "risk_model_predictions.csv": [
+    "product_id",
+    "month",
+    "future_high_risk",
+    "predicted_next_month_high_risk_probability",
+    "split"
+  ]
+}

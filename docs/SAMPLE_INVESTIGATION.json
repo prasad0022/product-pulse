@@ -1,0 +1,142 @@
+{
+  "product_id": "P1029",
+  "question": "Why is this product high risk and what should we investigate?",
+  "generation_mode": "deterministic_fallback",
+  "retrieval_mode": "keyword_fallback",
+  "response": {
+    "findings": [
+      "Orbit Food Storage Set is currently High risk with a score of 90.9/100.",
+      "Trailing risk-summary return rate is 30.2%.",
+      "Average rating in the latest monthly record is 2.33/5."
+    ],
+    "evidence": [
+      "Support tickets observed in the dataset: 23.",
+      "Most common support issue types: Size / fit."
+    ],
+    "root_cause_candidates": [
+      "Investigate sizing specification or product-dimension issue (source D0029); this is a candidate, not a confirmed cause.",
+      "Investigate sizing specification or product-dimension issue (source D0045); this is a candidate, not a confirmed cause."
+    ],
+    "recommended_actions": [
+      "review dimensions, update listing measurements, validate the size chart",
+      "review dimensions, update listing measurements, validate the size chart. This record is supporting evidence only and does not prove the cause of a current problem"
+    ],
+    "sources": [
+      {
+        "source_id": "D0029",
+        "title": "Orbit Food Storage Set \u2014 Product & Warranty Guide"
+      },
+      {
+        "source_id": "D0045",
+        "title": "Historical RCA \u2014 Orbit Food Storage Set"
+      }
+    ],
+    "disclaimer": "Decision-support output. Retrieved historical guidance is supporting evidence, not proof of current causality."
+  },
+  "raw_evidence": {
+    "risk": {
+      "product_id": "P1029",
+      "product_name": "Orbit Food Storage Set",
+      "category": "Home & Kitchen",
+      "brand": "Nexora",
+      "return_rate": 0.3020333333333333,
+      "avg_rating": 2.7776666666666667,
+      "negative_review_rate": 0.6481333333333333,
+      "support_ticket_count": 1.3,
+      "risk_signal_score": 90.89,
+      "risk_level": "High",
+      "predicted_next_month_high_risk_probability": 1.0
+    },
+    "recent_trend": [
+      {
+        "month": "2025-07",
+        "orders": 9,
+        "units_sold": 9,
+        "returned_units": 0,
+        "return_rate": 0.0,
+        "avg_rating": 3.0,
+        "negative_review_rate": 0.6667,
+        "support_ticket_count": 2
+      },
+      {
+        "month": "2025-08",
+        "orders": 15,
+        "units_sold": 15,
+        "returned_units": 3,
+        "return_rate": 0.2,
+        "avg_rating": 3.8,
+        "negative_review_rate": 0.4,
+        "support_ticket_count": 2
+      },
+      {
+        "month": "2025-09",
+        "orders": 10,
+        "units_sold": 11,
+        "returned_units": 3,
+        "return_rate": 0.2727,
+        "avg_rating": 1.5,
+        "negative_review_rate": 1.0,
+        "support_ticket_count": 3
+      },
+      {
+        "month": "2025-10",
+        "orders": 11,
+        "units_sold": 11,
+        "returned_units": 4,
+        "return_rate": 0.3636,
+        "avg_rating": 2.333,
+        "negative_review_rate": 0.8333,
+        "support_ticket_count": 1
+      },
+      {
+        "month": "2025-11",
+        "orders": 13,
+        "units_sold": 13,
+        "returned_units": 5,
+        "return_rate": 0.3846,
+        "avg_rating": 3.667,
+        "negative_review_rate": 0.3333,
+        "support_ticket_count": 1
+      },
+      {
+        "month": "2025-12",
+        "orders": 18,
+        "units_sold": 19,
+        "returned_units": 3,
+        "return_rate": 0.1579,
+        "avg_rating": 2.333,
+        "negative_review_rate": 0.7778,
+        "support_ticket_count": 2
+      }
+    ],
+    "support": {
+      "ticket_count": 23,
+      "top_issue_types": {
+        "Size / fit": 23
+      },
+      "avg_resolution_hours": 11.24
+    }
+  },
+  "retrieved_sources": [
+    {
+      "chunk_id": "CH00029",
+      "document_id": "D0029",
+      "product_id": "P1029",
+      "title": "Orbit Food Storage Set \u2014 Product & Warranty Guide",
+      "document_type": "product_knowledge",
+      "text": "Product: Orbit Food Storage Set Product ID: P1029 Category: Home & Kitchen Brand: Nexora Purpose: Product usage, warranty, troubleshooting and quality investigation guidance. Known symptoms: The size did not match the description.; Fit is uncomfortable.; Sizing information was misleading. Potential root cause: sizing specification or product-dimension issue. Recommended operational actions: review dimensions, update listing measurements, validate the size chart. Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch. Escalation: Repeated or clustered failures should be reviewed by the quality team.",
+      "score": 0.36363636363636365,
+      "retrieval_mode": "keyword_fallback"
+    },
+    {
+      "chunk_id": "CH00045",
+      "document_id": "D0045",
+      "product_id": "P1029",
+      "title": "Historical RCA \u2014 Orbit Food Storage Set",
+      "document_type": "historical_rca",
+      "text": "Historical incident review for Orbit Food Storage Set (P1029). Observed symptoms: The size did not match the description.; Fit is uncomfortable.; Sizing information was misleading.. A previous investigation identified sizing specification or product-dimension issue as a likely cause. Recommended actions: review dimensions, update listing measurements, validate the size chart. This record is supporting evidence only and does not prove the cause of a current problem.",
+      "score": 0.36363636363636365,
+      "retrieval_mode": "keyword_fallback"
+    }
+  ]
+}

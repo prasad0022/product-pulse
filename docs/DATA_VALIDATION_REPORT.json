@@ -1,0 +1,109 @@
+{
+  "all_checks_passed": true,
+  "checks": {
+    "exactly_40_products": true,
+    "unique_product_ids": true,
+    "unique_customer_ids": true,
+    "unique_order_ids": true,
+    "unique_order_item_ids": true,
+    "unique_return_ids": true,
+    "unique_review_ids": true,
+    "unique_ticket_ids": true,
+    "orders_reference_customers": true,
+    "items_reference_orders": true,
+    "items_reference_products": true,
+    "returns_reference_order_items": true,
+    "reviews_reference_products": true,
+    "reviews_reference_customers": true,
+    "tickets_reference_products": true,
+    "tickets_reference_customers": true,
+    "monthly_metrics_have_480_rows": true,
+    "monthly_metric_product_month_unique": true,
+    "labels_exclude_december": true,
+    "labels_reference_products": true,
+    "knowledge_docs_reference_products": true,
+    "chunks_reference_documents": true,
+    "return_rates_in_range": true,
+    "ratings_in_range": true
+  },
+  "tables": [
+    {
+      "file": "products.csv",
+      "rows": 40,
+      "columns": 7,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "customers.csv",
+      "rows": 500,
+      "columns": 4,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "orders.csv",
+      "rows": 5010,
+      "columns": 6,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "order_items.csv",
+      "rows": 6202,
+      "columns": 5,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "returns.csv",
+      "rows": 444,
+      "columns": 6,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "reviews.csv",
+      "rows": 2200,
+      "columns": 6,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "support_tickets.csv",
+      "rows": 1000,
+      "columns": 9,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "product_metrics_monthly.csv",
+      "rows": 480,
+      "columns": 10,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "product_risk_labels.csv",
+      "rows": 440,
+      "columns": 5,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "knowledge_documents.csv",
+      "rows": 48,
+      "columns": 5,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    {
+      "file": "product_risk_summary.csv",
+      "rows": 40,
+      "columns": 10,
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    }
+  ],
+  "rag_chunks": 48
+}

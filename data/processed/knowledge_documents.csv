@@ -1,0 +1,449 @@
+document_id,product_id,document_type,title,content
+D0001,P1001,product_knowledge,Nova Smartphone — Product & Warranty Guide,"Product: Nova Smartphone
+Product ID: P1001
+Category: Electronics
+Brand: Vertex
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0002,P1002,product_knowledge,Pulse Wireless Earbuds — Product & Warranty Guide,"Product: Pulse Wireless Earbuds
+Product ID: P1002
+Category: Electronics
+Brand: Aster
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0003,P1003,product_knowledge,Vertex Smartwatch — Product & Warranty Guide,"Product: Vertex Smartwatch
+Product ID: P1003
+Category: Electronics
+Brand: Orbit
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0004,P1004,product_knowledge,Aster Bluetooth Speaker — Product & Warranty Guide,"Product: Aster Bluetooth Speaker
+Product ID: P1004
+Category: Electronics
+Brand: Zenith
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0005,P1005,product_knowledge,Orbit Tablet — Product & Warranty Guide,"Product: Orbit Tablet
+Product ID: P1005
+Category: Electronics
+Brand: Nexora
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Battery drains much faster than expected.; Charging has become unreliable after a few weeks.; Battery backup is poor compared with expectations.
+Potential root cause: battery cell degradation or charging-module instability.
+Recommended operational actions: verify the affected batch, inspect the charging module, review supplier quality.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0006,P1006,product_knowledge,Zenith Power Bank — Product & Warranty Guide,"Product: Zenith Power Bank
+Product ID: P1006
+Category: Electronics
+Brand: Lumio
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0007,P1007,product_knowledge,Nexora Webcam — Product & Warranty Guide,"Product: Nexora Webcam
+Product ID: P1007
+Category: Electronics
+Brand: Nova
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0008,P1008,product_knowledge,Lumio Router — Product & Warranty Guide,"Product: Lumio Router
+Product ID: P1008
+Category: Electronics
+Brand: Pulse
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0009,P1009,product_knowledge,Nova Air Fryer — Product & Warranty Guide,"Product: Nova Air Fryer
+Product ID: P1009
+Category: Home Appliances
+Brand: Vertex
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0010,P1010,product_knowledge,Pulse Mixer Grinder — Product & Warranty Guide,"Product: Pulse Mixer Grinder
+Product ID: P1010
+Category: Home Appliances
+Brand: Aster
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0011,P1011,product_knowledge,Vertex Vacuum Cleaner — Product & Warranty Guide,"Product: Vertex Vacuum Cleaner
+Product ID: P1011
+Category: Home Appliances
+Brand: Orbit
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0012,P1012,product_knowledge,Aster Electric Kettle — Product & Warranty Guide,"Product: Aster Electric Kettle
+Product ID: P1012
+Category: Home Appliances
+Brand: Zenith
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0013,P1013,product_knowledge,Orbit Room Heater — Product & Warranty Guide,"Product: Orbit Room Heater
+Product ID: P1013
+Category: Home Appliances
+Brand: Nexora
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: The motor started making unusual noise.; Performance dropped after a few weeks.; The device stopped working during normal use.
+Potential root cause: motor assembly or component quality issue.
+Recommended operational actions: inspect motor assembly and review supplier batch quality.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0014,P1014,product_knowledge,Zenith Air Purifier — Product & Warranty Guide,"Product: Zenith Air Purifier
+Product ID: P1014
+Category: Home Appliances
+Brand: Lumio
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0015,P1015,product_knowledge,Nexora Coffee Maker — Product & Warranty Guide,"Product: Nexora Coffee Maker
+Product ID: P1015
+Category: Home Appliances
+Brand: Nova
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0016,P1016,product_knowledge,Lumio Fitness Band — Product & Warranty Guide,"Product: Lumio Fitness Band
+Product ID: P1016
+Category: Fitness & Wearables
+Brand: Pulse
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0017,P1017,product_knowledge,Nova Smart Scale — Product & Warranty Guide,"Product: Nova Smart Scale
+Product ID: P1017
+Category: Fitness & Wearables
+Brand: Vertex
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0018,P1018,product_knowledge,Pulse Massage Gun — Product & Warranty Guide,"Product: Pulse Massage Gun
+Product ID: P1018
+Category: Fitness & Wearables
+Brand: Aster
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Charging is intermittent.; The device does not always recognize the charger.; Power connection is unreliable.
+Potential root cause: charging-port or power-controller instability.
+Recommended operational actions: inspect the charging interface and test the power controller.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0019,P1019,product_knowledge,Vertex Yoga Mat — Product & Warranty Guide,"Product: Vertex Yoga Mat
+Product ID: P1019
+Category: Fitness & Wearables
+Brand: Orbit
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0020,P1020,product_knowledge,Aster Exercise Bike — Product & Warranty Guide,"Product: Aster Exercise Bike
+Product ID: P1020
+Category: Fitness & Wearables
+Brand: Zenith
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0021,P1021,product_knowledge,Orbit Treadmill — Product & Warranty Guide,"Product: Orbit Treadmill
+Product ID: P1021
+Category: Fitness & Wearables
+Brand: Nexora
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0022,P1022,product_knowledge,Zenith Hair Dryer — Product & Warranty Guide,"Product: Zenith Hair Dryer
+Product ID: P1022
+Category: Personal Care
+Brand: Lumio
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0023,P1023,product_knowledge,Nexora Electric Shaver — Product & Warranty Guide,"Product: Nexora Electric Shaver
+Product ID: P1023
+Category: Personal Care
+Brand: Nova
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0024,P1024,product_knowledge,Lumio Trimmer — Product & Warranty Guide,"Product: Lumio Trimmer
+Product ID: P1024
+Category: Personal Care
+Brand: Pulse
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: The product broke sooner than expected.; Build quality does not feel durable.; A component became loose after limited use.
+Potential root cause: material/component durability issue.
+Recommended operational actions: inspect failed components and review material specifications.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0025,P1025,product_knowledge,Nova Face Cleansing Brush — Product & Warranty Guide,"Product: Nova Face Cleansing Brush
+Product ID: P1025
+Category: Personal Care
+Brand: Vertex
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0026,P1026,product_knowledge,Pulse Water Flosser — Product & Warranty Guide,"Product: Pulse Water Flosser
+Product ID: P1026
+Category: Personal Care
+Brand: Aster
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0027,P1027,product_knowledge,Vertex Hair Styler — Product & Warranty Guide,"Product: Vertex Hair Styler
+Product ID: P1027
+Category: Personal Care
+Brand: Orbit
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0028,P1028,product_knowledge,Aster Non-stick Cookware Set — Product & Warranty Guide,"Product: Aster Non-stick Cookware Set
+Product ID: P1028
+Category: Home & Kitchen
+Brand: Zenith
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0029,P1029,product_knowledge,Orbit Food Storage Set — Product & Warranty Guide,"Product: Orbit Food Storage Set
+Product ID: P1029
+Category: Home & Kitchen
+Brand: Nexora
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: The size did not match the description.; Fit is uncomfortable.; Sizing information was misleading.
+Potential root cause: sizing specification or product-dimension issue.
+Recommended operational actions: review dimensions, update listing measurements, validate the size chart.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0030,P1030,product_knowledge,Zenith Water Bottle — Product & Warranty Guide,"Product: Zenith Water Bottle
+Product ID: P1030
+Category: Home & Kitchen
+Brand: Lumio
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0031,P1031,product_knowledge,Nexora Desk Lamp — Product & Warranty Guide,"Product: Nexora Desk Lamp
+Product ID: P1031
+Category: Home & Kitchen
+Brand: Nova
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0032,P1032,product_knowledge,Lumio Kitchen Scale — Product & Warranty Guide,"Product: Lumio Kitchen Scale
+Product ID: P1032
+Category: Home & Kitchen
+Brand: Pulse
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0033,P1033,product_knowledge,Nova Knife Set — Product & Warranty Guide,"Product: Nova Knife Set
+Product ID: P1033
+Category: Home & Kitchen
+Brand: Vertex
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0034,P1034,product_knowledge,Pulse Bedsheet Set — Product & Warranty Guide,"Product: Pulse Bedsheet Set
+Product ID: P1034
+Category: Home & Kitchen
+Brand: Aster
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: The item arrived with damaged packaging.; The product box was crushed during delivery.; The item arrived with visible damage.
+Potential root cause: insufficient packaging protection or handling damage.
+Recommended operational actions: review packaging design and carrier handling.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0035,P1035,product_knowledge,Vertex Laptop Sleeve — Product & Warranty Guide,"Product: Vertex Laptop Sleeve
+Product ID: P1035
+Category: Accessories
+Brand: Orbit
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0036,P1036,product_knowledge,Aster USB-C Hub — Product & Warranty Guide,"Product: Aster USB-C Hub
+Product ID: P1036
+Category: Accessories
+Brand: Zenith
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0037,P1037,product_knowledge,Orbit Phone Case — Product & Warranty Guide,"Product: Orbit Phone Case
+Product ID: P1037
+Category: Accessories
+Brand: Nexora
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Connection drops frequently.; Pairing is unreliable.; The device disconnects unexpectedly.
+Potential root cause: firmware/connectivity-module instability.
+Recommended operational actions: review firmware version and test the connectivity module.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0038,P1038,product_knowledge,Zenith Charging Cable — Product & Warranty Guide,"Product: Zenith Charging Cable
+Product ID: P1038
+Category: Accessories
+Brand: Lumio
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0039,P1039,product_knowledge,Nexora Wireless Charger — Product & Warranty Guide,"Product: Nexora Wireless Charger
+Product ID: P1039
+Category: Accessories
+Brand: Nova
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: Good quality and works as expected.; Happy with the purchase.; Value for money.; Performance is acceptable.
+Potential root cause: no consistent product-level failure pattern identified.
+Recommended operational actions: continue monitoring and review issue trends.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0040,P1040,product_knowledge,Lumio Car Phone Mount — Product & Warranty Guide,"Product: Lumio Car Phone Mount
+Product ID: P1040
+Category: Accessories
+Brand: Pulse
+
+Purpose: Product usage, warranty, troubleshooting and quality investigation guidance.
+Known symptoms: It does not work with my device.; Compatibility information is unclear.; The accessory is incompatible with my setup.
+Potential root cause: compatibility limitation or unclear product specification.
+Recommended operational actions: validate supported devices and improve product documentation.
+Warranty guidance: Inspect the unit and available usage evidence before replacement. Record recurring defects by product or batch.
+Escalation: Repeated or clustered failures should be reviewed by the quality team."
+D0041,P1005,historical_rca,Historical RCA — Orbit Tablet,"Historical incident review for Orbit Tablet (P1005). Observed symptoms: Battery drains much faster than expected.; Charging has become unreliable after a few weeks.; Battery backup is poor compared with expectations.. A previous investigation identified battery cell degradation or charging-module instability as a likely cause. Recommended actions: verify the affected batch, inspect the charging module, review supplier quality. This record is supporting evidence only and does not prove the cause of a current problem."
+D0042,P1013,historical_rca,Historical RCA — Orbit Room Heater,Historical incident review for Orbit Room Heater (P1013). Observed symptoms: The motor started making unusual noise.; Performance dropped after a few weeks.; The device stopped working during normal use.. A previous investigation identified motor assembly or component quality issue as a likely cause. Recommended actions: inspect motor assembly and review supplier batch quality. This record is supporting evidence only and does not prove the cause of a current problem.
+D0043,P1018,historical_rca,Historical RCA — Pulse Massage Gun,Historical incident review for Pulse Massage Gun (P1018). Observed symptoms: Charging is intermittent.; The device does not always recognize the charger.; Power connection is unreliable.. A previous investigation identified charging-port or power-controller instability as a likely cause. Recommended actions: inspect the charging interface and test the power controller. This record is supporting evidence only and does not prove the cause of a current problem.
+D0044,P1024,historical_rca,Historical RCA — Lumio Trimmer,Historical incident review for Lumio Trimmer (P1024). Observed symptoms: The product broke sooner than expected.; Build quality does not feel durable.; A component became loose after limited use.. A previous investigation identified material/component durability issue as a likely cause. Recommended actions: inspect failed components and review material specifications. This record is supporting evidence only and does not prove the cause of a current problem.
+D0045,P1029,historical_rca,Historical RCA — Orbit Food Storage Set,"Historical incident review for Orbit Food Storage Set (P1029). Observed symptoms: The size did not match the description.; Fit is uncomfortable.; Sizing information was misleading.. A previous investigation identified sizing specification or product-dimension issue as a likely cause. Recommended actions: review dimensions, update listing measurements, validate the size chart. This record is supporting evidence only and does not prove the cause of a current problem."
+D0046,P1034,historical_rca,Historical RCA — Pulse Bedsheet Set,Historical incident review for Pulse Bedsheet Set (P1034). Observed symptoms: The item arrived with damaged packaging.; The product box was crushed during delivery.; The item arrived with visible damage.. A previous investigation identified insufficient packaging protection or handling damage as a likely cause. Recommended actions: review packaging design and carrier handling. This record is supporting evidence only and does not prove the cause of a current problem.
+D0047,P1037,historical_rca,Historical RCA — Orbit Phone Case,Historical incident review for Orbit Phone Case (P1037). Observed symptoms: Connection drops frequently.; Pairing is unreliable.; The device disconnects unexpectedly.. A previous investigation identified firmware/connectivity-module instability as a likely cause. Recommended actions: review firmware version and test the connectivity module. This record is supporting evidence only and does not prove the cause of a current problem.
+D0048,P1040,historical_rca,Historical RCA — Lumio Car Phone Mount,Historical incident review for Lumio Car Phone Mount (P1040). Observed symptoms: It does not work with my device.; Compatibility information is unclear.; The accessory is incompatible with my setup.. A previous investigation identified compatibility limitation or unclear product specification as a likely cause. Recommended actions: validate supported devices and improve product documentation. This record is supporting evidence only and does not prove the cause of a current problem.

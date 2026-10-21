@@ -1,0 +1,1001 @@
+ticket_id,product_id,customer_id,created_at,issue_type,priority,resolution_time_hours,resolution_status,ticket_text
+T000001,P1005,C0448,2025-11-04T00:00:00,Battery / charging,Medium,3.04,Pending,Battery backup is poor compared with expectations.
+T000002,P1025,C0435,2025-04-11T00:00:00,General product issue,Low,13.2,Resolved,Value for money.
+T000003,P1030,C0113,2025-03-04T00:00:00,General product issue,Low,1.0,Resolved,Performance is acceptable.
+T000004,P1003,C0058,2025-02-14T00:00:00,General product issue,Low,10.9,Resolved,Happy with the purchase.
+T000005,P1005,C0457,2025-08-17T00:00:00,Battery / charging,Low,10.2,Resolved,Battery backup is poor compared with expectations.
+T000006,P1036,C0331,2025-06-01T00:00:00,General product issue,Medium,14.86,Resolved,Good quality and works as expected.
+T000007,P1015,C0228,2025-11-03T00:00:00,General product issue,Medium,13.65,Resolved,Good quality and works as expected.
+T000008,P1037,C0168,2025-11-24T00:00:00,Connectivity,Medium,4.58,Resolved,The device disconnects unexpectedly.
+T000009,P1036,C0426,2025-05-25T00:00:00,General product issue,Medium,7.63,Resolved,Performance is acceptable.
+T000010,P1016,C0365,2025-05-14T00:00:00,General product issue,Low,5.06,Pending,Good quality and works as expected.
+T000011,P1005,C0246,2025-01-24T00:00:00,Battery / charging,Medium,4.0,Resolved,Charging has become unreliable after a few weeks.
+T000012,P1007,C0425,2025-02-19T00:00:00,General product issue,High,11.32,Resolved,Performance is acceptable.
+T000013,P1022,C0361,2025-06-22T00:00:00,General product issue,Medium,3.28,Resolved,Happy with the purchase.
+T000014,P1036,C0081,2025-02-22T00:00:00,General product issue,Low,4.32,Resolved,Happy with the purchase.
+T000015,P1026,C0127,2025-12-04T00:00:00,General product issue,Medium,6.76,Resolved,Value for money.
+T000016,P1029,C0415,2025-07-19T00:00:00,Size / fit,High,16.29,Resolved,Fit is uncomfortable.
+T000017,P1004,C0130,2025-03-14T00:00:00,General product issue,High,5.67,Resolved,Good quality and works as expected.
+T000018,P1017,C0192,2025-09-19T00:00:00,General product issue,Low,1.0,Pending,Performance is acceptable.
+T000019,P1016,C0193,2025-04-10T00:00:00,General product issue,High,34.35,Resolved,Value for money.
+T000020,P1028,C0019,2025-05-23T00:00:00,General product issue,Medium,6.36,Resolved,Performance is acceptable.
+T000021,P1040,C0331,2025-05-11T00:00:00,Compatibility,Medium,14.37,Escalated,Compatibility information is unclear.
+T000022,P1014,C0197,2025-01-25T00:00:00,General product issue,Low,11.08,Escalated,Value for money.
+T000023,P1009,C0449,2025-07-10T00:00:00,General product issue,High,13.37,Resolved,Happy with the purchase.
+T000024,P1015,C0354,2025-01-18T00:00:00,General product issue,High,7.87,Resolved,Performance is acceptable.
+T000025,P1004,C0276,2025-11-17T00:00:00,General product issue,Medium,2.57,Resolved,Good quality and works as expected.
+T000026,P1001,C0413,2025-12-23T00:00:00,General product issue,Low,4.62,Resolved,Performance is acceptable.
+T000027,P1017,C0419,2025-03-16T00:00:00,General product issue,Medium,2.46,Resolved,Performance is acceptable.
+T000028,P1005,C0001,2025-06-20T00:00:00,Battery / charging,Medium,18.52,Resolved,Battery backup is poor compared with expectations.
+T000029,P1015,C0402,2025-11-20T00:00:00,General product issue,Critical,3.71,Resolved,Good quality and works as expected.
+T000030,P1004,C0119,2025-02-23T00:00:00,General product issue,Medium,10.79,Resolved,Value for money.
+T000031,P1027,C0092,2025-12-27T00:00:00,General product issue,Critical,5.28,Escalated,Performance is acceptable.
+T000032,P1014,C0077,2025-07-10T00:00:00,General product issue,Medium,5.51,Resolved,Good quality and works as expected.
+T000033,P1026,C0481,2025-10-02T00:00:00,General product issue,High,17.98,Resolved,Value for money.
+T000034,P1030,C0296,2025-12-24T00:00:00,General product issue,Medium,3.11,Resolved,Value for money.
+T000035,P1030,C0460,2025-12-08T00:00:00,General product issue,High,19.82,Resolved,Good quality and works as expected.
+T000036,P1018,C0019,2025-07-20T00:00:00,Charging,Critical,24.95,Escalated,Charging is intermittent.
+T000037,P1002,C0464,2025-08-14T00:00:00,General product issue,Medium,5.7,Resolved,Performance is acceptable.
+T000038,P1001,C0103,2025-11-05T00:00:00,General product issue,Low,12.25,Resolved,Happy with the purchase.
+T000039,P1035,C0300,2025-10-08T00:00:00,General product issue,Medium,4.46,Resolved,Performance is acceptable.
+T000040,P1028,C0135,2025-02-05T00:00:00,General product issue,Low,11.33,Resolved,Happy with the purchase.
+T000041,P1027,C0062,2025-08-21T00:00:00,General product issue,Low,8.42,Resolved,Performance is acceptable.
+T000042,P1003,C0243,2025-02-08T00:00:00,General product issue,Medium,8.17,Resolved,Performance is acceptable.
+T000043,P1020,C0352,2025-06-16T00:00:00,General product issue,Low,15.28,Resolved,Value for money.
+T000044,P1040,C0122,2025-01-13T00:00:00,Compatibility,Low,10.81,Resolved,It does not work with my device.
+T000045,P1006,C0419,2025-10-23T00:00:00,General product issue,Medium,20.45,Resolved,Good quality and works as expected.
+T000046,P1012,C0450,2025-09-27T00:00:00,General product issue,Low,1.0,Resolved,Happy with the purchase.
+T000047,P1032,C0121,2025-02-24T00:00:00,General product issue,Medium,11.39,Resolved,Happy with the purchase.
+T000048,P1016,C0429,2025-07-12T00:00:00,General product issue,Medium,6.3,Resolved,Happy with the purchase.
+T000049,P1034,C0365,2025-10-11T00:00:00,Packaging / damage,Medium,5.21,Resolved,The product box was crushed during delivery.
+T000050,P1013,C0007,2025-07-27T00:00:00,Performance / motor,Low,12.48,Resolved,The motor started making unusual noise.
+T000051,P1031,C0290,2025-12-06T00:00:00,General product issue,Low,5.0,Resolved,Happy with the purchase.
+T000052,P1031,C0284,2025-10-17T00:00:00,General product issue,Low,13.98,Resolved,Good quality and works as expected.
+T000053,P1024,C0243,2025-12-05T00:00:00,Product durability,High,27.07,Resolved,A component became loose after limited use.
+T000054,P1025,C0296,2025-09-21T00:00:00,General product issue,Medium,8.6,Pending,Good quality and works as expected.
+T000055,P1017,C0362,2025-07-20T00:00:00,General product issue,Low,18.34,Resolved,Happy with the purchase.
+T000056,P1025,C0437,2025-06-11T00:00:00,General product issue,Low,11.55,Resolved,Performance is acceptable.
+T000057,P1031,C0310,2025-12-27T00:00:00,General product issue,Medium,6.74,Resolved,Value for money.
+T000058,P1038,C0147,2025-01-14T00:00:00,General product issue,High,11.72,Resolved,Happy with the purchase.
+T000059,P1038,C0291,2025-11-23T00:00:00,General product issue,Medium,15.63,Resolved,Good quality and works as expected.
+T000060,P1038,C0193,2025-01-08T00:00:00,General product issue,Medium,1.96,Resolved,Performance is acceptable.
+T000061,P1014,C0371,2025-02-14T00:00:00,General product issue,Medium,1.5,Pending,Performance is acceptable.
+T000062,P1001,C0409,2025-08-07T00:00:00,General product issue,Low,5.68,Resolved,Value for money.
+T000063,P1030,C0200,2025-05-10T00:00:00,General product issue,Low,30.84,Resolved,Happy with the purchase.
+T000064,P1004,C0062,2025-06-01T00:00:00,General product issue,High,6.07,Resolved,Good quality and works as expected.
+T000065,P1026,C0414,2025-11-25T00:00:00,General product issue,Medium,3.75,Pending,Value for money.
+T000066,P1008,C0262,2025-02-03T00:00:00,General product issue,Medium,5.64,Resolved,Performance is acceptable.
+T000067,P1038,C0310,2025-11-12T00:00:00,General product issue,High,11.25,Resolved,Value for money.
+T000068,P1035,C0492,2025-01-15T00:00:00,General product issue,Low,6.23,Resolved,Value for money.
+T000069,P1028,C0217,2025-09-20T00:00:00,General product issue,Critical,25.73,Resolved,Happy with the purchase.
+T000070,P1020,C0122,2025-09-24T00:00:00,General product issue,Critical,26.6,Resolved,Good quality and works as expected.
+T000071,P1038,C0075,2025-02-22T00:00:00,General product issue,Low,16.71,Resolved,Good quality and works as expected.
+T000072,P1027,C0212,2025-08-02T00:00:00,General product issue,Medium,7.35,Pending,Value for money.
+T000073,P1018,C0403,2025-11-07T00:00:00,Charging,High,23.21,Escalated,Charging is intermittent.
+T000074,P1029,C0491,2025-09-04T00:00:00,Size / fit,Medium,7.12,Resolved,Fit is uncomfortable.
+T000075,P1004,C0095,2025-06-05T00:00:00,General product issue,High,22.53,Resolved,Happy with the purchase.
+T000076,P1040,C0108,2025-02-01T00:00:00,Compatibility,High,11.65,Resolved,The accessory is incompatible with my setup.
+T000077,P1017,C0332,2025-09-02T00:00:00,General product issue,Critical,40.34,Resolved,Good quality and works as expected.
+T000078,P1014,C0023,2025-04-10T00:00:00,General product issue,Medium,5.17,Escalated,Value for money.
+T000079,P1002,C0439,2025-05-11T00:00:00,General product issue,Low,5.57,Resolved,Performance is acceptable.
+T000080,P1018,C0146,2025-08-04T00:00:00,Charging,Medium,20.58,Resolved,Power connection is unreliable.
+T000081,P1011,C0262,2025-03-12T00:00:00,General product issue,Medium,36.02,Pending,Happy with the purchase.
+T000082,P1004,C0300,2025-10-18T00:00:00,General product issue,Low,7.02,Resolved,Good quality and works as expected.
+T000083,P1039,C0185,2025-05-04T00:00:00,General product issue,Medium,20.71,Resolved,Performance is acceptable.
+T000084,P1037,C0347,2025-10-01T00:00:00,Connectivity,Medium,12.99,Resolved,The device disconnects unexpectedly.
+T000085,P1019,C0294,2025-05-06T00:00:00,General product issue,Low,16.25,Resolved,Happy with the purchase.
+T000086,P1011,C0082,2025-05-09T00:00:00,General product issue,Low,11.51,Pending,Value for money.
+T000087,P1022,C0346,2025-10-12T00:00:00,General product issue,Low,18.35,Resolved,Performance is acceptable.
+T000088,P1025,C0424,2025-01-20T00:00:00,General product issue,Medium,39.6,Resolved,Happy with the purchase.
+T000089,P1015,C0125,2025-03-03T00:00:00,General product issue,High,4.6,Resolved,Performance is acceptable.
+T000090,P1029,C0204,2025-03-14T00:00:00,Size / fit,High,9.24,Resolved,The size did not match the description.
+T000091,P1024,C0428,2025-06-07T00:00:00,Product durability,High,4.43,Resolved,Build quality does not feel durable.
+T000092,P1027,C0417,2025-05-12T00:00:00,General product issue,Medium,6.49,Resolved,Performance is acceptable.
+T000093,P1019,C0188,2025-04-05T00:00:00,General product issue,High,13.52,Resolved,Happy with the purchase.
+T000094,P1039,C0358,2025-08-08T00:00:00,General product issue,Low,4.74,Resolved,Value for money.
+T000095,P1027,C0138,2025-10-12T00:00:00,General product issue,High,4.95,Resolved,Performance is acceptable.
+T000096,P1020,C0350,2025-11-23T00:00:00,General product issue,High,18.1,Pending,Performance is acceptable.
+T000097,P1032,C0168,2025-05-03T00:00:00,General product issue,High,7.72,Resolved,Happy with the purchase.
+T000098,P1010,C0452,2025-09-04T00:00:00,General product issue,High,9.89,Pending,Performance is acceptable.
+T000099,P1010,C0290,2025-01-09T00:00:00,General product issue,High,16.35,Escalated,Good quality and works as expected.
+T000100,P1022,C0081,2025-12-24T00:00:00,General product issue,Medium,16.91,Resolved,Happy with the purchase.
+T000101,P1019,C0042,2025-11-25T00:00:00,General product issue,Medium,4.12,Pending,Performance is acceptable.
+T000102,P1020,C0381,2025-09-12T00:00:00,General product issue,Low,4.93,Resolved,Value for money.
+T000103,P1024,C0349,2025-06-01T00:00:00,Product durability,Medium,5.42,Resolved,Build quality does not feel durable.
+T000104,P1005,C0196,2025-01-09T00:00:00,Battery / charging,Low,5.64,Pending,Charging has become unreliable after a few weeks.
+T000105,P1002,C0098,2025-06-14T00:00:00,General product issue,Medium,18.93,Resolved,Good quality and works as expected.
+T000106,P1036,C0161,2025-05-01T00:00:00,General product issue,Low,6.26,Resolved,Happy with the purchase.
+T000107,P1036,C0410,2025-10-26T00:00:00,General product issue,High,15.66,Pending,Performance is acceptable.
+T000108,P1015,C0386,2025-07-16T00:00:00,General product issue,Medium,7.44,Pending,Performance is acceptable.
+T000109,P1005,C0471,2025-07-09T00:00:00,Battery / charging,Low,14.58,Pending,Battery drains much faster than expected.
+T000110,P1034,C0193,2025-06-26T00:00:00,Packaging / damage,High,12.09,Resolved,The item arrived with visible damage.
+T000111,P1008,C0064,2025-01-14T00:00:00,General product issue,Medium,6.67,Resolved,Performance is acceptable.
+T000112,P1013,C0277,2025-11-27T00:00:00,Performance / motor,Medium,9.64,Resolved,The device stopped working during normal use.
+T000113,P1009,C0027,2025-05-12T00:00:00,General product issue,Medium,11.54,Resolved,Performance is acceptable.
+T000114,P1020,C0061,2025-09-18T00:00:00,General product issue,Medium,8.35,Resolved,Good quality and works as expected.
+T000115,P1006,C0017,2025-01-10T00:00:00,General product issue,Medium,24.38,Resolved,Performance is acceptable.
+T000116,P1010,C0062,2025-09-12T00:00:00,General product issue,Low,3.82,Resolved,Value for money.
+T000117,P1017,C0036,2025-05-13T00:00:00,General product issue,Low,3.71,Resolved,Value for money.
+T000118,P1028,C0465,2025-07-19T00:00:00,General product issue,Medium,5.8,Resolved,Performance is acceptable.
+T000119,P1021,C0361,2025-04-22T00:00:00,General product issue,High,20.19,Resolved,Happy with the purchase.
+T000120,P1005,C0341,2025-11-24T00:00:00,Battery / charging,Low,4.57,Pending,Battery drains much faster than expected.
+T000121,P1034,C0108,2025-11-04T00:00:00,Packaging / damage,Medium,3.76,Resolved,The product box was crushed during delivery.
+T000122,P1012,C0099,2025-05-10T00:00:00,General product issue,Medium,5.24,Resolved,Performance is acceptable.
+T000123,P1016,C0341,2025-12-08T00:00:00,General product issue,Medium,6.03,Pending,Happy with the purchase.
+T000124,P1022,C0035,2025-11-05T00:00:00,General product issue,High,6.86,Escalated,Value for money.
+T000125,P1024,C0362,2025-09-02T00:00:00,Product durability,Critical,6.73,Resolved,A component became loose after limited use.
+T000126,P1010,C0065,2025-10-24T00:00:00,General product issue,Low,9.91,Resolved,Happy with the purchase.
+T000127,P1039,C0096,2025-01-16T00:00:00,General product issue,Medium,13.1,Resolved,Performance is acceptable.
+T000128,P1015,C0232,2025-11-05T00:00:00,General product issue,Medium,22.34,Resolved,Value for money.
+T000129,P1006,C0428,2025-06-17T00:00:00,General product issue,Low,6.32,Escalated,Value for money.
+T000130,P1006,C0013,2025-11-13T00:00:00,General product issue,High,22.5,Resolved,Value for money.
+T000131,P1030,C0145,2025-03-20T00:00:00,General product issue,Medium,19.12,Resolved,Good quality and works as expected.
+T000132,P1036,C0260,2025-01-05T00:00:00,General product issue,Low,5.05,Resolved,Happy with the purchase.
+T000133,P1038,C0145,2025-10-27T00:00:00,General product issue,Medium,17.2,Resolved,Performance is acceptable.
+T000134,P1020,C0182,2025-12-06T00:00:00,General product issue,Low,1.0,Resolved,Happy with the purchase.
+T000135,P1003,C0445,2025-08-03T00:00:00,General product issue,Low,10.76,Resolved,Value for money.
+T000136,P1036,C0038,2025-07-26T00:00:00,General product issue,Medium,6.23,Resolved,Happy with the purchase.
+T000137,P1007,C0196,2025-05-24T00:00:00,General product issue,Medium,20.71,Resolved,Performance is acceptable.
+T000138,P1016,C0496,2025-12-06T00:00:00,General product issue,Medium,11.69,Resolved,Value for money.
+T000139,P1022,C0281,2025-10-09T00:00:00,General product issue,Critical,17.06,Escalated,Good quality and works as expected.
+T000140,P1040,C0264,2025-06-22T00:00:00,Compatibility,Medium,5.51,Resolved,It does not work with my device.
+T000141,P1016,C0320,2025-06-11T00:00:00,General product issue,Medium,15.12,Pending,Performance is acceptable.
+T000142,P1017,C0300,2025-10-08T00:00:00,General product issue,Low,6.65,Resolved,Performance is acceptable.
+T000143,P1025,C0470,2025-09-11T00:00:00,General product issue,Low,13.44,Resolved,Happy with the purchase.
+T000144,P1014,C0002,2025-03-18T00:00:00,General product issue,Medium,14.27,Resolved,Good quality and works as expected.
+T000145,P1025,C0206,2025-08-04T00:00:00,General product issue,Medium,9.85,Resolved,Happy with the purchase.
+T000146,P1040,C0339,2025-05-20T00:00:00,Compatibility,Low,9.87,Resolved,Compatibility information is unclear.
+T000147,P1022,C0380,2025-08-09T00:00:00,General product issue,Medium,1.87,Resolved,Good quality and works as expected.
+T000148,P1038,C0489,2025-06-11T00:00:00,General product issue,Medium,13.21,Resolved,Value for money.
+T000149,P1011,C0377,2025-11-12T00:00:00,General product issue,Medium,1.32,Pending,Value for money.
+T000150,P1011,C0161,2025-01-20T00:00:00,General product issue,Medium,10.0,Resolved,Performance is acceptable.
+T000151,P1023,C0041,2025-08-10T00:00:00,General product issue,Low,9.39,Pending,Happy with the purchase.
+T000152,P1018,C0211,2025-05-05T00:00:00,Charging,Low,2.64,Resolved,The device does not always recognize the charger.
+T000153,P1023,C0228,2025-07-12T00:00:00,General product issue,High,15.74,Resolved,Performance is acceptable.
+T000154,P1038,C0218,2025-07-23T00:00:00,General product issue,Medium,8.13,Resolved,Good quality and works as expected.
+T000155,P1032,C0228,2025-03-11T00:00:00,General product issue,Low,15.62,Resolved,Good quality and works as expected.
+T000156,P1011,C0343,2025-12-14T00:00:00,General product issue,High,6.84,Resolved,Performance is acceptable.
+T000157,P1001,C0076,2025-06-24T00:00:00,General product issue,Medium,7.17,Escalated,Performance is acceptable.
+T000158,P1011,C0178,2025-10-02T00:00:00,General product issue,Medium,12.73,Pending,Good quality and works as expected.
+T000159,P1009,C0432,2025-11-24T00:00:00,General product issue,Low,2.48,Resolved,Good quality and works as expected.
+T000160,P1012,C0009,2025-11-09T00:00:00,General product issue,Medium,12.16,Escalated,Good quality and works as expected.
+T000161,P1002,C0287,2025-01-23T00:00:00,General product issue,Medium,7.57,Resolved,Value for money.
+T000162,P1029,C0219,2025-02-14T00:00:00,Size / fit,High,3.65,Pending,Fit is uncomfortable.
+T000163,P1034,C0173,2025-12-01T00:00:00,Packaging / damage,High,20.77,Resolved,The item arrived with damaged packaging.
+T000164,P1006,C0383,2025-09-25T00:00:00,General product issue,Medium,16.85,Resolved,Happy with the purchase.
+T000165,P1027,C0063,2025-08-10T00:00:00,General product issue,Low,1.1,Resolved,Good quality and works as expected.
+T000166,P1019,C0314,2025-02-16T00:00:00,General product issue,Medium,11.86,Resolved,Performance is acceptable.
+T000167,P1027,C0361,2025-10-15T00:00:00,General product issue,Low,7.71,Resolved,Happy with the purchase.
+T000168,P1028,C0438,2025-02-20T00:00:00,General product issue,Medium,15.91,Resolved,Value for money.
+T000169,P1001,C0035,2025-07-01T00:00:00,General product issue,Medium,8.34,Resolved,Value for money.
+T000170,P1030,C0062,2025-10-10T00:00:00,General product issue,Medium,19.28,Resolved,Value for money.
+T000171,P1002,C0118,2025-12-25T00:00:00,General product issue,High,19.06,Resolved,Good quality and works as expected.
+T000172,P1005,C0009,2025-04-18T00:00:00,Battery / charging,High,5.08,Resolved,Battery backup is poor compared with expectations.
+T000173,P1037,C0128,2025-05-13T00:00:00,Connectivity,Medium,7.29,Resolved,Connection drops frequently.
+T000174,P1003,C0386,2025-01-24T00:00:00,General product issue,Medium,9.63,Resolved,Happy with the purchase.
+T000175,P1039,C0049,2025-08-27T00:00:00,General product issue,Medium,10.6,Resolved,Performance is acceptable.
+T000176,P1029,C0361,2025-01-27T00:00:00,Size / fit,High,20.38,Resolved,Fit is uncomfortable.
+T000177,P1006,C0426,2025-11-11T00:00:00,General product issue,Medium,8.02,Resolved,Value for money.
+T000178,P1027,C0302,2025-06-23T00:00:00,General product issue,Medium,8.22,Pending,Value for money.
+T000179,P1036,C0063,2025-07-13T00:00:00,General product issue,Medium,18.46,Resolved,Good quality and works as expected.
+T000180,P1024,C0276,2025-01-21T00:00:00,Product durability,Low,19.43,Resolved,A component became loose after limited use.
+T000181,P1030,C0227,2025-02-22T00:00:00,General product issue,Low,7.58,Resolved,Happy with the purchase.
+T000182,P1006,C0145,2025-03-10T00:00:00,General product issue,High,12.8,Resolved,Value for money.
+T000183,P1007,C0499,2025-12-02T00:00:00,General product issue,Medium,9.02,Pending,Performance is acceptable.
+T000184,P1034,C0213,2025-09-14T00:00:00,Packaging / damage,Low,3.08,Resolved,The item arrived with visible damage.
+T000185,P1014,C0042,2025-07-12T00:00:00,General product issue,Low,5.1,Resolved,Performance is acceptable.
+T000186,P1024,C0242,2025-12-06T00:00:00,Product durability,Medium,5.13,Resolved,The product broke sooner than expected.
+T000187,P1023,C0029,2025-04-18T00:00:00,General product issue,High,44.63,Resolved,Good quality and works as expected.
+T000188,P1031,C0311,2025-01-25T00:00:00,General product issue,High,6.97,Resolved,Good quality and works as expected.
+T000189,P1004,C0451,2025-11-08T00:00:00,General product issue,Medium,14.72,Pending,Performance is acceptable.
+T000190,P1039,C0417,2025-10-21T00:00:00,General product issue,Medium,7.6,Pending,Value for money.
+T000191,P1019,C0398,2025-01-01T00:00:00,General product issue,Medium,15.4,Resolved,Performance is acceptable.
+T000192,P1018,C0207,2025-02-19T00:00:00,Charging,High,21.71,Resolved,Charging is intermittent.
+T000193,P1014,C0364,2025-09-05T00:00:00,General product issue,Low,23.14,Escalated,Performance is acceptable.
+T000194,P1035,C0419,2025-09-01T00:00:00,General product issue,Medium,1.92,Resolved,Performance is acceptable.
+T000195,P1008,C0495,2025-12-03T00:00:00,General product issue,Medium,2.9,Resolved,Good quality and works as expected.
+T000196,P1022,C0400,2025-11-22T00:00:00,General product issue,Medium,20.9,Resolved,Good quality and works as expected.
+T000197,P1040,C0130,2025-04-27T00:00:00,Compatibility,High,14.72,Resolved,The accessory is incompatible with my setup.
+T000198,P1029,C0260,2025-03-16T00:00:00,Size / fit,High,5.18,Resolved,Sizing information was misleading.
+T000199,P1009,C0416,2025-03-10T00:00:00,General product issue,Medium,15.2,Resolved,Performance is acceptable.
+T000200,P1016,C0387,2025-06-21T00:00:00,General product issue,Low,24.49,Resolved,Good quality and works as expected.
+T000201,P1002,C0312,2025-09-18T00:00:00,General product issue,Medium,2.73,Escalated,Happy with the purchase.
+T000202,P1004,C0229,2025-10-21T00:00:00,General product issue,Medium,3.1,Resolved,Good quality and works as expected.
+T000203,P1003,C0179,2025-04-22T00:00:00,General product issue,Medium,11.73,Resolved,Value for money.
+T000204,P1032,C0489,2025-02-04T00:00:00,General product issue,Low,11.15,Resolved,Performance is acceptable.
+T000205,P1019,C0348,2025-11-10T00:00:00,General product issue,Low,14.93,Resolved,Happy with the purchase.
+T000206,P1006,C0308,2025-05-02T00:00:00,General product issue,Medium,25.79,Resolved,Good quality and works as expected.
+T000207,P1014,C0068,2025-10-18T00:00:00,General product issue,Low,6.04,Resolved,Value for money.
+T000208,P1025,C0464,2025-04-09T00:00:00,General product issue,Medium,26.84,Resolved,Happy with the purchase.
+T000209,P1017,C0053,2025-08-13T00:00:00,General product issue,Medium,4.7,Resolved,Happy with the purchase.
+T000210,P1030,C0214,2025-12-13T00:00:00,General product issue,Medium,12.66,Resolved,Happy with the purchase.
+T000211,P1036,C0207,2025-02-23T00:00:00,General product issue,High,27.14,Pending,Performance is acceptable.
+T000212,P1002,C0370,2025-10-01T00:00:00,General product issue,Medium,20.11,Resolved,Happy with the purchase.
+T000213,P1027,C0283,2025-04-10T00:00:00,General product issue,Low,30.05,Resolved,Performance is acceptable.
+T000214,P1024,C0296,2025-05-13T00:00:00,Product durability,Critical,6.54,Pending,The product broke sooner than expected.
+T000215,P1014,C0423,2025-05-13T00:00:00,General product issue,Medium,7.68,Resolved,Happy with the purchase.
+T000216,P1015,C0392,2025-08-01T00:00:00,General product issue,Medium,21.09,Resolved,Happy with the purchase.
+T000217,P1026,C0215,2025-12-26T00:00:00,General product issue,Low,1.21,Resolved,Value for money.
+T000218,P1030,C0353,2025-01-12T00:00:00,General product issue,Medium,14.2,Resolved,Value for money.
+T000219,P1010,C0189,2025-11-19T00:00:00,General product issue,High,8.66,Resolved,Happy with the purchase.
+T000220,P1018,C0489,2025-04-15T00:00:00,Charging,Medium,4.41,Resolved,The device does not always recognize the charger.
+T000221,P1012,C0391,2025-11-19T00:00:00,General product issue,Low,2.68,Resolved,Happy with the purchase.
+T000222,P1015,C0210,2025-12-16T00:00:00,General product issue,High,9.65,Resolved,Happy with the purchase.
+T000223,P1018,C0337,2025-08-21T00:00:00,Charging,High,8.17,Resolved,Charging is intermittent.
+T000224,P1018,C0364,2025-02-25T00:00:00,Charging,Medium,3.98,Resolved,Charging is intermittent.
+T000225,P1009,C0398,2025-09-15T00:00:00,General product issue,Medium,11.18,Resolved,Happy with the purchase.
+T000226,P1001,C0325,2025-07-04T00:00:00,General product issue,Medium,9.09,Resolved,Performance is acceptable.
+T000227,P1038,C0284,2025-08-27T00:00:00,General product issue,Low,1.6,Resolved,Performance is acceptable.
+T000228,P1001,C0270,2025-09-03T00:00:00,General product issue,Critical,14.21,Pending,Happy with the purchase.
+T000229,P1008,C0305,2025-09-27T00:00:00,General product issue,Medium,8.18,Resolved,Good quality and works as expected.
+T000230,P1030,C0362,2025-09-01T00:00:00,General product issue,Medium,3.99,Pending,Happy with the purchase.
+T000231,P1013,C0085,2025-09-25T00:00:00,Performance / motor,Medium,25.26,Resolved,The motor started making unusual noise.
+T000232,P1022,C0359,2025-05-22T00:00:00,General product issue,Low,8.82,Resolved,Happy with the purchase.
+T000233,P1035,C0035,2025-06-03T00:00:00,General product issue,Low,4.15,Pending,Performance is acceptable.
+T000234,P1015,C0089,2025-07-13T00:00:00,General product issue,High,10.05,Resolved,Good quality and works as expected.
+T000235,P1030,C0437,2025-01-11T00:00:00,General product issue,Low,3.38,Resolved,Good quality and works as expected.
+T000236,P1035,C0019,2025-02-16T00:00:00,General product issue,Critical,35.33,Resolved,Happy with the purchase.
+T000237,P1023,C0081,2025-01-18T00:00:00,General product issue,Medium,10.68,Resolved,Happy with the purchase.
+T000238,P1011,C0171,2025-03-02T00:00:00,General product issue,High,13.77,Pending,Good quality and works as expected.
+T000239,P1035,C0227,2025-12-11T00:00:00,General product issue,Low,13.3,Resolved,Performance is acceptable.
+T000240,P1036,C0497,2025-02-20T00:00:00,General product issue,Medium,8.37,Resolved,Happy with the purchase.
+T000241,P1017,C0287,2025-05-20T00:00:00,General product issue,Low,3.35,Resolved,Happy with the purchase.
+T000242,P1028,C0216,2025-08-17T00:00:00,General product issue,High,3.13,Resolved,Happy with the purchase.
+T000243,P1022,C0481,2025-02-13T00:00:00,General product issue,Medium,3.92,Resolved,Happy with the purchase.
+T000244,P1023,C0146,2025-02-16T00:00:00,General product issue,Medium,2.08,Resolved,Performance is acceptable.
+T000245,P1036,C0118,2025-04-11T00:00:00,General product issue,Medium,3.06,Resolved,Performance is acceptable.
+T000246,P1019,C0222,2025-02-03T00:00:00,General product issue,Low,3.64,Resolved,Value for money.
+T000247,P1006,C0083,2025-07-17T00:00:00,General product issue,Low,10.97,Pending,Good quality and works as expected.
+T000248,P1023,C0459,2025-12-02T00:00:00,General product issue,Medium,4.48,Resolved,Performance is acceptable.
+T000249,P1010,C0234,2025-12-15T00:00:00,General product issue,Medium,3.67,Resolved,Good quality and works as expected.
+T000250,P1038,C0081,2025-04-08T00:00:00,General product issue,Low,13.21,Resolved,Happy with the purchase.
+T000251,P1026,C0442,2025-07-21T00:00:00,General product issue,High,6.49,Resolved,Performance is acceptable.
+T000252,P1032,C0459,2025-03-15T00:00:00,General product issue,Low,3.92,Resolved,Performance is acceptable.
+T000253,P1029,C0168,2025-12-14T00:00:00,Size / fit,Medium,6.25,Resolved,Sizing information was misleading.
+T000254,P1027,C0226,2025-09-26T00:00:00,General product issue,Medium,15.91,Resolved,Happy with the purchase.
+T000255,P1039,C0127,2025-02-16T00:00:00,General product issue,Medium,4.72,Pending,Performance is acceptable.
+T000256,P1031,C0051,2025-06-22T00:00:00,General product issue,High,20.62,Pending,Value for money.
+T000257,P1018,C0400,2025-08-23T00:00:00,Charging,High,4.71,Resolved,The device does not always recognize the charger.
+T000258,P1011,C0413,2025-11-14T00:00:00,General product issue,Medium,16.51,Resolved,Value for money.
+T000259,P1012,C0271,2025-06-01T00:00:00,General product issue,Medium,6.19,Resolved,Performance is acceptable.
+T000260,P1014,C0170,2025-07-10T00:00:00,General product issue,Medium,3.32,Resolved,Value for money.
+T000261,P1022,C0319,2025-11-26T00:00:00,General product issue,Low,20.83,Resolved,Happy with the purchase.
+T000262,P1023,C0309,2025-10-24T00:00:00,General product issue,High,13.78,Resolved,Good quality and works as expected.
+T000263,P1028,C0372,2025-02-24T00:00:00,General product issue,Low,13.22,Resolved,Happy with the purchase.
+T000264,P1024,C0385,2025-03-06T00:00:00,Product durability,Medium,8.65,Resolved,The product broke sooner than expected.
+T000265,P1024,C0384,2025-07-25T00:00:00,Product durability,Low,10.94,Resolved,A component became loose after limited use.
+T000266,P1001,C0204,2025-02-13T00:00:00,General product issue,Critical,8.39,Resolved,Value for money.
+T000267,P1014,C0132,2025-03-22T00:00:00,General product issue,Medium,3.75,Resolved,Performance is acceptable.
+T000268,P1007,C0193,2025-03-18T00:00:00,General product issue,Medium,21.51,Resolved,Performance is acceptable.
+T000269,P1013,C0006,2025-04-09T00:00:00,Performance / motor,Medium,4.96,Resolved,The motor started making unusual noise.
+T000270,P1010,C0178,2025-12-24T00:00:00,General product issue,Low,20.63,Pending,Good quality and works as expected.
+T000271,P1028,C0218,2025-08-07T00:00:00,General product issue,Critical,20.62,Resolved,Performance is acceptable.
+T000272,P1036,C0341,2025-11-16T00:00:00,General product issue,High,3.36,Resolved,Good quality and works as expected.
+T000273,P1036,C0267,2025-10-26T00:00:00,General product issue,Medium,7.95,Resolved,Good quality and works as expected.
+T000274,P1020,C0096,2025-10-24T00:00:00,General product issue,Medium,9.91,Resolved,Happy with the purchase.
+T000275,P1034,C0458,2025-07-01T00:00:00,Packaging / damage,Medium,25.3,Resolved,The item arrived with damaged packaging.
+T000276,P1014,C0132,2025-05-27T00:00:00,General product issue,Medium,6.92,Resolved,Value for money.
+T000277,P1025,C0205,2025-08-12T00:00:00,General product issue,Low,7.93,Pending,Happy with the purchase.
+T000278,P1028,C0027,2025-06-22T00:00:00,General product issue,Medium,4.89,Resolved,Value for money.
+T000279,P1025,C0105,2025-07-11T00:00:00,General product issue,Low,14.83,Resolved,Happy with the purchase.
+T000280,P1019,C0446,2025-08-27T00:00:00,General product issue,Low,4.57,Resolved,Good quality and works as expected.
+T000281,P1014,C0312,2025-06-24T00:00:00,General product issue,Low,7.82,Resolved,Good quality and works as expected.
+T000282,P1034,C0454,2025-04-19T00:00:00,Packaging / damage,Medium,7.91,Resolved,The item arrived with damaged packaging.
+T000283,P1002,C0357,2025-03-01T00:00:00,General product issue,Critical,1.0,Resolved,Value for money.
+T000284,P1023,C0484,2025-12-15T00:00:00,General product issue,Low,27.02,Resolved,Performance is acceptable.
+T000285,P1020,C0409,2025-12-10T00:00:00,General product issue,Medium,2.41,Resolved,Performance is acceptable.
+T000286,P1012,C0156,2025-01-12T00:00:00,General product issue,Low,2.2,Resolved,Good quality and works as expected.
+T000287,P1001,C0451,2025-02-18T00:00:00,General product issue,Medium,4.71,Pending,Performance is acceptable.
+T000288,P1014,C0305,2025-04-16T00:00:00,General product issue,Medium,1.89,Resolved,Value for money.
+T000289,P1004,C0450,2025-02-20T00:00:00,General product issue,Low,10.32,Resolved,Performance is acceptable.
+T000290,P1008,C0372,2025-07-24T00:00:00,General product issue,Low,13.73,Resolved,Value for money.
+T000291,P1033,C0123,2025-01-13T00:00:00,General product issue,Low,17.75,Resolved,Value for money.
+T000292,P1020,C0345,2025-04-08T00:00:00,General product issue,High,27.46,Resolved,Good quality and works as expected.
+T000293,P1014,C0146,2025-10-15T00:00:00,General product issue,Low,8.83,Resolved,Performance is acceptable.
+T000294,P1005,C0008,2025-04-27T00:00:00,Battery / charging,Medium,11.35,Resolved,Charging has become unreliable after a few weeks.
+T000295,P1033,C0024,2025-12-12T00:00:00,General product issue,Medium,16.44,Resolved,Good quality and works as expected.
+T000296,P1020,C0052,2025-02-19T00:00:00,General product issue,High,20.24,Resolved,Performance is acceptable.
+T000297,P1027,C0307,2025-02-26T00:00:00,General product issue,High,20.46,Resolved,Value for money.
+T000298,P1010,C0444,2025-12-14T00:00:00,General product issue,Medium,3.86,Resolved,Performance is acceptable.
+T000299,P1011,C0443,2025-08-17T00:00:00,General product issue,Medium,1.88,Resolved,Happy with the purchase.
+T000300,P1029,C0464,2025-02-09T00:00:00,Size / fit,Medium,8.69,Resolved,Fit is uncomfortable.
+T000301,P1026,C0039,2025-01-17T00:00:00,General product issue,High,6.76,Resolved,Performance is acceptable.
+T000302,P1037,C0111,2025-07-19T00:00:00,Connectivity,Low,5.55,Resolved,The device disconnects unexpectedly.
+T000303,P1036,C0271,2025-08-20T00:00:00,General product issue,Medium,11.27,Pending,Performance is acceptable.
+T000304,P1033,C0082,2025-06-10T00:00:00,General product issue,Low,7.13,Resolved,Performance is acceptable.
+T000305,P1010,C0166,2025-04-18T00:00:00,General product issue,Medium,4.61,Resolved,Value for money.
+T000306,P1026,C0413,2025-03-14T00:00:00,General product issue,Medium,27.88,Resolved,Performance is acceptable.
+T000307,P1011,C0260,2025-05-24T00:00:00,General product issue,Medium,3.76,Resolved,Happy with the purchase.
+T000308,P1014,C0214,2025-06-12T00:00:00,General product issue,High,13.38,Resolved,Happy with the purchase.
+T000309,P1005,C0115,2025-08-01T00:00:00,Battery / charging,Medium,5.63,Resolved,Battery drains much faster than expected.
+T000310,P1019,C0381,2025-03-02T00:00:00,General product issue,Low,12.94,Resolved,Happy with the purchase.
+T000311,P1014,C0296,2025-05-05T00:00:00,General product issue,Low,15.29,Resolved,Happy with the purchase.
+T000312,P1026,C0476,2025-09-08T00:00:00,General product issue,Low,24.18,Resolved,Value for money.
+T000313,P1039,C0234,2025-04-08T00:00:00,General product issue,Medium,4.31,Resolved,Happy with the purchase.
+T000314,P1019,C0342,2025-03-04T00:00:00,General product issue,High,9.08,Resolved,Performance is acceptable.
+T000315,P1036,C0076,2025-03-08T00:00:00,General product issue,Low,13.59,Resolved,Value for money.
+T000316,P1004,C0299,2025-02-13T00:00:00,General product issue,Low,9.5,Resolved,Happy with the purchase.
+T000317,P1023,C0114,2025-06-15T00:00:00,General product issue,Medium,9.11,Resolved,Performance is acceptable.
+T000318,P1033,C0419,2025-07-02T00:00:00,General product issue,Medium,5.68,Pending,Happy with the purchase.
+T000319,P1028,C0306,2025-05-18T00:00:00,General product issue,High,7.09,Escalated,Performance is acceptable.
+T000320,P1007,C0198,2025-08-22T00:00:00,General product issue,Low,15.41,Resolved,Happy with the purchase.
+T000321,P1010,C0033,2025-10-10T00:00:00,General product issue,Low,6.6,Resolved,Value for money.
+T000322,P1029,C0227,2025-09-04T00:00:00,Size / fit,High,1.0,Resolved,The size did not match the description.
+T000323,P1020,C0471,2025-12-07T00:00:00,General product issue,High,18.82,Resolved,Good quality and works as expected.
+T000324,P1013,C0449,2025-11-07T00:00:00,Performance / motor,High,10.81,Resolved,Performance dropped after a few weeks.
+T000325,P1013,C0164,2025-02-06T00:00:00,Performance / motor,Low,1.81,Resolved,Performance dropped after a few weeks.
+T000326,P1034,C0161,2025-07-08T00:00:00,Packaging / damage,High,17.42,Resolved,The product box was crushed during delivery.
+T000327,P1020,C0366,2025-06-11T00:00:00,General product issue,Medium,4.12,Resolved,Good quality and works as expected.
+T000328,P1007,C0386,2025-07-17T00:00:00,General product issue,High,18.1,Resolved,Value for money.
+T000329,P1002,C0500,2025-01-21T00:00:00,General product issue,High,4.51,Resolved,Performance is acceptable.
+T000330,P1015,C0334,2025-12-13T00:00:00,General product issue,Low,5.46,Resolved,Value for money.
+T000331,P1004,C0416,2025-08-05T00:00:00,General product issue,Medium,6.29,Resolved,Good quality and works as expected.
+T000332,P1010,C0211,2025-04-26T00:00:00,General product issue,High,19.34,Resolved,Good quality and works as expected.
+T000333,P1025,C0053,2025-05-05T00:00:00,General product issue,Low,11.52,Resolved,Good quality and works as expected.
+T000334,P1003,C0256,2025-03-02T00:00:00,General product issue,Low,6.53,Resolved,Good quality and works as expected.
+T000335,P1007,C0164,2025-07-02T00:00:00,General product issue,High,11.9,Resolved,Good quality and works as expected.
+T000336,P1005,C0102,2025-08-18T00:00:00,Battery / charging,High,11.13,Resolved,Battery backup is poor compared with expectations.
+T000337,P1008,C0484,2025-12-18T00:00:00,General product issue,High,13.12,Resolved,Performance is acceptable.
+T000338,P1038,C0262,2025-03-11T00:00:00,General product issue,Low,9.29,Resolved,Good quality and works as expected.
+T000339,P1021,C0464,2025-05-03T00:00:00,General product issue,High,9.97,Resolved,Value for money.
+T000340,P1019,C0271,2025-12-13T00:00:00,General product issue,High,5.13,Pending,Value for money.
+T000341,P1030,C0428,2025-05-04T00:00:00,General product issue,Medium,32.46,Pending,Good quality and works as expected.
+T000342,P1032,C0074,2025-09-23T00:00:00,General product issue,High,20.09,Resolved,Value for money.
+T000343,P1016,C0354,2025-12-08T00:00:00,General product issue,Medium,6.49,Resolved,Value for money.
+T000344,P1001,C0269,2025-02-05T00:00:00,General product issue,Low,6.84,Pending,Value for money.
+T000345,P1026,C0237,2025-04-16T00:00:00,General product issue,Low,27.04,Pending,Value for money.
+T000346,P1027,C0002,2025-07-13T00:00:00,General product issue,Medium,11.33,Resolved,Performance is acceptable.
+T000347,P1007,C0007,2025-05-11T00:00:00,General product issue,Medium,27.73,Pending,Happy with the purchase.
+T000348,P1012,C0297,2025-07-10T00:00:00,General product issue,Medium,5.23,Resolved,Value for money.
+T000349,P1006,C0085,2025-12-02T00:00:00,General product issue,High,19.0,Resolved,Value for money.
+T000350,P1028,C0040,2025-06-15T00:00:00,General product issue,High,10.34,Resolved,Happy with the purchase.
+T000351,P1038,C0211,2025-06-16T00:00:00,General product issue,Low,22.32,Resolved,Good quality and works as expected.
+T000352,P1025,C0054,2025-12-19T00:00:00,General product issue,Low,8.46,Resolved,Value for money.
+T000353,P1032,C0057,2025-09-15T00:00:00,General product issue,Medium,4.25,Resolved,Performance is acceptable.
+T000354,P1012,C0345,2025-03-01T00:00:00,General product issue,Medium,6.41,Resolved,Value for money.
+T000355,P1035,C0496,2025-08-27T00:00:00,General product issue,Medium,4.53,Resolved,Performance is acceptable.
+T000356,P1025,C0483,2025-05-18T00:00:00,General product issue,Medium,27.81,Resolved,Happy with the purchase.
+T000357,P1037,C0360,2025-10-14T00:00:00,Connectivity,High,18.68,Resolved,Connection drops frequently.
+T000358,P1002,C0267,2025-03-27T00:00:00,General product issue,Low,8.92,Escalated,Performance is acceptable.
+T000359,P1011,C0154,2025-06-02T00:00:00,General product issue,Medium,16.71,Resolved,Performance is acceptable.
+T000360,P1017,C0016,2025-09-20T00:00:00,General product issue,Low,2.29,Resolved,Happy with the purchase.
+T000361,P1028,C0442,2025-08-23T00:00:00,General product issue,Low,4.9,Resolved,Good quality and works as expected.
+T000362,P1008,C0231,2025-01-16T00:00:00,General product issue,High,3.66,Escalated,Value for money.
+T000363,P1025,C0001,2025-06-05T00:00:00,General product issue,Low,10.37,Resolved,Value for money.
+T000364,P1025,C0363,2025-07-03T00:00:00,General product issue,High,5.81,Resolved,Value for money.
+T000365,P1007,C0221,2025-09-17T00:00:00,General product issue,High,6.64,Resolved,Happy with the purchase.
+T000366,P1008,C0332,2025-09-20T00:00:00,General product issue,High,13.3,Resolved,Happy with the purchase.
+T000367,P1021,C0498,2025-01-09T00:00:00,General product issue,Medium,7.18,Resolved,Happy with the purchase.
+T000368,P1040,C0336,2025-03-09T00:00:00,Compatibility,Medium,17.51,Resolved,The accessory is incompatible with my setup.
+T000369,P1020,C0095,2025-06-07T00:00:00,General product issue,Medium,14.13,Resolved,Value for money.
+T000370,P1039,C0434,2025-11-07T00:00:00,General product issue,Low,3.96,Resolved,Value for money.
+T000371,P1008,C0097,2025-08-13T00:00:00,General product issue,Low,2.8,Resolved,Performance is acceptable.
+T000372,P1026,C0386,2025-02-16T00:00:00,General product issue,Medium,5.7,Resolved,Good quality and works as expected.
+T000373,P1028,C0484,2025-05-19T00:00:00,General product issue,Critical,19.61,Resolved,Good quality and works as expected.
+T000374,P1011,C0206,2025-06-02T00:00:00,General product issue,High,5.78,Resolved,Happy with the purchase.
+T000375,P1024,C0444,2025-05-11T00:00:00,Product durability,Medium,6.73,Resolved,A component became loose after limited use.
+T000376,P1031,C0307,2025-12-18T00:00:00,General product issue,Medium,7.55,Resolved,Happy with the purchase.
+T000377,P1018,C0034,2025-02-08T00:00:00,Charging,Medium,12.9,Resolved,Power connection is unreliable.
+T000378,P1020,C0151,2025-06-10T00:00:00,General product issue,Medium,14.12,Resolved,Good quality and works as expected.
+T000379,P1021,C0347,2025-09-12T00:00:00,General product issue,Medium,17.32,Resolved,Happy with the purchase.
+T000380,P1018,C0337,2025-01-18T00:00:00,Charging,High,9.08,Resolved,Power connection is unreliable.
+T000381,P1031,C0406,2025-11-20T00:00:00,General product issue,Medium,14.22,Resolved,Happy with the purchase.
+T000382,P1020,C0056,2025-05-21T00:00:00,General product issue,Low,19.94,Resolved,Performance is acceptable.
+T000383,P1024,C0440,2025-03-27T00:00:00,Product durability,Critical,37.58,Resolved,The product broke sooner than expected.
+T000384,P1006,C0404,2025-01-15T00:00:00,General product issue,Medium,19.12,Pending,Happy with the purchase.
+T000385,P1036,C0329,2025-02-19T00:00:00,General product issue,High,15.05,Resolved,Value for money.
+T000386,P1019,C0138,2025-12-26T00:00:00,General product issue,Low,1.45,Resolved,Performance is acceptable.
+T000387,P1026,C0182,2025-08-01T00:00:00,General product issue,Medium,6.65,Resolved,Performance is acceptable.
+T000388,P1022,C0494,2025-08-19T00:00:00,General product issue,Low,24.92,Resolved,Performance is acceptable.
+T000389,P1040,C0368,2025-07-24T00:00:00,Compatibility,High,6.58,Resolved,Compatibility information is unclear.
+T000390,P1011,C0497,2025-08-07T00:00:00,General product issue,Medium,9.73,Resolved,Value for money.
+T000391,P1026,C0119,2025-06-24T00:00:00,General product issue,Low,12.16,Resolved,Good quality and works as expected.
+T000392,P1016,C0150,2025-06-20T00:00:00,General product issue,High,23.0,Resolved,Good quality and works as expected.
+T000393,P1008,C0425,2025-03-08T00:00:00,General product issue,Medium,8.71,Resolved,Good quality and works as expected.
+T000394,P1003,C0357,2025-12-01T00:00:00,General product issue,Low,17.35,Resolved,Happy with the purchase.
+T000395,P1025,C0347,2025-05-18T00:00:00,General product issue,Medium,12.98,Escalated,Good quality and works as expected.
+T000396,P1025,C0249,2025-09-08T00:00:00,General product issue,Low,2.98,Pending,Performance is acceptable.
+T000397,P1039,C0429,2025-09-09T00:00:00,General product issue,Medium,3.05,Resolved,Happy with the purchase.
+T000398,P1017,C0461,2025-06-21T00:00:00,General product issue,Low,13.23,Resolved,Value for money.
+T000399,P1019,C0178,2025-10-13T00:00:00,General product issue,Low,6.48,Resolved,Value for money.
+T000400,P1011,C0073,2025-05-20T00:00:00,General product issue,Low,6.1,Resolved,Good quality and works as expected.
+T000401,P1006,C0268,2025-07-02T00:00:00,General product issue,Medium,15.03,Resolved,Happy with the purchase.
+T000402,P1035,C0204,2025-08-26T00:00:00,General product issue,High,11.23,Pending,Happy with the purchase.
+T000403,P1014,C0062,2025-10-20T00:00:00,General product issue,High,33.47,Resolved,Happy with the purchase.
+T000404,P1032,C0393,2025-09-20T00:00:00,General product issue,Low,33.9,Pending,Performance is acceptable.
+T000405,P1037,C0496,2025-06-22T00:00:00,Connectivity,High,12.91,Resolved,Pairing is unreliable.
+T000406,P1009,C0013,2025-07-09T00:00:00,General product issue,Low,1.39,Resolved,Good quality and works as expected.
+T000407,P1036,C0021,2025-04-01T00:00:00,General product issue,High,15.65,Resolved,Performance is acceptable.
+T000408,P1038,C0036,2025-06-20T00:00:00,General product issue,Critical,6.06,Resolved,Value for money.
+T000409,P1032,C0166,2025-04-12T00:00:00,General product issue,Low,1.46,Resolved,Happy with the purchase.
+T000410,P1024,C0414,2025-04-20T00:00:00,Product durability,Medium,6.64,Resolved,Build quality does not feel durable.
+T000411,P1011,C0289,2025-07-21T00:00:00,General product issue,Low,4.75,Resolved,Value for money.
+T000412,P1022,C0106,2025-01-05T00:00:00,General product issue,High,10.78,Pending,Value for money.
+T000413,P1035,C0391,2025-09-05T00:00:00,General product issue,High,8.34,Resolved,Good quality and works as expected.
+T000414,P1032,C0055,2025-07-26T00:00:00,General product issue,Medium,13.13,Pending,Value for money.
+T000415,P1014,C0106,2025-03-06T00:00:00,General product issue,Medium,5.07,Resolved,Good quality and works as expected.
+T000416,P1007,C0079,2025-03-19T00:00:00,General product issue,Medium,2.72,Pending,Performance is acceptable.
+T000417,P1005,C0098,2025-07-09T00:00:00,Battery / charging,High,23.03,Resolved,Battery backup is poor compared with expectations.
+T000418,P1040,C0056,2025-10-26T00:00:00,Compatibility,Medium,11.91,Resolved,It does not work with my device.
+T000419,P1022,C0326,2025-01-23T00:00:00,General product issue,Medium,3.74,Resolved,Value for money.
+T000420,P1027,C0144,2025-08-14T00:00:00,General product issue,Medium,19.91,Resolved,Performance is acceptable.
+T000421,P1018,C0092,2025-09-15T00:00:00,Charging,Medium,33.03,Resolved,Power connection is unreliable.
+T000422,P1036,C0240,2025-11-20T00:00:00,General product issue,Low,9.7,Resolved,Value for money.
+T000423,P1022,C0047,2025-11-18T00:00:00,General product issue,Medium,4.4,Resolved,Happy with the purchase.
+T000424,P1003,C0111,2025-06-25T00:00:00,General product issue,High,14.32,Resolved,Performance is acceptable.
+T000425,P1038,C0008,2025-07-18T00:00:00,General product issue,Low,13.95,Resolved,Happy with the purchase.
+T000426,P1002,C0009,2025-02-14T00:00:00,General product issue,Medium,21.32,Resolved,Value for money.
+T000427,P1015,C0118,2025-08-21T00:00:00,General product issue,Low,13.04,Resolved,Performance is acceptable.
+T000428,P1040,C0067,2025-04-05T00:00:00,Compatibility,Medium,21.25,Resolved,The accessory is incompatible with my setup.
+T000429,P1027,C0434,2025-09-24T00:00:00,General product issue,Low,3.45,Pending,Performance is acceptable.
+T000430,P1018,C0204,2025-02-04T00:00:00,Charging,High,6.22,Resolved,Charging is intermittent.
+T000431,P1004,C0422,2025-05-08T00:00:00,General product issue,Medium,6.51,Resolved,Happy with the purchase.
+T000432,P1009,C0254,2025-10-04T00:00:00,General product issue,Low,8.92,Resolved,Value for money.
+T000433,P1023,C0145,2025-05-26T00:00:00,General product issue,Low,16.7,Pending,Performance is acceptable.
+T000434,P1029,C0263,2025-12-06T00:00:00,Size / fit,High,2.38,Escalated,The size did not match the description.
+T000435,P1028,C0317,2025-03-04T00:00:00,General product issue,Medium,7.79,Escalated,Good quality and works as expected.
+T000436,P1024,C0147,2025-08-15T00:00:00,Product durability,Medium,1.32,Resolved,The product broke sooner than expected.
+T000437,P1019,C0207,2025-10-22T00:00:00,General product issue,High,6.65,Resolved,Value for money.
+T000438,P1015,C0498,2025-11-18T00:00:00,General product issue,Medium,7.38,Resolved,Value for money.
+T000439,P1026,C0225,2025-07-03T00:00:00,General product issue,Medium,11.84,Resolved,Value for money.
+T000440,P1010,C0037,2025-11-12T00:00:00,General product issue,Medium,15.67,Resolved,Good quality and works as expected.
+T000441,P1026,C0416,2025-02-04T00:00:00,General product issue,Medium,10.06,Resolved,Performance is acceptable.
+T000442,P1039,C0035,2025-02-05T00:00:00,General product issue,High,24.77,Pending,Value for money.
+T000443,P1014,C0278,2025-06-18T00:00:00,General product issue,Low,28.43,Resolved,Performance is acceptable.
+T000444,P1022,C0024,2025-09-27T00:00:00,General product issue,High,8.7,Resolved,Performance is acceptable.
+T000445,P1034,C0241,2025-03-14T00:00:00,Packaging / damage,High,11.15,Resolved,The product box was crushed during delivery.
+T000446,P1025,C0310,2025-06-01T00:00:00,General product issue,Low,6.01,Resolved,Good quality and works as expected.
+T000447,P1017,C0344,2025-06-07T00:00:00,General product issue,Medium,11.9,Resolved,Performance is acceptable.
+T000448,P1003,C0316,2025-07-25T00:00:00,General product issue,Medium,4.31,Resolved,Value for money.
+T000449,P1011,C0303,2025-04-23T00:00:00,General product issue,High,17.26,Resolved,Good quality and works as expected.
+T000450,P1012,C0222,2025-07-26T00:00:00,General product issue,Medium,4.22,Resolved,Happy with the purchase.
+T000451,P1015,C0045,2025-01-03T00:00:00,General product issue,Medium,3.06,Resolved,Performance is acceptable.
+T000452,P1021,C0064,2025-01-07T00:00:00,General product issue,Low,7.5,Pending,Good quality and works as expected.
+T000453,P1016,C0247,2025-10-25T00:00:00,General product issue,Low,5.42,Escalated,Happy with the purchase.
+T000454,P1009,C0106,2025-04-04T00:00:00,General product issue,Critical,11.43,Escalated,Happy with the purchase.
+T000455,P1034,C0210,2025-01-03T00:00:00,Packaging / damage,Medium,5.82,Resolved,The item arrived with damaged packaging.
+T000456,P1029,C0356,2025-03-01T00:00:00,Size / fit,Medium,15.13,Resolved,Fit is uncomfortable.
+T000457,P1024,C0035,2025-04-23T00:00:00,Product durability,Medium,5.93,Resolved,Build quality does not feel durable.
+T000458,P1019,C0157,2025-11-26T00:00:00,General product issue,Medium,18.87,Resolved,Happy with the purchase.
+T000459,P1008,C0133,2025-05-01T00:00:00,General product issue,High,8.07,Resolved,Happy with the purchase.
+T000460,P1002,C0267,2025-11-26T00:00:00,General product issue,Medium,2.92,Resolved,Good quality and works as expected.
+T000461,P1036,C0012,2025-08-07T00:00:00,General product issue,Medium,51.86,Resolved,Happy with the purchase.
+T000462,P1026,C0248,2025-09-27T00:00:00,General product issue,Medium,8.12,Resolved,Good quality and works as expected.
+T000463,P1015,C0224,2025-02-02T00:00:00,General product issue,Medium,2.95,Resolved,Good quality and works as expected.
+T000464,P1025,C0006,2025-05-27T00:00:00,General product issue,Medium,24.05,Resolved,Good quality and works as expected.
+T000465,P1027,C0037,2025-12-07T00:00:00,General product issue,Low,25.01,Resolved,Happy with the purchase.
+T000466,P1025,C0430,2025-12-26T00:00:00,General product issue,Critical,10.98,Pending,Good quality and works as expected.
+T000467,P1006,C0044,2025-12-12T00:00:00,General product issue,Low,3.05,Resolved,Value for money.
+T000468,P1040,C0328,2025-06-27T00:00:00,Compatibility,High,13.74,Resolved,It does not work with my device.
+T000469,P1006,C0287,2025-02-08T00:00:00,General product issue,Low,4.66,Resolved,Happy with the purchase.
+T000470,P1037,C0434,2025-06-17T00:00:00,Connectivity,Medium,4.54,Resolved,Pairing is unreliable.
+T000471,P1015,C0467,2025-03-22T00:00:00,General product issue,Low,24.59,Resolved,Performance is acceptable.
+T000472,P1038,C0079,2025-12-08T00:00:00,General product issue,High,28.04,Resolved,Happy with the purchase.
+T000473,P1002,C0022,2025-12-18T00:00:00,General product issue,Medium,12.81,Resolved,Performance is acceptable.
+T000474,P1013,C0209,2025-07-26T00:00:00,Performance / motor,Medium,8.51,Resolved,Performance dropped after a few weeks.
+T000475,P1008,C0314,2025-01-01T00:00:00,General product issue,Low,17.03,Resolved,Performance is acceptable.
+T000476,P1005,C0224,2025-07-27T00:00:00,Battery / charging,High,13.63,Resolved,Battery backup is poor compared with expectations.
+T000477,P1025,C0136,2025-06-19T00:00:00,General product issue,High,2.07,Resolved,Happy with the purchase.
+T000478,P1023,C0214,2025-10-06T00:00:00,General product issue,High,25.08,Resolved,Performance is acceptable.
+T000479,P1027,C0116,2025-05-23T00:00:00,General product issue,Medium,14.81,Resolved,Good quality and works as expected.
+T000480,P1006,C0043,2025-03-11T00:00:00,General product issue,High,27.65,Resolved,Happy with the purchase.
+T000481,P1005,C0278,2025-03-16T00:00:00,Battery / charging,High,5.58,Resolved,Battery backup is poor compared with expectations.
+T000482,P1034,C0222,2025-10-15T00:00:00,Packaging / damage,Critical,21.93,Resolved,The item arrived with damaged packaging.
+T000483,P1002,C0310,2025-03-11T00:00:00,General product issue,Critical,8.95,Resolved,Good quality and works as expected.
+T000484,P1038,C0413,2025-09-25T00:00:00,General product issue,Low,4.46,Resolved,Performance is acceptable.
+T000485,P1008,C0353,2025-12-16T00:00:00,General product issue,Medium,4.84,Resolved,Performance is acceptable.
+T000486,P1006,C0196,2025-07-10T00:00:00,General product issue,Low,11.62,Resolved,Good quality and works as expected.
+T000487,P1021,C0069,2025-10-17T00:00:00,General product issue,Low,19.63,Resolved,Happy with the purchase.
+T000488,P1032,C0331,2025-06-25T00:00:00,General product issue,High,7.84,Resolved,Performance is acceptable.
+T000489,P1022,C0355,2025-04-03T00:00:00,General product issue,Low,4.19,Resolved,Happy with the purchase.
+T000490,P1031,C0094,2025-11-17T00:00:00,General product issue,High,3.14,Resolved,Good quality and works as expected.
+T000491,P1018,C0190,2025-04-26T00:00:00,Charging,Low,7.46,Resolved,The device does not always recognize the charger.
+T000492,P1004,C0055,2025-10-13T00:00:00,General product issue,Medium,9.29,Resolved,Performance is acceptable.
+T000493,P1014,C0272,2025-01-27T00:00:00,General product issue,Medium,10.71,Pending,Performance is acceptable.
+T000494,P1012,C0046,2025-12-09T00:00:00,General product issue,Medium,18.13,Resolved,Good quality and works as expected.
+T000495,P1032,C0359,2025-06-25T00:00:00,General product issue,Medium,6.92,Resolved,Performance is acceptable.
+T000496,P1024,C0406,2025-02-21T00:00:00,Product durability,Critical,8.86,Resolved,Build quality does not feel durable.
+T000497,P1040,C0208,2025-08-02T00:00:00,Compatibility,High,15.87,Pending,The accessory is incompatible with my setup.
+T000498,P1036,C0367,2025-02-13T00:00:00,General product issue,Medium,8.52,Resolved,Happy with the purchase.
+T000499,P1022,C0181,2025-12-07T00:00:00,General product issue,High,3.72,Pending,Good quality and works as expected.
+T000500,P1017,C0361,2025-03-08T00:00:00,General product issue,Medium,5.48,Resolved,Value for money.
+T000501,P1026,C0230,2025-01-10T00:00:00,General product issue,Low,6.56,Resolved,Good quality and works as expected.
+T000502,P1012,C0053,2025-03-10T00:00:00,General product issue,High,4.82,Resolved,Good quality and works as expected.
+T000503,P1037,C0328,2025-12-16T00:00:00,Connectivity,High,8.87,Resolved,Pairing is unreliable.
+T000504,P1018,C0061,2025-03-07T00:00:00,Charging,Low,2.02,Resolved,Power connection is unreliable.
+T000505,P1002,C0371,2025-10-21T00:00:00,General product issue,Low,29.28,Resolved,Happy with the purchase.
+T000506,P1015,C0061,2025-11-15T00:00:00,General product issue,Medium,13.18,Resolved,Good quality and works as expected.
+T000507,P1035,C0283,2025-06-21T00:00:00,General product issue,Low,6.22,Escalated,Performance is acceptable.
+T000508,P1003,C0139,2025-03-14T00:00:00,General product issue,Medium,4.45,Resolved,Value for money.
+T000509,P1017,C0342,2025-03-20T00:00:00,General product issue,Medium,10.02,Resolved,Happy with the purchase.
+T000510,P1037,C0473,2025-12-01T00:00:00,Connectivity,High,6.92,Resolved,Connection drops frequently.
+T000511,P1017,C0178,2025-01-09T00:00:00,General product issue,Low,6.14,Resolved,Performance is acceptable.
+T000512,P1004,C0412,2025-11-09T00:00:00,General product issue,Low,16.22,Resolved,Happy with the purchase.
+T000513,P1018,C0266,2025-09-07T00:00:00,Charging,Medium,15.63,Resolved,Power connection is unreliable.
+T000514,P1038,C0123,2025-12-13T00:00:00,General product issue,Low,11.43,Resolved,Good quality and works as expected.
+T000515,P1007,C0346,2025-11-13T00:00:00,General product issue,Medium,17.41,Resolved,Happy with the purchase.
+T000516,P1020,C0309,2025-08-15T00:00:00,General product issue,High,5.52,Resolved,Happy with the purchase.
+T000517,P1039,C0249,2025-04-03T00:00:00,General product issue,Medium,20.42,Resolved,Value for money.
+T000518,P1009,C0274,2025-02-27T00:00:00,General product issue,High,18.56,Resolved,Value for money.
+T000519,P1020,C0133,2025-07-16T00:00:00,General product issue,Critical,16.71,Resolved,Performance is acceptable.
+T000520,P1005,C0174,2025-12-04T00:00:00,Battery / charging,Medium,30.76,Resolved,Charging has become unreliable after a few weeks.
+T000521,P1011,C0311,2025-05-12T00:00:00,General product issue,Medium,22.21,Resolved,Happy with the purchase.
+T000522,P1023,C0069,2025-03-25T00:00:00,General product issue,Medium,4.86,Escalated,Value for money.
+T000523,P1027,C0352,2025-11-12T00:00:00,General product issue,Low,43.06,Resolved,Happy with the purchase.
+T000524,P1010,C0447,2025-12-25T00:00:00,General product issue,Medium,10.01,Resolved,Value for money.
+T000525,P1030,C0083,2025-07-19T00:00:00,General product issue,Medium,8.82,Resolved,Value for money.
+T000526,P1013,C0498,2025-02-12T00:00:00,Performance / motor,Medium,7.03,Resolved,Performance dropped after a few weeks.
+T000527,P1008,C0123,2025-05-10T00:00:00,General product issue,Medium,27.9,Pending,Happy with the purchase.
+T000528,P1005,C0341,2025-04-20T00:00:00,Battery / charging,High,8.34,Resolved,Charging has become unreliable after a few weeks.
+T000529,P1035,C0439,2025-06-11T00:00:00,General product issue,Medium,1.66,Pending,Good quality and works as expected.
+T000530,P1013,C0497,2025-03-01T00:00:00,Performance / motor,Low,5.01,Resolved,The device stopped working during normal use.
+T000531,P1030,C0038,2025-03-10T00:00:00,General product issue,Medium,6.71,Resolved,Performance is acceptable.
+T000532,P1019,C0021,2025-08-19T00:00:00,General product issue,Medium,3.24,Resolved,Happy with the purchase.
+T000533,P1019,C0359,2025-11-12T00:00:00,General product issue,Medium,8.77,Resolved,Performance is acceptable.
+T000534,P1031,C0349,2025-07-01T00:00:00,General product issue,Medium,15.99,Pending,Good quality and works as expected.
+T000535,P1002,C0461,2025-03-04T00:00:00,General product issue,High,18.01,Resolved,Performance is acceptable.
+T000536,P1032,C0273,2025-06-02T00:00:00,General product issue,High,9.76,Resolved,Value for money.
+T000537,P1038,C0455,2025-11-09T00:00:00,General product issue,Medium,12.67,Resolved,Good quality and works as expected.
+T000538,P1033,C0077,2025-09-03T00:00:00,General product issue,Low,23.39,Resolved,Value for money.
+T000539,P1019,C0461,2025-03-01T00:00:00,General product issue,High,7.39,Resolved,Performance is acceptable.
+T000540,P1039,C0304,2025-10-02T00:00:00,General product issue,Medium,8.74,Resolved,Happy with the purchase.
+T000541,P1018,C0487,2025-03-26T00:00:00,Charging,Medium,1.85,Pending,Charging is intermittent.
+T000542,P1020,C0318,2025-08-03T00:00:00,General product issue,High,20.88,Resolved,Performance is acceptable.
+T000543,P1015,C0309,2025-02-25T00:00:00,General product issue,Low,2.9,Pending,Value for money.
+T000544,P1032,C0330,2025-12-22T00:00:00,General product issue,Medium,4.55,Resolved,Performance is acceptable.
+T000545,P1013,C0103,2025-01-14T00:00:00,Performance / motor,Medium,11.48,Resolved,The motor started making unusual noise.
+T000546,P1031,C0267,2025-09-03T00:00:00,General product issue,Low,14.23,Resolved,Value for money.
+T000547,P1024,C0243,2025-04-19T00:00:00,Product durability,Low,2.7,Resolved,A component became loose after limited use.
+T000548,P1035,C0224,2025-03-23T00:00:00,General product issue,Medium,3.96,Resolved,Happy with the purchase.
+T000549,P1029,C0033,2025-03-12T00:00:00,Size / fit,Critical,17.64,Resolved,Fit is uncomfortable.
+T000550,P1006,C0250,2025-03-07T00:00:00,General product issue,Medium,7.93,Resolved,Performance is acceptable.
+T000551,P1026,C0095,2025-02-12T00:00:00,General product issue,Medium,8.4,Resolved,Value for money.
+T000552,P1010,C0115,2025-09-24T00:00:00,General product issue,Critical,5.48,Resolved,Value for money.
+T000553,P1026,C0164,2025-01-09T00:00:00,General product issue,High,3.41,Resolved,Performance is acceptable.
+T000554,P1011,C0385,2025-10-21T00:00:00,General product issue,Medium,2.0,Resolved,Happy with the purchase.
+T000555,P1017,C0269,2025-11-10T00:00:00,General product issue,Medium,6.69,Resolved,Good quality and works as expected.
+T000556,P1028,C0358,2025-04-14T00:00:00,General product issue,Medium,1.44,Resolved,Performance is acceptable.
+T000557,P1040,C0363,2025-01-27T00:00:00,Compatibility,Medium,13.94,Resolved,The accessory is incompatible with my setup.
+T000558,P1022,C0488,2025-01-08T00:00:00,General product issue,Low,6.46,Resolved,Happy with the purchase.
+T000559,P1011,C0338,2025-09-10T00:00:00,General product issue,Medium,5.54,Resolved,Value for money.
+T000560,P1036,C0160,2025-04-03T00:00:00,General product issue,Low,10.66,Escalated,Value for money.
+T000561,P1024,C0447,2025-07-07T00:00:00,Product durability,High,4.61,Resolved,Build quality does not feel durable.
+T000562,P1005,C0153,2025-05-26T00:00:00,Battery / charging,Medium,1.97,Resolved,Charging has become unreliable after a few weeks.
+T000563,P1025,C0060,2025-11-09T00:00:00,General product issue,Medium,5.77,Resolved,Good quality and works as expected.
+T000564,P1018,C0051,2025-09-02T00:00:00,Charging,High,19.03,Resolved,Charging is intermittent.
+T000565,P1005,C0125,2025-06-26T00:00:00,Battery / charging,Low,14.44,Resolved,Charging has become unreliable after a few weeks.
+T000566,P1021,C0194,2025-09-25T00:00:00,General product issue,Medium,14.95,Resolved,Happy with the purchase.
+T000567,P1021,C0075,2025-02-13T00:00:00,General product issue,Low,7.15,Resolved,Value for money.
+T000568,P1028,C0261,2025-04-13T00:00:00,General product issue,Medium,5.88,Resolved,Value for money.
+T000569,P1022,C0459,2025-05-20T00:00:00,General product issue,Medium,7.17,Resolved,Happy with the purchase.
+T000570,P1033,C0049,2025-08-04T00:00:00,General product issue,Low,2.28,Pending,Value for money.
+T000571,P1012,C0087,2025-09-01T00:00:00,General product issue,Medium,5.53,Pending,Performance is acceptable.
+T000572,P1006,C0194,2025-04-23T00:00:00,General product issue,Medium,3.22,Resolved,Performance is acceptable.
+T000573,P1014,C0195,2025-09-18T00:00:00,General product issue,Medium,5.94,Resolved,Good quality and works as expected.
+T000574,P1021,C0353,2025-07-15T00:00:00,General product issue,Medium,7.67,Pending,Value for money.
+T000575,P1036,C0156,2025-02-23T00:00:00,General product issue,Medium,11.74,Pending,Good quality and works as expected.
+T000576,P1025,C0119,2025-01-17T00:00:00,General product issue,Medium,4.99,Resolved,Good quality and works as expected.
+T000577,P1039,C0272,2025-08-21T00:00:00,General product issue,Low,12.69,Escalated,Performance is acceptable.
+T000578,P1004,C0136,2025-11-08T00:00:00,General product issue,Low,3.31,Resolved,Value for money.
+T000579,P1004,C0348,2025-12-08T00:00:00,General product issue,Medium,19.23,Resolved,Good quality and works as expected.
+T000580,P1010,C0426,2025-06-19T00:00:00,General product issue,High,1.59,Resolved,Performance is acceptable.
+T000581,P1014,C0300,2025-12-07T00:00:00,General product issue,High,1.8,Pending,Performance is acceptable.
+T000582,P1033,C0489,2025-01-25T00:00:00,General product issue,High,1.11,Resolved,Good quality and works as expected.
+T000583,P1011,C0176,2025-12-23T00:00:00,General product issue,High,5.76,Resolved,Value for money.
+T000584,P1032,C0018,2025-05-22T00:00:00,General product issue,High,9.51,Resolved,Happy with the purchase.
+T000585,P1037,C0318,2025-02-20T00:00:00,Connectivity,High,8.19,Pending,The device disconnects unexpectedly.
+T000586,P1021,C0045,2025-10-01T00:00:00,General product issue,High,2.75,Escalated,Happy with the purchase.
+T000587,P1006,C0471,2025-12-18T00:00:00,General product issue,Medium,7.97,Pending,Happy with the purchase.
+T000588,P1028,C0019,2025-02-25T00:00:00,General product issue,High,9.64,Resolved,Happy with the purchase.
+T000589,P1004,C0117,2025-09-05T00:00:00,General product issue,Low,4.31,Resolved,Happy with the purchase.
+T000590,P1007,C0215,2025-02-02T00:00:00,General product issue,Medium,8.28,Resolved,Happy with the purchase.
+T000591,P1019,C0466,2025-05-03T00:00:00,General product issue,Medium,4.48,Resolved,Performance is acceptable.
+T000592,P1006,C0408,2025-03-21T00:00:00,General product issue,Low,18.09,Escalated,Performance is acceptable.
+T000593,P1026,C0048,2025-12-25T00:00:00,General product issue,Medium,11.89,Resolved,Value for money.
+T000594,P1017,C0222,2025-02-03T00:00:00,General product issue,Medium,17.12,Resolved,Happy with the purchase.
+T000595,P1020,C0215,2025-08-04T00:00:00,General product issue,Low,2.44,Resolved,Value for money.
+T000596,P1037,C0130,2025-11-24T00:00:00,Connectivity,High,4.13,Resolved,Pairing is unreliable.
+T000597,P1014,C0486,2025-10-20T00:00:00,General product issue,High,3.77,Resolved,Good quality and works as expected.
+T000598,P1001,C0418,2025-02-04T00:00:00,General product issue,Low,11.45,Resolved,Performance is acceptable.
+T000599,P1035,C0346,2025-06-19T00:00:00,General product issue,Medium,4.36,Resolved,Happy with the purchase.
+T000600,P1005,C0248,2025-07-22T00:00:00,Battery / charging,Medium,17.79,Escalated,Battery drains much faster than expected.
+T000601,P1027,C0119,2025-09-20T00:00:00,General product issue,Low,15.8,Resolved,Happy with the purchase.
+T000602,P1009,C0470,2025-11-19T00:00:00,General product issue,Medium,6.47,Pending,Happy with the purchase.
+T000603,P1020,C0454,2025-04-08T00:00:00,General product issue,Medium,4.31,Resolved,Performance is acceptable.
+T000604,P1018,C0254,2025-02-01T00:00:00,Charging,Low,8.31,Resolved,Charging is intermittent.
+T000605,P1026,C0338,2025-03-06T00:00:00,General product issue,Medium,23.25,Resolved,Value for money.
+T000606,P1034,C0224,2025-02-22T00:00:00,Packaging / damage,High,24.57,Resolved,The product box was crushed during delivery.
+T000607,P1025,C0008,2025-12-24T00:00:00,General product issue,High,34.48,Pending,Happy with the purchase.
+T000608,P1039,C0462,2025-08-08T00:00:00,General product issue,Low,35.09,Resolved,Good quality and works as expected.
+T000609,P1008,C0359,2025-02-22T00:00:00,General product issue,High,15.12,Resolved,Value for money.
+T000610,P1037,C0142,2025-11-02T00:00:00,Connectivity,Critical,17.52,Resolved,Pairing is unreliable.
+T000611,P1001,C0011,2025-02-23T00:00:00,General product issue,Low,2.3,Resolved,Performance is acceptable.
+T000612,P1025,C0261,2025-12-14T00:00:00,General product issue,Medium,3.17,Pending,Happy with the purchase.
+T000613,P1016,C0288,2025-03-21T00:00:00,General product issue,Medium,14.41,Resolved,Good quality and works as expected.
+T000614,P1008,C0213,2025-08-08T00:00:00,General product issue,High,23.89,Resolved,Good quality and works as expected.
+T000615,P1011,C0029,2025-07-02T00:00:00,General product issue,High,21.24,Resolved,Value for money.
+T000616,P1026,C0390,2025-08-04T00:00:00,General product issue,Low,6.87,Resolved,Value for money.
+T000617,P1025,C0151,2025-12-04T00:00:00,General product issue,Medium,25.09,Resolved,Happy with the purchase.
+T000618,P1028,C0245,2025-03-17T00:00:00,General product issue,Medium,7.81,Resolved,Value for money.
+T000619,P1006,C0283,2025-03-23T00:00:00,General product issue,Medium,16.5,Resolved,Performance is acceptable.
+T000620,P1003,C0124,2025-08-09T00:00:00,General product issue,Medium,12.2,Resolved,Happy with the purchase.
+T000621,P1009,C0236,2025-11-18T00:00:00,General product issue,Medium,8.88,Resolved,Good quality and works as expected.
+T000622,P1025,C0323,2025-02-15T00:00:00,General product issue,Low,8.62,Resolved,Good quality and works as expected.
+T000623,P1018,C0263,2025-12-11T00:00:00,Charging,Low,37.67,Resolved,Power connection is unreliable.
+T000624,P1022,C0035,2025-12-02T00:00:00,General product issue,Low,3.85,Resolved,Value for money.
+T000625,P1021,C0245,2025-03-09T00:00:00,General product issue,Low,20.26,Resolved,Happy with the purchase.
+T000626,P1029,C0307,2025-05-26T00:00:00,Size / fit,Medium,20.48,Resolved,Fit is uncomfortable.
+T000627,P1039,C0158,2025-05-26T00:00:00,General product issue,Medium,6.67,Resolved,Good quality and works as expected.
+T000628,P1016,C0430,2025-10-12T00:00:00,General product issue,High,9.01,Pending,Value for money.
+T000629,P1039,C0339,2025-01-21T00:00:00,General product issue,Low,15.03,Pending,Happy with the purchase.
+T000630,P1025,C0346,2025-04-25T00:00:00,General product issue,Low,7.58,Pending,Happy with the purchase.
+T000631,P1032,C0269,2025-08-16T00:00:00,General product issue,Critical,4.76,Resolved,Good quality and works as expected.
+T000632,P1018,C0280,2025-12-16T00:00:00,Charging,Low,2.8,Resolved,Power connection is unreliable.
+T000633,P1008,C0447,2025-09-14T00:00:00,General product issue,Medium,1.0,Resolved,Happy with the purchase.
+T000634,P1002,C0041,2025-07-01T00:00:00,General product issue,Medium,12.75,Pending,Value for money.
+T000635,P1006,C0161,2025-05-13T00:00:00,General product issue,High,16.68,Resolved,Performance is acceptable.
+T000636,P1032,C0486,2025-06-27T00:00:00,General product issue,Medium,24.6,Resolved,Happy with the purchase.
+T000637,P1021,C0231,2025-03-14T00:00:00,General product issue,High,12.13,Resolved,Performance is acceptable.
+T000638,P1029,C0156,2025-11-19T00:00:00,Size / fit,High,13.47,Resolved,The size did not match the description.
+T000639,P1039,C0388,2025-09-16T00:00:00,General product issue,High,29.86,Resolved,Good quality and works as expected.
+T000640,P1037,C0031,2025-05-19T00:00:00,Connectivity,Medium,8.96,Resolved,The device disconnects unexpectedly.
+T000641,P1015,C0339,2025-10-23T00:00:00,General product issue,Medium,7.44,Resolved,Happy with the purchase.
+T000642,P1010,C0017,2025-01-16T00:00:00,General product issue,Medium,22.58,Resolved,Performance is acceptable.
+T000643,P1002,C0093,2025-03-03T00:00:00,General product issue,High,7.09,Resolved,Performance is acceptable.
+T000644,P1017,C0442,2025-06-07T00:00:00,General product issue,Low,22.47,Resolved,Happy with the purchase.
+T000645,P1032,C0390,2025-04-05T00:00:00,General product issue,Medium,3.23,Escalated,Performance is acceptable.
+T000646,P1032,C0063,2025-11-27T00:00:00,General product issue,High,13.67,Pending,Happy with the purchase.
+T000647,P1028,C0399,2025-07-25T00:00:00,General product issue,Low,11.13,Resolved,Performance is acceptable.
+T000648,P1018,C0305,2025-06-01T00:00:00,Charging,Critical,11.73,Resolved,Power connection is unreliable.
+T000649,P1007,C0287,2025-06-13T00:00:00,General product issue,Medium,8.08,Resolved,Happy with the purchase.
+T000650,P1019,C0395,2025-07-12T00:00:00,General product issue,High,2.7,Resolved,Good quality and works as expected.
+T000651,P1003,C0144,2025-08-14T00:00:00,General product issue,High,5.93,Resolved,Good quality and works as expected.
+T000652,P1014,C0473,2025-05-14T00:00:00,General product issue,Medium,7.19,Resolved,Good quality and works as expected.
+T000653,P1023,C0001,2025-11-03T00:00:00,General product issue,Medium,11.79,Pending,Performance is acceptable.
+T000654,P1024,C0020,2025-07-24T00:00:00,Product durability,Medium,2.02,Resolved,The product broke sooner than expected.
+T000655,P1021,C0435,2025-02-14T00:00:00,General product issue,High,14.08,Resolved,Performance is acceptable.
+T000656,P1031,C0074,2025-02-04T00:00:00,General product issue,Medium,3.68,Resolved,Happy with the purchase.
+T000657,P1036,C0419,2025-01-24T00:00:00,General product issue,Low,20.96,Escalated,Good quality and works as expected.
+T000658,P1023,C0112,2025-08-15T00:00:00,General product issue,Low,25.46,Pending,Happy with the purchase.
+T000659,P1021,C0078,2025-01-23T00:00:00,General product issue,High,17.99,Escalated,Performance is acceptable.
+T000660,P1003,C0136,2025-06-22T00:00:00,General product issue,Medium,24.72,Resolved,Good quality and works as expected.
+T000661,P1015,C0126,2025-07-17T00:00:00,General product issue,Low,7.77,Resolved,Happy with the purchase.
+T000662,P1002,C0454,2025-08-05T00:00:00,General product issue,Medium,7.56,Resolved,Happy with the purchase.
+T000663,P1010,C0252,2025-08-05T00:00:00,General product issue,Low,9.32,Resolved,Good quality and works as expected.
+T000664,P1036,C0252,2025-03-27T00:00:00,General product issue,Medium,6.25,Resolved,Good quality and works as expected.
+T000665,P1022,C0425,2025-02-07T00:00:00,General product issue,High,8.63,Resolved,Happy with the purchase.
+T000666,P1037,C0176,2025-07-13T00:00:00,Connectivity,High,16.57,Resolved,Pairing is unreliable.
+T000667,P1037,C0060,2025-03-08T00:00:00,Connectivity,Medium,8.27,Resolved,Connection drops frequently.
+T000668,P1026,C0449,2025-04-04T00:00:00,General product issue,Medium,20.03,Resolved,Happy with the purchase.
+T000669,P1024,C0413,2025-07-18T00:00:00,Product durability,Critical,23.09,Resolved,The product broke sooner than expected.
+T000670,P1025,C0392,2025-06-08T00:00:00,General product issue,High,16.18,Resolved,Performance is acceptable.
+T000671,P1040,C0263,2025-09-21T00:00:00,Compatibility,Medium,2.95,Pending,Compatibility information is unclear.
+T000672,P1032,C0190,2025-09-26T00:00:00,General product issue,Medium,1.12,Resolved,Happy with the purchase.
+T000673,P1006,C0260,2025-10-07T00:00:00,General product issue,Medium,15.84,Resolved,Good quality and works as expected.
+T000674,P1014,C0100,2025-05-15T00:00:00,General product issue,High,6.04,Escalated,Value for money.
+T000675,P1023,C0314,2025-06-10T00:00:00,General product issue,Medium,2.74,Escalated,Good quality and works as expected.
+T000676,P1028,C0045,2025-02-17T00:00:00,General product issue,Medium,10.52,Resolved,Good quality and works as expected.
+T000677,P1021,C0038,2025-06-25T00:00:00,General product issue,Medium,15.42,Resolved,Performance is acceptable.
+T000678,P1005,C0344,2025-02-09T00:00:00,Battery / charging,Critical,5.43,Resolved,Battery drains much faster than expected.
+T000679,P1038,C0120,2025-05-16T00:00:00,General product issue,Low,20.61,Resolved,Value for money.
+T000680,P1035,C0027,2025-06-27T00:00:00,General product issue,Low,25.79,Resolved,Performance is acceptable.
+T000681,P1028,C0220,2025-05-02T00:00:00,General product issue,Medium,5.59,Resolved,Happy with the purchase.
+T000682,P1022,C0110,2025-03-13T00:00:00,General product issue,Low,8.3,Resolved,Performance is acceptable.
+T000683,P1038,C0474,2025-05-27T00:00:00,General product issue,Medium,14.36,Resolved,Good quality and works as expected.
+T000684,P1013,C0443,2025-12-09T00:00:00,Performance / motor,Medium,11.02,Resolved,Performance dropped after a few weeks.
+T000685,P1016,C0341,2025-12-12T00:00:00,General product issue,Medium,15.99,Resolved,Performance is acceptable.
+T000686,P1028,C0298,2025-11-10T00:00:00,General product issue,High,37.18,Resolved,Good quality and works as expected.
+T000687,P1038,C0295,2025-08-06T00:00:00,General product issue,Low,6.18,Resolved,Good quality and works as expected.
+T000688,P1040,C0348,2025-11-26T00:00:00,Compatibility,Medium,4.9,Resolved,It does not work with my device.
+T000689,P1006,C0420,2025-10-01T00:00:00,General product issue,Medium,6.83,Resolved,Performance is acceptable.
+T000690,P1018,C0407,2025-11-08T00:00:00,Charging,Medium,10.16,Resolved,The device does not always recognize the charger.
+T000691,P1004,C0052,2025-05-27T00:00:00,General product issue,Medium,3.81,Resolved,Performance is acceptable.
+T000692,P1026,C0078,2025-11-19T00:00:00,General product issue,Medium,11.13,Resolved,Happy with the purchase.
+T000693,P1019,C0170,2025-07-04T00:00:00,General product issue,Medium,7.72,Resolved,Value for money.
+T000694,P1007,C0035,2025-05-20T00:00:00,General product issue,Low,8.45,Resolved,Happy with the purchase.
+T000695,P1006,C0075,2025-11-07T00:00:00,General product issue,Medium,6.33,Resolved,Performance is acceptable.
+T000696,P1002,C0302,2025-04-26T00:00:00,General product issue,High,19.79,Resolved,Good quality and works as expected.
+T000697,P1024,C0128,2025-09-21T00:00:00,Product durability,Medium,5.94,Resolved,Build quality does not feel durable.
+T000698,P1016,C0343,2025-04-06T00:00:00,General product issue,High,6.13,Resolved,Happy with the purchase.
+T000699,P1027,C0121,2025-01-13T00:00:00,General product issue,Medium,25.33,Resolved,Value for money.
+T000700,P1032,C0050,2025-03-23T00:00:00,General product issue,Low,5.52,Resolved,Value for money.
+T000701,P1011,C0313,2025-06-08T00:00:00,General product issue,Low,14.02,Pending,Happy with the purchase.
+T000702,P1036,C0213,2025-09-04T00:00:00,General product issue,Critical,1.0,Resolved,Good quality and works as expected.
+T000703,P1013,C0280,2025-09-10T00:00:00,Performance / motor,Medium,9.32,Resolved,The motor started making unusual noise.
+T000704,P1018,C0397,2025-08-20T00:00:00,Charging,Medium,10.59,Resolved,The device does not always recognize the charger.
+T000705,P1008,C0072,2025-10-26T00:00:00,General product issue,Low,16.2,Resolved,Good quality and works as expected.
+T000706,P1025,C0064,2025-05-10T00:00:00,General product issue,Low,13.96,Pending,Value for money.
+T000707,P1012,C0463,2025-08-13T00:00:00,General product issue,Medium,37.74,Resolved,Good quality and works as expected.
+T000708,P1035,C0076,2025-01-22T00:00:00,General product issue,High,4.37,Resolved,Good quality and works as expected.
+T000709,P1005,C0259,2025-10-19T00:00:00,Battery / charging,Medium,13.97,Resolved,Battery backup is poor compared with expectations.
+T000710,P1014,C0196,2025-12-22T00:00:00,General product issue,High,12.57,Resolved,Good quality and works as expected.
+T000711,P1002,C0441,2025-09-08T00:00:00,General product issue,Low,2.75,Resolved,Happy with the purchase.
+T000712,P1025,C0215,2025-07-26T00:00:00,General product issue,Low,22.03,Resolved,Value for money.
+T000713,P1036,C0442,2025-05-01T00:00:00,General product issue,Low,10.44,Resolved,Happy with the purchase.
+T000714,P1025,C0082,2025-05-27T00:00:00,General product issue,Medium,2.74,Resolved,Value for money.
+T000715,P1007,C0187,2025-06-09T00:00:00,General product issue,Medium,1.23,Resolved,Value for money.
+T000716,P1033,C0190,2025-02-05T00:00:00,General product issue,High,4.1,Resolved,Happy with the purchase.
+T000717,P1032,C0135,2025-08-23T00:00:00,General product issue,Medium,8.4,Resolved,Value for money.
+T000718,P1019,C0255,2025-10-22T00:00:00,General product issue,Medium,3.15,Resolved,Happy with the purchase.
+T000719,P1024,C0060,2025-01-18T00:00:00,Product durability,Medium,9.63,Resolved,The product broke sooner than expected.
+T000720,P1030,C0398,2025-01-12T00:00:00,General product issue,Medium,12.38,Resolved,Performance is acceptable.
+T000721,P1003,C0457,2025-05-07T00:00:00,General product issue,High,16.44,Resolved,Performance is acceptable.
+T000722,P1032,C0017,2025-03-03T00:00:00,General product issue,High,46.19,Resolved,Good quality and works as expected.
+T000723,P1024,C0452,2025-09-05T00:00:00,Product durability,Medium,11.99,Resolved,A component became loose after limited use.
+T000724,P1011,C0049,2025-02-23T00:00:00,General product issue,Medium,17.92,Resolved,Good quality and works as expected.
+T000725,P1030,C0094,2025-06-25T00:00:00,General product issue,Low,1.86,Resolved,Performance is acceptable.
+T000726,P1004,C0392,2025-04-06T00:00:00,General product issue,Low,10.52,Resolved,Performance is acceptable.
+T000727,P1003,C0247,2025-12-11T00:00:00,General product issue,Medium,8.07,Pending,Good quality and works as expected.
+T000728,P1001,C0124,2025-03-20T00:00:00,General product issue,Medium,11.68,Resolved,Good quality and works as expected.
+T000729,P1017,C0184,2025-01-16T00:00:00,General product issue,High,23.21,Resolved,Happy with the purchase.
+T000730,P1006,C0049,2025-06-15T00:00:00,General product issue,Medium,9.77,Escalated,Happy with the purchase.
+T000731,P1019,C0134,2025-10-23T00:00:00,General product issue,Medium,18.52,Resolved,Performance is acceptable.
+T000732,P1024,C0478,2025-12-05T00:00:00,Product durability,Low,10.56,Resolved,A component became loose after limited use.
+T000733,P1030,C0451,2025-02-27T00:00:00,General product issue,High,5.41,Resolved,Good quality and works as expected.
+T000734,P1003,C0375,2025-02-10T00:00:00,General product issue,Low,13.93,Resolved,Performance is acceptable.
+T000735,P1008,C0066,2025-03-27T00:00:00,General product issue,Critical,28.0,Resolved,Good quality and works as expected.
+T000736,P1009,C0292,2025-10-07T00:00:00,General product issue,Medium,13.45,Pending,Good quality and works as expected.
+T000737,P1012,C0231,2025-12-21T00:00:00,General product issue,Medium,22.56,Resolved,Good quality and works as expected.
+T000738,P1029,C0440,2025-08-09T00:00:00,Size / fit,High,13.19,Resolved,Sizing information was misleading.
+T000739,P1020,C0337,2025-09-19T00:00:00,General product issue,Low,16.17,Resolved,Happy with the purchase.
+T000740,P1037,C0112,2025-10-08T00:00:00,Connectivity,Critical,3.85,Pending,Connection drops frequently.
+T000741,P1020,C0104,2025-11-08T00:00:00,General product issue,Low,18.35,Resolved,Performance is acceptable.
+T000742,P1037,C0399,2025-02-14T00:00:00,Connectivity,Medium,18.38,Resolved,The device disconnects unexpectedly.
+T000743,P1005,C0077,2025-02-13T00:00:00,Battery / charging,Low,5.56,Resolved,Battery backup is poor compared with expectations.
+T000744,P1024,C0340,2025-06-20T00:00:00,Product durability,High,21.61,Resolved,The product broke sooner than expected.
+T000745,P1027,C0352,2025-05-11T00:00:00,General product issue,Medium,7.2,Resolved,Good quality and works as expected.
+T000746,P1014,C0454,2025-09-03T00:00:00,General product issue,Medium,8.16,Resolved,Happy with the purchase.
+T000747,P1039,C0218,2025-05-20T00:00:00,General product issue,Low,13.77,Resolved,Value for money.
+T000748,P1035,C0383,2025-12-25T00:00:00,General product issue,Low,10.56,Pending,Good quality and works as expected.
+T000749,P1040,C0336,2025-07-20T00:00:00,Compatibility,Medium,6.19,Resolved,Compatibility information is unclear.
+T000750,P1029,C0256,2025-01-27T00:00:00,Size / fit,Medium,20.14,Resolved,Fit is uncomfortable.
+T000751,P1003,C0320,2025-08-21T00:00:00,General product issue,Medium,10.88,Resolved,Value for money.
+T000752,P1016,C0206,2025-01-05T00:00:00,General product issue,Medium,9.93,Resolved,Performance is acceptable.
+T000753,P1026,C0112,2025-10-10T00:00:00,General product issue,Medium,2.53,Resolved,Performance is acceptable.
+T000754,P1028,C0473,2025-06-10T00:00:00,General product issue,Medium,10.47,Escalated,Happy with the purchase.
+T000755,P1037,C0016,2025-09-25T00:00:00,Connectivity,Medium,16.5,Pending,Pairing is unreliable.
+T000756,P1023,C0028,2025-10-27T00:00:00,General product issue,Low,14.83,Escalated,Good quality and works as expected.
+T000757,P1027,C0126,2025-06-17T00:00:00,General product issue,Low,13.16,Resolved,Performance is acceptable.
+T000758,P1027,C0372,2025-02-15T00:00:00,General product issue,Low,3.17,Pending,Happy with the purchase.
+T000759,P1030,C0127,2025-12-15T00:00:00,General product issue,Low,13.28,Resolved,Value for money.
+T000760,P1018,C0254,2025-09-10T00:00:00,Charging,Medium,1.76,Resolved,Charging is intermittent.
+T000761,P1036,C0110,2025-09-21T00:00:00,General product issue,Medium,22.03,Pending,Value for money.
+T000762,P1019,C0300,2025-04-23T00:00:00,General product issue,Medium,8.02,Escalated,Good quality and works as expected.
+T000763,P1039,C0031,2025-09-02T00:00:00,General product issue,Medium,4.04,Resolved,Performance is acceptable.
+T000764,P1005,C0257,2025-08-09T00:00:00,Battery / charging,High,15.51,Resolved,Charging has become unreliable after a few weeks.
+T000765,P1035,C0290,2025-11-14T00:00:00,General product issue,Medium,11.53,Resolved,Good quality and works as expected.
+T000766,P1030,C0370,2025-03-19T00:00:00,General product issue,Low,2.53,Resolved,Good quality and works as expected.
+T000767,P1021,C0207,2025-03-10T00:00:00,General product issue,Medium,7.24,Resolved,Value for money.
+T000768,P1037,C0324,2025-02-12T00:00:00,Connectivity,Low,7.15,Resolved,Connection drops frequently.
+T000769,P1006,C0457,2025-11-10T00:00:00,General product issue,Low,6.48,Pending,Good quality and works as expected.
+T000770,P1032,C0112,2025-03-25T00:00:00,General product issue,High,5.28,Resolved,Performance is acceptable.
+T000771,P1005,C0436,2025-10-21T00:00:00,Battery / charging,Low,16.66,Resolved,Battery drains much faster than expected.
+T000772,P1027,C0271,2025-07-09T00:00:00,General product issue,High,2.58,Resolved,Performance is acceptable.
+T000773,P1035,C0097,2025-02-23T00:00:00,General product issue,Low,22.79,Escalated,Performance is acceptable.
+T000774,P1014,C0491,2025-04-26T00:00:00,General product issue,Low,2.81,Resolved,Good quality and works as expected.
+T000775,P1018,C0053,2025-05-06T00:00:00,Charging,Medium,4.11,Resolved,The device does not always recognize the charger.
+T000776,P1035,C0181,2025-08-16T00:00:00,General product issue,Medium,7.21,Resolved,Happy with the purchase.
+T000777,P1036,C0299,2025-12-19T00:00:00,General product issue,High,5.3,Resolved,Performance is acceptable.
+T000778,P1039,C0440,2025-11-12T00:00:00,General product issue,Medium,22.09,Pending,Value for money.
+T000779,P1019,C0427,2025-08-16T00:00:00,General product issue,Medium,13.71,Escalated,Performance is acceptable.
+T000780,P1023,C0357,2025-02-02T00:00:00,General product issue,Medium,4.79,Pending,Good quality and works as expected.
+T000781,P1018,C0435,2025-08-25T00:00:00,Charging,Medium,12.42,Resolved,Power connection is unreliable.
+T000782,P1022,C0248,2025-10-20T00:00:00,General product issue,Low,11.46,Resolved,Performance is acceptable.
+T000783,P1038,C0331,2025-07-21T00:00:00,General product issue,Low,13.58,Resolved,Good quality and works as expected.
+T000784,P1037,C0409,2025-01-01T00:00:00,Connectivity,High,16.1,Resolved,Pairing is unreliable.
+T000785,P1017,C0010,2025-12-10T00:00:00,General product issue,Medium,13.59,Resolved,Happy with the purchase.
+T000786,P1001,C0010,2025-10-06T00:00:00,General product issue,Low,16.16,Resolved,Good quality and works as expected.
+T000787,P1017,C0203,2025-07-15T00:00:00,General product issue,Medium,3.82,Resolved,Happy with the purchase.
+T000788,P1021,C0450,2025-05-03T00:00:00,General product issue,High,32.6,Resolved,Happy with the purchase.
+T000789,P1027,C0234,2025-04-20T00:00:00,General product issue,Medium,7.47,Resolved,Good quality and works as expected.
+T000790,P1038,C0045,2025-06-12T00:00:00,General product issue,Critical,5.68,Pending,Value for money.
+T000791,P1034,C0070,2025-09-06T00:00:00,Packaging / damage,High,5.46,Resolved,The product box was crushed during delivery.
+T000792,P1013,C0195,2025-08-23T00:00:00,Performance / motor,Medium,2.98,Resolved,Performance dropped after a few weeks.
+T000793,P1036,C0069,2025-05-02T00:00:00,General product issue,Medium,27.13,Resolved,Value for money.
+T000794,P1004,C0399,2025-01-14T00:00:00,General product issue,High,8.07,Escalated,Performance is acceptable.
+T000795,P1006,C0260,2025-11-03T00:00:00,General product issue,Medium,11.16,Resolved,Performance is acceptable.
+T000796,P1033,C0380,2025-02-23T00:00:00,General product issue,Medium,3.74,Escalated,Performance is acceptable.
+T000797,P1025,C0154,2025-11-14T00:00:00,General product issue,High,9.34,Resolved,Good quality and works as expected.
+T000798,P1027,C0377,2025-10-01T00:00:00,General product issue,Medium,11.91,Resolved,Good quality and works as expected.
+T000799,P1030,C0150,2025-03-11T00:00:00,General product issue,Low,1.9,Resolved,Good quality and works as expected.
+T000800,P1026,C0425,2025-09-26T00:00:00,General product issue,Low,27.91,Resolved,Performance is acceptable.
+T000801,P1030,C0197,2025-11-13T00:00:00,General product issue,Medium,1.51,Escalated,Happy with the purchase.
+T000802,P1011,C0145,2025-04-03T00:00:00,General product issue,Low,16.66,Resolved,Good quality and works as expected.
+T000803,P1024,C0344,2025-02-04T00:00:00,Product durability,Medium,9.4,Resolved,A component became loose after limited use.
+T000804,P1005,C0453,2025-10-25T00:00:00,Battery / charging,High,73.56,Resolved,Battery backup is poor compared with expectations.
+T000805,P1001,C0018,2025-03-15T00:00:00,General product issue,Low,7.57,Resolved,Value for money.
+T000806,P1007,C0450,2025-02-01T00:00:00,General product issue,Low,9.47,Resolved,Performance is acceptable.
+T000807,P1010,C0409,2025-11-04T00:00:00,General product issue,Low,3.92,Resolved,Value for money.
+T000808,P1017,C0230,2025-04-22T00:00:00,General product issue,High,18.26,Resolved,Good quality and works as expected.
+T000809,P1034,C0175,2025-08-15T00:00:00,Packaging / damage,Low,3.66,Escalated,The item arrived with damaged packaging.
+T000810,P1028,C0401,2025-11-12T00:00:00,General product issue,High,20.32,Resolved,Happy with the purchase.
+T000811,P1006,C0425,2025-01-18T00:00:00,General product issue,Medium,4.29,Escalated,Value for money.
+T000812,P1036,C0307,2025-06-01T00:00:00,General product issue,Low,6.21,Resolved,Performance is acceptable.
+T000813,P1022,C0016,2025-07-26T00:00:00,General product issue,Medium,10.68,Resolved,Value for money.
+T000814,P1007,C0179,2025-05-05T00:00:00,General product issue,Medium,5.32,Resolved,Performance is acceptable.
+T000815,P1019,C0235,2025-11-09T00:00:00,General product issue,Low,13.9,Resolved,Performance is acceptable.
+T000816,P1006,C0309,2025-03-16T00:00:00,General product issue,High,17.02,Resolved,Performance is acceptable.
+T000817,P1025,C0221,2025-05-20T00:00:00,General product issue,High,12.39,Resolved,Happy with the purchase.
+T000818,P1037,C0369,2025-09-15T00:00:00,Connectivity,Low,3.49,Resolved,The device disconnects unexpectedly.
+T000819,P1032,C0379,2025-03-08T00:00:00,General product issue,Medium,11.49,Resolved,Performance is acceptable.
+T000820,P1024,C0361,2025-04-15T00:00:00,Product durability,High,22.16,Resolved,Build quality does not feel durable.
+T000821,P1020,C0430,2025-12-12T00:00:00,General product issue,Critical,13.25,Resolved,Good quality and works as expected.
+T000822,P1015,C0128,2025-01-08T00:00:00,General product issue,Critical,24.14,Resolved,Happy with the purchase.
+T000823,P1013,C0036,2025-07-13T00:00:00,Performance / motor,Medium,16.6,Resolved,The motor started making unusual noise.
+T000824,P1001,C0133,2025-05-25T00:00:00,General product issue,Low,8.99,Resolved,Happy with the purchase.
+T000825,P1040,C0068,2025-04-24T00:00:00,Compatibility,High,4.35,Resolved,The accessory is incompatible with my setup.
+T000826,P1002,C0121,2025-12-12T00:00:00,General product issue,High,4.0,Resolved,Value for money.
+T000827,P1016,C0492,2025-08-11T00:00:00,General product issue,Medium,12.45,Resolved,Happy with the purchase.
+T000828,P1028,C0028,2025-05-18T00:00:00,General product issue,Medium,13.66,Resolved,Value for money.
+T000829,P1021,C0397,2025-02-07T00:00:00,General product issue,High,5.52,Resolved,Performance is acceptable.
+T000830,P1002,C0056,2025-01-27T00:00:00,General product issue,Medium,4.6,Resolved,Happy with the purchase.
+T000831,P1020,C0054,2025-08-23T00:00:00,General product issue,Low,5.48,Resolved,Performance is acceptable.
+T000832,P1008,C0245,2025-08-26T00:00:00,General product issue,High,15.61,Resolved,Performance is acceptable.
+T000833,P1009,C0308,2025-02-23T00:00:00,General product issue,Medium,17.73,Pending,Performance is acceptable.
+T000834,P1007,C0129,2025-12-10T00:00:00,General product issue,High,10.22,Resolved,Value for money.
+T000835,P1017,C0029,2025-09-08T00:00:00,General product issue,Medium,18.41,Resolved,Value for money.
+T000836,P1036,C0236,2025-03-02T00:00:00,General product issue,Low,24.18,Resolved,Performance is acceptable.
+T000837,P1017,C0390,2025-10-02T00:00:00,General product issue,Medium,9.28,Resolved,Performance is acceptable.
+T000838,P1038,C0094,2025-05-13T00:00:00,General product issue,Medium,21.89,Resolved,Good quality and works as expected.
+T000839,P1026,C0285,2025-07-14T00:00:00,General product issue,Medium,8.31,Resolved,Happy with the purchase.
+T000840,P1020,C0439,2025-01-16T00:00:00,General product issue,High,16.17,Resolved,Value for money.
+T000841,P1012,C0333,2025-02-04T00:00:00,General product issue,High,27.91,Resolved,Value for money.
+T000842,P1039,C0222,2025-08-06T00:00:00,General product issue,Medium,14.16,Resolved,Happy with the purchase.
+T000843,P1028,C0160,2025-08-21T00:00:00,General product issue,Low,1.14,Resolved,Performance is acceptable.
+T000844,P1027,C0338,2025-04-17T00:00:00,General product issue,Medium,13.53,Resolved,Performance is acceptable.
+T000845,P1035,C0266,2025-07-24T00:00:00,General product issue,Medium,8.57,Resolved,Performance is acceptable.
+T000846,P1002,C0216,2025-03-14T00:00:00,General product issue,Low,12.97,Resolved,Value for money.
+T000847,P1002,C0494,2025-02-20T00:00:00,General product issue,Medium,2.77,Resolved,Happy with the purchase.
+T000848,P1028,C0233,2025-11-22T00:00:00,General product issue,Low,7.28,Resolved,Happy with the purchase.
+T000849,P1023,C0036,2025-01-20T00:00:00,General product issue,Low,11.18,Resolved,Good quality and works as expected.
+T000850,P1036,C0221,2025-06-12T00:00:00,General product issue,Medium,16.3,Resolved,Value for money.
+T000851,P1025,C0171,2025-09-02T00:00:00,General product issue,Low,13.86,Resolved,Performance is acceptable.
+T000852,P1027,C0366,2025-12-02T00:00:00,General product issue,Medium,11.1,Resolved,Value for money.
+T000853,P1024,C0493,2025-03-22T00:00:00,Product durability,Medium,5.52,Resolved,Build quality does not feel durable.
+T000854,P1015,C0295,2025-08-21T00:00:00,General product issue,Critical,29.94,Resolved,Happy with the purchase.
+T000855,P1023,C0411,2025-01-11T00:00:00,General product issue,Medium,3.96,Pending,Good quality and works as expected.
+T000856,P1039,C0350,2025-07-08T00:00:00,General product issue,High,8.47,Resolved,Happy with the purchase.
+T000857,P1018,C0307,2025-07-09T00:00:00,Charging,Low,7.25,Pending,The device does not always recognize the charger.
+T000858,P1027,C0275,2025-06-22T00:00:00,General product issue,Low,14.0,Resolved,Happy with the purchase.
+T000859,P1015,C0148,2025-12-15T00:00:00,General product issue,Medium,9.23,Pending,Good quality and works as expected.
+T000860,P1040,C0089,2025-06-04T00:00:00,Compatibility,Medium,4.3,Escalated,It does not work with my device.
+T000861,P1008,C0002,2025-09-13T00:00:00,General product issue,Low,6.72,Pending,Good quality and works as expected.
+T000862,P1024,C0305,2025-11-19T00:00:00,Product durability,Medium,5.76,Resolved,Build quality does not feel durable.
+T000863,P1036,C0120,2025-09-16T00:00:00,General product issue,Medium,8.38,Resolved,Good quality and works as expected.
+T000864,P1037,C0382,2025-09-21T00:00:00,Connectivity,Medium,24.68,Resolved,The device disconnects unexpectedly.
+T000865,P1022,C0128,2025-12-27T00:00:00,General product issue,Critical,33.27,Resolved,Happy with the purchase.
+T000866,P1010,C0432,2025-04-02T00:00:00,General product issue,High,19.74,Resolved,Happy with the purchase.
+T000867,P1023,C0300,2025-12-22T00:00:00,General product issue,Low,7.86,Resolved,Good quality and works as expected.
+T000868,P1001,C0295,2025-03-09T00:00:00,General product issue,Medium,12.03,Resolved,Happy with the purchase.
+T000869,P1034,C0408,2025-11-16T00:00:00,Packaging / damage,Medium,14.94,Resolved,The item arrived with visible damage.
+T000870,P1034,C0221,2025-03-17T00:00:00,Packaging / damage,Medium,11.5,Resolved,The product box was crushed during delivery.
+T000871,P1038,C0297,2025-01-16T00:00:00,General product issue,High,32.24,Resolved,Value for money.
+T000872,P1005,C0440,2025-04-20T00:00:00,Battery / charging,Medium,11.88,Resolved,Battery drains much faster than expected.
+T000873,P1022,C0211,2025-04-15T00:00:00,General product issue,Medium,15.41,Escalated,Performance is acceptable.
+T000874,P1038,C0057,2025-01-08T00:00:00,General product issue,High,1.41,Resolved,Performance is acceptable.
+T000875,P1024,C0145,2025-04-06T00:00:00,Product durability,Medium,2.63,Resolved,A component became loose after limited use.
+T000876,P1038,C0436,2025-02-13T00:00:00,General product issue,Medium,5.69,Resolved,Performance is acceptable.
+T000877,P1014,C0085,2025-05-11T00:00:00,General product issue,Medium,8.44,Pending,Performance is acceptable.
+T000878,P1024,C0442,2025-06-27T00:00:00,Product durability,Medium,4.26,Resolved,A component became loose after limited use.
+T000879,P1010,C0317,2025-07-10T00:00:00,General product issue,Medium,16.72,Resolved,Happy with the purchase.
+T000880,P1029,C0390,2025-07-17T00:00:00,Size / fit,Low,11.64,Resolved,Fit is uncomfortable.
+T000881,P1024,C0141,2025-05-07T00:00:00,Product durability,High,3.83,Resolved,The product broke sooner than expected.
+T000882,P1003,C0410,2025-09-11T00:00:00,General product issue,Low,8.56,Pending,Good quality and works as expected.
+T000883,P1017,C0293,2025-11-01T00:00:00,General product issue,Low,8.82,Resolved,Happy with the purchase.
+T000884,P1029,C0487,2025-09-12T00:00:00,Size / fit,Medium,17.68,Resolved,Sizing information was misleading.
+T000885,P1032,C0089,2025-11-13T00:00:00,General product issue,High,1.0,Pending,Value for money.
+T000886,P1026,C0243,2025-02-18T00:00:00,General product issue,Critical,15.7,Resolved,Value for money.
+T000887,P1016,C0469,2025-03-19T00:00:00,General product issue,Medium,6.32,Resolved,Value for money.
+T000888,P1039,C0317,2025-01-27T00:00:00,General product issue,Medium,1.97,Resolved,Good quality and works as expected.
+T000889,P1013,C0363,2025-08-07T00:00:00,Performance / motor,Critical,27.99,Resolved,The device stopped working during normal use.
+T000890,P1040,C0266,2025-09-16T00:00:00,Compatibility,Medium,10.69,Resolved,Compatibility information is unclear.
+T000891,P1024,C0297,2025-02-03T00:00:00,Product durability,High,22.74,Escalated,Build quality does not feel durable.
+T000892,P1004,C0155,2025-11-13T00:00:00,General product issue,Medium,19.46,Resolved,Performance is acceptable.
+T000893,P1032,C0078,2025-06-14T00:00:00,General product issue,Medium,2.27,Resolved,Performance is acceptable.
+T000894,P1027,C0256,2025-12-15T00:00:00,General product issue,Low,2.89,Resolved,Value for money.
+T000895,P1002,C0476,2025-11-14T00:00:00,General product issue,High,27.74,Resolved,Good quality and works as expected.
+T000896,P1022,C0013,2025-03-11T00:00:00,General product issue,High,7.43,Resolved,Performance is acceptable.
+T000897,P1029,C0264,2025-04-12T00:00:00,Size / fit,Medium,1.34,Escalated,The size did not match the description.
+T000898,P1022,C0097,2025-07-20T00:00:00,General product issue,Medium,21.4,Pending,Happy with the purchase.
+T000899,P1008,C0222,2025-08-17T00:00:00,General product issue,High,23.06,Resolved,Value for money.
+T000900,P1027,C0470,2025-04-25T00:00:00,General product issue,Medium,35.21,Resolved,Happy with the purchase.
+T000901,P1021,C0177,2025-03-17T00:00:00,General product issue,Medium,4.82,Escalated,Value for money.
+T000902,P1015,C0055,2025-12-17T00:00:00,General product issue,Medium,25.48,Pending,Performance is acceptable.
+T000903,P1017,C0388,2025-06-04T00:00:00,General product issue,Medium,11.28,Pending,Performance is acceptable.
+T000904,P1025,C0483,2025-03-16T00:00:00,General product issue,Medium,17.02,Escalated,Good quality and works as expected.
+T000905,P1033,C0412,2025-04-09T00:00:00,General product issue,Medium,3.83,Resolved,Value for money.
+T000906,P1024,C0258,2025-05-27T00:00:00,Product durability,Low,7.59,Resolved,The product broke sooner than expected.
+T000907,P1028,C0213,2025-02-23T00:00:00,General product issue,Medium,12.55,Resolved,Good quality and works as expected.
+T000908,P1007,C0109,2025-04-15T00:00:00,General product issue,Medium,9.34,Resolved,Value for money.
+T000909,P1010,C0108,2025-05-26T00:00:00,General product issue,High,2.6,Escalated,Happy with the purchase.
+T000910,P1028,C0131,2025-01-18T00:00:00,General product issue,Low,16.3,Resolved,Happy with the purchase.
+T000911,P1020,C0495,2025-03-17T00:00:00,General product issue,Low,4.44,Escalated,Happy with the purchase.
+T000912,P1019,C0478,2025-01-22T00:00:00,General product issue,Low,17.34,Resolved,Happy with the purchase.
+T000913,P1014,C0055,2025-09-22T00:00:00,General product issue,High,3.04,Resolved,Good quality and works as expected.
+T000914,P1012,C0179,2025-12-16T00:00:00,General product issue,Medium,21.14,Resolved,Good quality and works as expected.
+T000915,P1009,C0049,2025-06-16T00:00:00,General product issue,Medium,5.86,Resolved,Happy with the purchase.
+T000916,P1028,C0295,2025-07-11T00:00:00,General product issue,Medium,2.79,Pending,Happy with the purchase.
+T000917,P1017,C0292,2025-04-04T00:00:00,General product issue,Medium,15.9,Resolved,Good quality and works as expected.
+T000918,P1024,C0159,2025-03-12T00:00:00,Product durability,Medium,12.76,Resolved,Build quality does not feel durable.
+T000919,P1019,C0058,2025-06-21T00:00:00,General product issue,Medium,2.85,Resolved,Happy with the purchase.
+T000920,P1026,C0490,2025-01-17T00:00:00,General product issue,Medium,22.24,Resolved,Value for money.
+T000921,P1007,C0301,2025-12-20T00:00:00,General product issue,Critical,7.17,Resolved,Performance is acceptable.
+T000922,P1027,C0371,2025-02-13T00:00:00,General product issue,Medium,16.86,Resolved,Value for money.
+T000923,P1023,C0499,2025-11-26T00:00:00,General product issue,High,5.35,Pending,Good quality and works as expected.
+T000924,P1011,C0180,2025-08-21T00:00:00,General product issue,Medium,11.54,Resolved,Happy with the purchase.
+T000925,P1007,C0123,2025-10-07T00:00:00,General product issue,Low,8.87,Resolved,Good quality and works as expected.
+T000926,P1011,C0311,2025-03-04T00:00:00,General product issue,Medium,5.05,Resolved,Performance is acceptable.
+T000927,P1024,C0307,2025-12-16T00:00:00,Product durability,High,19.04,Resolved,Build quality does not feel durable.
+T000928,P1026,C0211,2025-03-07T00:00:00,General product issue,High,35.08,Resolved,Performance is acceptable.
+T000929,P1001,C0351,2025-05-25T00:00:00,General product issue,Medium,4.59,Resolved,Value for money.
+T000930,P1029,C0388,2025-04-23T00:00:00,Size / fit,High,11.84,Pending,Fit is uncomfortable.
+T000931,P1011,C0339,2025-03-27T00:00:00,General product issue,Medium,15.06,Pending,Good quality and works as expected.
+T000932,P1012,C0344,2025-07-25T00:00:00,General product issue,Low,29.99,Resolved,Performance is acceptable.
+T000933,P1024,C0442,2025-04-09T00:00:00,Product durability,Medium,22.02,Resolved,The product broke sooner than expected.
+T000934,P1020,C0278,2025-12-17T00:00:00,General product issue,Low,3.96,Resolved,Value for money.
+T000935,P1002,C0493,2025-07-10T00:00:00,General product issue,Medium,6.0,Resolved,Happy with the purchase.
+T000936,P1012,C0284,2025-06-09T00:00:00,General product issue,Medium,10.86,Resolved,Happy with the purchase.
+T000937,P1029,C0333,2025-08-16T00:00:00,Size / fit,Low,16.09,Resolved,Sizing information was misleading.
+T000938,P1016,C0325,2025-04-22T00:00:00,General product issue,Low,13.79,Resolved,Value for money.
+T000939,P1007,C0417,2025-11-22T00:00:00,General product issue,Low,1.0,Resolved,Happy with the purchase.
+T000940,P1001,C0020,2025-04-16T00:00:00,General product issue,Medium,21.81,Resolved,Performance is acceptable.
+T000941,P1024,C0168,2025-01-08T00:00:00,Product durability,Medium,6.16,Resolved,Build quality does not feel durable.
+T000942,P1006,C0354,2025-03-12T00:00:00,General product issue,Medium,4.45,Resolved,Good quality and works as expected.
+T000943,P1033,C0340,2025-12-24T00:00:00,General product issue,High,12.08,Resolved,Performance is acceptable.
+T000944,P1026,C0392,2025-06-02T00:00:00,General product issue,High,8.85,Resolved,Happy with the purchase.
+T000945,P1032,C0125,2025-12-14T00:00:00,General product issue,High,15.76,Resolved,Performance is acceptable.
+T000946,P1022,C0448,2025-03-11T00:00:00,General product issue,Medium,16.58,Resolved,Good quality and works as expected.
+T000947,P1012,C0415,2025-06-27T00:00:00,General product issue,Medium,2.54,Resolved,Performance is acceptable.
+T000948,P1027,C0438,2025-11-04T00:00:00,General product issue,Low,13.5,Resolved,Value for money.
+T000949,P1036,C0208,2025-09-25T00:00:00,General product issue,High,11.22,Resolved,Happy with the purchase.
+T000950,P1006,C0371,2025-08-26T00:00:00,General product issue,Medium,8.03,Resolved,Happy with the purchase.
+T000951,P1032,C0239,2025-01-20T00:00:00,General product issue,Medium,14.29,Resolved,Good quality and works as expected.
+T000952,P1025,C0478,2025-02-27T00:00:00,General product issue,Medium,5.24,Resolved,Performance is acceptable.
+T000953,P1005,C0378,2025-04-25T00:00:00,Battery / charging,Critical,13.92,Resolved,Charging has become unreliable after a few weeks.
+T000954,P1006,C0348,2025-02-13T00:00:00,General product issue,High,12.83,Resolved,Happy with the purchase.
+T000955,P1011,C0410,2025-02-02T00:00:00,General product issue,Low,6.32,Resolved,Happy with the purchase.
+T000956,P1001,C0483,2025-05-21T00:00:00,General product issue,Medium,8.38,Resolved,Happy with the purchase.
+T000957,P1018,C0147,2025-12-10T00:00:00,Charging,Medium,1.24,Pending,Charging is intermittent.
+T000958,P1011,C0237,2025-04-13T00:00:00,General product issue,Medium,22.69,Resolved,Happy with the purchase.
+T000959,P1012,C0207,2025-09-15T00:00:00,General product issue,Low,5.53,Resolved,Good quality and works as expected.
+T000960,P1003,C0317,2025-01-25T00:00:00,General product issue,Low,32.31,Pending,Good quality and works as expected.
+T000961,P1027,C0449,2025-06-13T00:00:00,General product issue,Low,13.27,Resolved,Happy with the purchase.
+T000962,P1024,C0347,2025-01-12T00:00:00,Product durability,High,18.73,Resolved,Build quality does not feel durable.
+T000963,P1039,C0360,2025-06-27T00:00:00,General product issue,Critical,18.6,Pending,Good quality and works as expected.
+T000964,P1028,C0023,2025-02-08T00:00:00,General product issue,Low,7.14,Resolved,Value for money.
+T000965,P1007,C0431,2025-01-11T00:00:00,General product issue,Low,4.01,Pending,Good quality and works as expected.
+T000966,P1024,C0104,2025-09-02T00:00:00,Product durability,Medium,17.42,Resolved,A component became loose after limited use.
+T000967,P1023,C0219,2025-01-10T00:00:00,General product issue,Low,12.39,Resolved,Happy with the purchase.
+T000968,P1014,C0147,2025-01-01T00:00:00,General product issue,High,24.95,Pending,Performance is acceptable.
+T000969,P1033,C0231,2025-05-18T00:00:00,General product issue,Low,12.35,Resolved,Value for money.
+T000970,P1004,C0036,2025-12-02T00:00:00,General product issue,Medium,23.47,Pending,Happy with the purchase.
+T000971,P1026,C0443,2025-06-23T00:00:00,General product issue,High,19.64,Pending,Good quality and works as expected.
+T000972,P1029,C0059,2025-10-08T00:00:00,Size / fit,Medium,10.79,Resolved,Sizing information was misleading.
+T000973,P1029,C0015,2025-06-20T00:00:00,Size / fit,Critical,8.88,Resolved,The size did not match the description.
+T000974,P1016,C0350,2025-12-02T00:00:00,General product issue,Medium,7.36,Resolved,Value for money.
+T000975,P1011,C0433,2025-11-03T00:00:00,General product issue,Low,9.84,Pending,Performance is acceptable.
+T000976,P1004,C0270,2025-07-10T00:00:00,General product issue,Low,19.43,Resolved,Value for money.
+T000977,P1037,C0343,2025-12-04T00:00:00,Connectivity,High,27.68,Resolved,Pairing is unreliable.
+T000978,P1016,C0246,2025-04-06T00:00:00,General product issue,Medium,1.71,Resolved,Performance is acceptable.
+T000979,P1016,C0180,2025-06-08T00:00:00,General product issue,Low,7.44,Resolved,Happy with the purchase.
+T000980,P1038,C0385,2025-08-18T00:00:00,General product issue,Low,10.47,Resolved,Performance is acceptable.
+T000981,P1006,C0303,2025-01-20T00:00:00,General product issue,Medium,15.79,Resolved,Good quality and works as expected.
+T000982,P1023,C0270,2025-10-20T00:00:00,General product issue,Critical,41.84,Resolved,Good quality and works as expected.
+T000983,P1002,C0062,2025-12-18T00:00:00,General product issue,Low,10.0,Resolved,Value for money.
+T000984,P1012,C0283,2025-05-27T00:00:00,General product issue,Low,1.0,Resolved,Happy with the purchase.
+T000985,P1021,C0408,2025-09-07T00:00:00,General product issue,Medium,20.27,Pending,Good quality and works as expected.
+T000986,P1035,C0294,2025-10-23T00:00:00,General product issue,Low,13.87,Resolved,Value for money.
+T000987,P1017,C0147,2025-07-25T00:00:00,General product issue,Low,10.33,Resolved,Performance is acceptable.
+T000988,P1030,C0300,2025-04-27T00:00:00,General product issue,Medium,5.29,Resolved,Happy with the purchase.
+T000989,P1006,C0368,2025-07-12T00:00:00,General product issue,Low,4.11,Resolved,Performance is acceptable.
+T000990,P1036,C0113,2025-09-05T00:00:00,General product issue,Medium,10.9,Resolved,Value for money.
+T000991,P1023,C0171,2025-03-02T00:00:00,General product issue,Medium,6.63,Resolved,Good quality and works as expected.
+T000992,P1032,C0320,2025-11-06T00:00:00,General product issue,Medium,5.32,Resolved,Performance is acceptable.
+T000993,P1006,C0304,2025-09-05T00:00:00,General product issue,High,38.38,Resolved,Happy with the purchase.
+T000994,P1035,C0004,2025-06-10T00:00:00,General product issue,Low,8.11,Escalated,Good quality and works as expected.
+T000995,P1037,C0419,2025-01-15T00:00:00,Connectivity,High,22.91,Resolved,Connection drops frequently.
+T000996,P1007,C0191,2025-08-20T00:00:00,General product issue,Medium,15.2,Resolved,Value for money.
+T000997,P1039,C0123,2025-06-06T00:00:00,General product issue,Low,8.19,Escalated,Good quality and works as expected.
+T000998,P1016,C0191,2025-07-18T00:00:00,General product issue,Medium,10.13,Resolved,Happy with the purchase.
+T000999,P1022,C0237,2025-09-21T00:00:00,General product issue,High,10.2,Resolved,Performance is acceptable.
+T001000,P1012,C0486,2025-02-16T00:00:00,General product issue,Low,1.59,Resolved,Happy with the purchase.

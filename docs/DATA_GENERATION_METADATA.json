@@ -1,0 +1,33 @@
+{
+  "seed": 42,
+  "data_period": {
+    "orders_start": "2025-01-01",
+    "orders_end": "2025-12-31"
+  },
+  "synthetic_data": true,
+  "counts": {
+    "products": 40,
+    "customers": 500,
+    "orders": 5010,
+    "order_items": 6202,
+    "returns": 444,
+    "reviews": 2200,
+    "support_tickets": 1000,
+    "product_metrics_monthly": 480,
+    "product_risk_labels": 440,
+    "knowledge_documents": 48,
+    "product_risk_summary": 40
+  },
+  "rag_chunks": 48,
+  "evaluation_queries": 8,
+  "seeded_risk_products": [
+    "P1005",
+    "P1013",
+    "P1018",
+    "P1024",
+    "P1029",
+    "P1034",
+    "P1037",
+    "P1040"
+  ]
+}

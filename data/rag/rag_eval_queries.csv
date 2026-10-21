@@ -1,0 +1,9 @@
+query_id,product_id,query,expected_terms
+Q001,P1005,battery drains quickly and product does not charge reliably,battery|charging
+Q002,P1013,product makes unusual motor noise and loses performance,motor|performance
+Q003,P1018,intermittent charging and power connection failures,charging|power
+Q004,P1024,product breaks early and has poor durability,durability|component
+Q005,P1029,customers report wrong size and poor fit,size|fit
+Q006,P1034,customers receive products with damaged packaging,packaging|damage
+Q007,P1037,device disconnects and has pairing problems,connectivity|pairing
+Q008,P1040,accessory is not compatible with the customer's device,compatibility|compatible

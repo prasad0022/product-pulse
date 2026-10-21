@@ -1,0 +1,445 @@
+return_id,order_item_id,return_date,return_reason,return_status,returned_quantity
+R000001,OI000018,2025-01-21,Not as expected,Refunded,1
+R000002,OI000123,2025-02-08,Changed mind,Approved,1
+R000003,OI000127,2025-01-18,Changed mind,Refunded,1
+R000004,OI000203,2025-01-31,Other,Refunded,1
+R000005,OI000242,2025-02-01,Changed mind,Refunded,1
+R000006,OI000298,2025-01-21,Damaged in transit,Refunded,1
+R000007,OI000331,2025-01-30,Changed mind,Refunded,1
+R000008,OI000394,2025-01-14,Damaged in transit,Refunded,1
+R000009,OI000416,2025-01-17,Not as expected,Refunded,1
+R000010,OI000421,2025-01-27,Damaged in transit,Approved,1
+R000011,OI000427,2025-02-04,Other,Refunded,1
+R000012,OI000441,2025-02-06,Other,Refunded,1
+R000013,OI000466,2025-02-06,Other,Refunded,1
+R000014,OI000514,2025-02-22,Not as expected,Refunded,1
+R000015,OI000538,2025-02-26,Changed mind,Refunded,1
+R000016,OI000550,2025-02-09,Not as expected,Refunded,1
+R000017,OI000561,2025-02-23,Not as expected,Refunded,1
+R000018,OI000597,2025-02-27,Does not work with device,Refunded,1
+R000019,OI000676,2025-02-20,Other,Refunded,1
+R000020,OI000684,2025-02-15,Other,Approved,1
+R000021,OI000698,2025-02-16,Changed mind,Refunded,1
+R000022,OI000699,2025-02-17,Battery issue,Approved,1
+R000023,OI000716,2025-02-24,Not as expected,Refunded,2
+R000024,OI000737,2025-03-02,Connectivity issue,Approved,1
+R000025,OI000749,2025-02-15,Damaged in transit,Approved,1
+R000026,OI000751,2025-02-25,Damaged in transit,Approved,1
+R000027,OI000758,2025-02-23,Not as expected,Approved,1
+R000028,OI000826,2025-03-06,Other,Refunded,1
+R000029,OI000828,2025-02-23,Poor fit,Refunded,2
+R000030,OI000839,2025-03-01,Changed mind,Refunded,1
+R000031,OI000855,2025-03-01,Other,Refunded,1
+R000032,OI000866,2025-03-06,Changed mind,Refunded,1
+R000033,OI000888,2025-02-17,Not as expected,Refunded,1
+R000034,OI000893,2025-03-10,Not as expected,Refunded,1
+R000035,OI000901,2025-02-25,Damaged in transit,Refunded,1
+R000036,OI000918,2025-03-21,Other,Refunded,1
+R000037,OI000952,2025-03-14,Not as expected,Refunded,1
+R000038,OI000959,2025-04-03,Not as expected,Approved,1
+R000039,OI001027,2025-04-12,Damaged in transit,Refunded,1
+R000040,OI001044,2025-03-24,Not as expected,Approved,1
+R000041,OI001048,2025-03-25,Product broke,Refunded,1
+R000042,OI001052,2025-04-11,Not as expected,Approved,2
+R000043,OI001060,2025-03-24,Changed mind,Refunded,1
+R000044,OI001124,2025-03-26,Not as expected,Refunded,1
+R000045,OI001176,2025-04-06,Damaged in transit,Refunded,1
+R000046,OI001219,2025-04-07,Does not work with device,Refunded,1
+R000047,OI001227,2025-03-18,Poor durability,Refunded,1
+R000048,OI001278,2025-04-08,Damaged in transit,Refunded,1
+R000049,OI001286,2025-04-02,Poor battery life,Refunded,2
+R000050,OI001296,2025-04-05,Not as expected,Refunded,1
+R000051,OI001321,2025-03-11,Changed mind,Refunded,1
+R000052,OI001326,2025-04-06,Not as expected,Refunded,1
+R000053,OI001335,2025-03-29,Not as expected,Refunded,1
+R000054,OI001346,2025-03-25,Not as expected,Refunded,1
+R000055,OI001357,2025-03-27,Damaged in transit,Refunded,1
+R000056,OI001358,2025-03-29,Other,Approved,1
+R000057,OI001364,2025-04-07,Other,Approved,1
+R000058,OI001375,2025-05-04,Other,Refunded,1
+R000059,OI001381,2025-05-02,Other,Refunded,1
+R000060,OI001430,2025-04-17,Damaged in transit,Refunded,1
+R000061,OI001442,2025-04-25,Damaged in transit,Refunded,2
+R000062,OI001455,2025-04-23,Changed mind,Refunded,1
+R000063,OI001461,2025-05-02,Not as expected,Refunded,1
+R000064,OI001516,2025-04-24,Other,Refunded,1
+R000065,OI001538,2025-04-16,Charging problem,Refunded,1
+R000066,OI001586,2025-04-13,Other,Refunded,1
+R000067,OI001596,2025-04-09,Connection drops,Approved,1
+R000068,OI001627,2025-04-18,Not as expected,Refunded,1
+R000069,OI001650,2025-04-24,Damaged in transit,Refunded,1
+R000070,OI001672,2025-05-07,Damaged/defective,Refunded,1
+R000071,OI001675,2025-04-21,Not as expected,Refunded,1
+R000072,OI001690,2025-04-30,Changed mind,Refunded,1
+R000073,OI001723,2025-04-16,Not as expected,Refunded,2
+R000074,OI001730,2025-04-28,Not as expected,Refunded,1
+R000075,OI001787,2025-04-29,Damaged in transit,Approved,1
+R000076,OI001807,2025-05-08,Not as expected,Approved,1
+R000077,OI001812,2025-04-16,Poor durability,Approved,1
+R000078,OI001818,2025-04-30,Other,Refunded,1
+R000079,OI001821,2025-04-17,Other,Refunded,1
+R000080,OI001834,2025-04-11,Poor battery life,Refunded,1
+R000081,OI001850,2025-04-15,Damaged in transit,Refunded,1
+R000082,OI001860,2025-05-28,Connectivity issue,Approved,2
+R000083,OI001871,2025-05-28,Charging problem,Refunded,1
+R000084,OI001872,2025-05-20,Not as expected,Refunded,1
+R000085,OI001909,2025-05-20,Connectivity issue,Refunded,1
+R000086,OI001942,2025-06-08,Damaged in transit,Refunded,1
+R000087,OI001951,2025-06-03,Changed mind,Approved,1
+R000088,OI001978,2025-06-05,Not as expected,Approved,1
+R000089,OI002017,2025-05-27,Changed mind,Approved,1
+R000090,OI002025,2025-05-11,Other,Refunded,1
+R000091,OI002036,2025-06-01,Not as expected,Refunded,1
+R000092,OI002041,2025-06-01,Performance issue,Refunded,1
+R000093,OI002062,2025-06-07,Not as expected,Refunded,1
+R000094,OI002063,2025-05-23,Damaged in transit,Refunded,1
+R000095,OI002076,2025-06-02,Other,Refunded,1
+R000096,OI002120,2025-05-16,Stopped working,Approved,1
+R000097,OI002124,2025-06-01,Changed mind,Refunded,1
+R000098,OI002137,2025-05-31,Other,Refunded,1
+R000099,OI002152,2025-05-21,Damaged in transit,Refunded,1
+R000100,OI002156,2025-05-31,Poor durability,Approved,1
+R000101,OI002204,2025-05-21,Not as expected,Approved,1
+R000102,OI002221,2025-05-18,Changed mind,Refunded,1
+R000103,OI002235,2025-05-21,Damaged in transit,Approved,1
+R000104,OI002237,2025-05-20,Damaged in transit,Refunded,1
+R000105,OI002247,2025-05-31,Changed mind,Refunded,1
+R000106,OI002270,2025-05-28,Changed mind,Refunded,1
+R000107,OI002298,2025-05-21,Damaged in transit,Approved,1
+R000108,OI002328,2025-05-14,Damaged in transit,Refunded,1
+R000109,OI002356,2025-06-10,Damaged in transit,Refunded,1
+R000110,OI002360,2025-05-11,Changed mind,Approved,1
+R000111,OI002371,2025-06-25,Not as expected,Refunded,1
+R000112,OI002375,2025-06-28,Connectivity issue,Refunded,1
+R000113,OI002381,2025-07-05,Damaged in transit,Approved,1
+R000114,OI002403,2025-06-21,Compatibility mismatch,Refunded,1
+R000115,OI002405,2025-06-27,Other,Refunded,1
+R000116,OI002413,2025-06-18,Other,Refunded,1
+R000117,OI002417,2025-06-26,Pairing problem,Approved,1
+R000118,OI002431,2025-06-12,Not as expected,Refunded,1
+R000119,OI002453,2025-06-08,Changed mind,Refunded,1
+R000120,OI002478,2025-06-17,Performance issue,Refunded,1
+R000121,OI002494,2025-06-27,Does not charge,Refunded,1
+R000122,OI002497,2025-06-29,Other,Refunded,1
+R000123,OI002502,2025-06-21,Charging problem,Approved,1
+R000124,OI002511,2025-06-27,Damaged/defective,Refunded,1
+R000125,OI002539,2025-07-04,Damaged in transit,Refunded,1
+R000126,OI002550,2025-06-06,Changed mind,Refunded,1
+R000127,OI002558,2025-06-11,Not as expected,Approved,1
+R000128,OI002574,2025-06-11,Damaged/defective,Approved,1
+R000129,OI002578,2025-06-16,Changed mind,Refunded,1
+R000130,OI002592,2025-07-03,Not as expected,Approved,1
+R000131,OI002598,2025-07-01,Poor durability,Approved,1
+R000132,OI002609,2025-06-23,Other,Refunded,1
+R000133,OI002649,2025-06-27,Other,Refunded,1
+R000134,OI002662,2025-06-29,Not as expected,Approved,1
+R000135,OI002683,2025-06-25,Changed mind,Approved,1
+R000136,OI002690,2025-07-04,Does not work with device,Refunded,1
+R000137,OI002710,2025-06-10,Pairing problem,Refunded,1
+R000138,OI002713,2025-06-23,Compatibility mismatch,Approved,1
+R000139,OI002723,2025-07-03,Not as expected,Refunded,1
+R000140,OI002735,2025-06-14,Not as expected,Refunded,1
+R000141,OI002770,2025-07-01,Other,Refunded,1
+R000142,OI002778,2025-07-01,Changed mind,Approved,1
+R000143,OI002785,2025-06-20,Other,Refunded,1
+R000144,OI002787,2025-07-01,Changed mind,Refunded,1
+R000145,OI002790,2025-07-03,Damaged in transit,Refunded,2
+R000146,OI002796,2025-07-04,Poor durability,Refunded,1
+R000147,OI002818,2025-06-30,Damaged in transit,Refunded,1
+R000148,OI002831,2025-06-17,Packaging issue,Approved,1
+R000149,OI002843,2025-06-27,Changed mind,Refunded,1
+R000150,OI002846,2025-07-09,Not as expected,Approved,1
+R000151,OI002856,2025-06-15,Changed mind,Refunded,1
+R000152,OI002867,2025-06-18,Damaged package,Refunded,1
+R000153,OI002885,2025-06-20,Wrong size,Approved,1
+R000154,OI002887,2025-06-20,Changed mind,Refunded,1
+R000155,OI002896,2025-07-19,Battery issue,Refunded,1
+R000156,OI002901,2025-08-03,Does not charge,Approved,1
+R000157,OI002915,2025-07-14,Packaging issue,Refunded,1
+R000158,OI002917,2025-08-06,Charging problem,Approved,1
+R000159,OI002934,2025-08-02,Other,Refunded,1
+R000160,OI002950,2025-07-23,Changed mind,Refunded,1
+R000161,OI002987,2025-07-28,Packaging issue,Approved,1
+R000162,OI003007,2025-07-08,Does not work with device,Refunded,1
+R000163,OI003041,2025-07-19,Other,Refunded,1
+R000164,OI003044,2025-07-09,Damaged in transit,Refunded,2
+R000165,OI003051,2025-07-12,Not as expected,Refunded,1
+R000166,OI003064,2025-07-13,Not as expected,Refunded,1
+R000167,OI003073,2025-07-26,Changed mind,Approved,1
+R000168,OI003097,2025-07-19,Not as expected,Refunded,1
+R000169,OI003105,2025-07-18,Damaged package,Approved,1
+R000170,OI003110,2025-07-25,Not as expected,Approved,1
+R000171,OI003148,2025-08-09,Changed mind,Refunded,1
+R000172,OI003178,2025-07-14,Damaged product,Refunded,1
+R000173,OI003208,2025-08-02,Other,Refunded,1
+R000174,OI003209,2025-07-16,Not as expected,Refunded,1
+R000175,OI003220,2025-08-07,Changed mind,Refunded,1
+R000176,OI003228,2025-07-15,Does not charge,Approved,1
+R000177,OI003235,2025-07-27,Charging problem,Refunded,1
+R000178,OI003286,2025-08-02,Damaged in transit,Refunded,1
+R000179,OI003306,2025-07-30,Poor battery life,Approved,1
+R000180,OI003334,2025-07-12,Other,Refunded,1
+R000181,OI003342,2025-07-17,Damaged product,Refunded,1
+R000182,OI003357,2025-07-14,Packaging issue,Refunded,1
+R000183,OI003360,2025-07-13,Product broke,Approved,1
+R000184,OI003363,2025-08-01,Damaged in transit,Approved,1
+R000185,OI003370,2025-08-01,Connection drops,Refunded,1
+R000186,OI003381,2025-07-12,Damaged in transit,Refunded,1
+R000187,OI003399,2025-08-12,Other,Refunded,1
+R000188,OI003424,2025-08-28,Not as expected,Refunded,1
+R000189,OI003431,2025-08-17,Damaged in transit,Refunded,1
+R000190,OI003436,2025-09-08,Connectivity issue,Refunded,1
+R000191,OI003455,2025-09-01,Does not charge,Refunded,1
+R000192,OI003483,2025-08-29,Does not work with device,Refunded,2
+R000193,OI003486,2025-08-23,Wrong size,Refunded,1
+R000194,OI003488,2025-08-23,Poor durability,Refunded,1
+R000195,OI003509,2025-08-14,Performance issue,Refunded,1
+R000196,OI003519,2025-08-17,Does not charge,Refunded,1
+R000197,OI003550,2025-08-16,Damaged in transit,Refunded,1
+R000198,OI003558,2025-09-13,Size mismatch,Refunded,1
+R000199,OI003573,2025-08-15,Product broke,Refunded,1
+R000200,OI003578,2025-08-27,Damaged in transit,Approved,1
+R000201,OI003581,2025-08-31,Changed mind,Refunded,1
+R000202,OI003626,2025-08-30,Other,Refunded,1
+R000203,OI003641,2025-08-26,Product broke,Refunded,1
+R000204,OI003647,2025-08-28,Connection drops,Refunded,1
+R000205,OI003663,2025-09-03,Poor battery life,Refunded,1
+R000206,OI003670,2025-08-09,Changed mind,Refunded,1
+R000207,OI003693,2025-09-05,Motor noise,Refunded,1
+R000208,OI003697,2025-08-13,Damaged/defective,Refunded,1
+R000209,OI003711,2025-08-21,Other,Refunded,1
+R000210,OI003718,2025-08-09,Does not work with device,Approved,1
+R000211,OI003724,2025-08-27,Other,Refunded,1
+R000212,OI003726,2025-08-14,Packaging issue,Approved,1
+R000213,OI003739,2025-09-05,Stopped working,Refunded,1
+R000214,OI003748,2025-08-14,Poor fit,Refunded,1
+R000215,OI003749,2025-08-11,Other,Refunded,1
+R000216,OI003754,2025-09-03,Changed mind,Refunded,1
+R000217,OI003818,2025-09-04,Damaged in transit,Refunded,1
+R000218,OI003833,2025-08-28,Changed mind,Refunded,1
+R000219,OI003838,2025-08-27,Changed mind,Approved,2
+R000220,OI003857,2025-08-18,Damaged in transit,Refunded,2
+R000221,OI003867,2025-08-15,Not as expected,Refunded,1
+R000222,OI003872,2025-08-20,Damaged/defective,Refunded,2
+R000223,OI003905,2025-09-13,Does not charge,Refunded,1
+R000224,OI003915,2025-08-28,Product broke,Approved,1
+R000225,OI003917,2025-08-22,Damaged in transit,Refunded,1
+R000226,OI003920,2025-08-13,Not as expected,Approved,1
+R000227,OI003921,2025-08-10,Not as expected,Refunded,1
+R000228,OI003930,2025-09-09,Battery issue,Refunded,1
+R000229,OI003941,2025-08-18,Damaged in transit,Refunded,1
+R000230,OI003943,2025-08-18,Changed mind,Refunded,1
+R000231,OI003952,2025-08-29,Changed mind,Refunded,1
+R000232,OI003953,2025-08-23,Not as expected,Refunded,1
+R000233,OI003960,2025-10-06,Other,Approved,1
+R000234,OI003965,2025-09-24,Charging problem,Refunded,1
+R000235,OI003979,2025-09-14,Not as expected,Refunded,1
+R000236,OI003986,2025-09-13,Battery issue,Refunded,1
+R000237,OI003990,2025-09-27,Does not charge,Refunded,2
+R000238,OI003996,2025-10-08,Not as expected,Approved,1
+R000239,OI003998,2025-10-01,Poor durability,Refunded,1
+R000240,OI004001,2025-09-13,Damaged in transit,Refunded,2
+R000241,OI004020,2025-09-30,Does not charge,Refunded,1
+R000242,OI004049,2025-09-18,Other,Approved,1
+R000243,OI004057,2025-09-23,Charging problem,Refunded,1
+R000244,OI004076,2025-09-18,Not as expected,Refunded,1
+R000245,OI004096,2025-09-22,Connection drops,Approved,1
+R000246,OI004097,2025-10-04,Size mismatch,Refunded,1
+R000247,OI004108,2025-09-22,Damaged in transit,Refunded,1
+R000248,OI004110,2025-09-13,Changed mind,Refunded,2
+R000249,OI004115,2025-09-16,Damaged/defective,Approved,1
+R000250,OI004118,2025-09-26,Damaged in transit,Refunded,1
+R000251,OI004128,2025-09-25,Other,Refunded,1
+R000252,OI004137,2025-09-06,Not as expected,Refunded,1
+R000253,OI004140,2025-09-06,Poor battery life,Approved,1
+R000254,OI004147,2025-09-07,Compatibility mismatch,Approved,1
+R000255,OI004155,2025-09-22,Battery issue,Refunded,1
+R000256,OI004172,2025-09-27,Damaged product,Refunded,1
+R000257,OI004187,2025-09-22,Damaged in transit,Approved,1
+R000258,OI004192,2025-09-26,Not as expected,Refunded,1
+R000259,OI004206,2025-10-09,Pairing problem,Approved,1
+R000260,OI004214,2025-10-12,Product broke,Refunded,1
+R000261,OI004284,2025-10-03,Damaged/defective,Approved,1
+R000262,OI004286,2025-09-27,Does not charge,Refunded,1
+R000263,OI004297,2025-10-08,Not as expected,Refunded,1
+R000264,OI004313,2025-09-18,Poor fit,Refunded,1
+R000265,OI004315,2025-09-23,Size mismatch,Refunded,1
+R000266,OI004324,2025-09-23,Pairing problem,Refunded,2
+R000267,OI004330,2025-09-19,Damaged package,Refunded,1
+R000268,OI004331,2025-09-17,Damaged in transit,Refunded,1
+R000269,OI004341,2025-09-24,Not as expected,Approved,2
+R000270,OI004350,2025-09-25,Not as expected,Refunded,1
+R000271,OI004365,2025-09-27,Changed mind,Approved,1
+R000272,OI004370,2025-09-22,Connectivity issue,Refunded,1
+R000273,OI004375,2025-10-01,Other,Refunded,1
+R000274,OI004387,2025-09-25,Other,Refunded,1
+R000275,OI004413,2025-10-10,Other,Refunded,1
+R000276,OI004422,2025-09-15,Damaged in transit,Refunded,1
+R000277,OI004441,2025-09-21,Damaged in transit,Refunded,1
+R000278,OI004486,2025-10-05,Product broke,Approved,1
+R000279,OI004492,2025-10-03,Stopped working,Refunded,1
+R000280,OI004507,2025-10-13,Damaged in transit,Refunded,1
+R000281,OI004523,2025-10-04,Compatibility mismatch,Approved,1
+R000282,OI004526,2025-10-25,Connection drops,Refunded,1
+R000283,OI004557,2025-10-25,Damaged in transit,Refunded,1
+R000284,OI004570,2025-10-18,Not as expected,Refunded,1
+R000285,OI004571,2025-10-22,Other,Refunded,1
+R000286,OI004576,2025-10-19,Damaged in transit,Approved,1
+R000287,OI004593,2025-10-20,Damaged in transit,Refunded,1
+R000288,OI004602,2025-10-30,Damaged in transit,Refunded,1
+R000289,OI004613,2025-10-27,Damaged in transit,Refunded,1
+R000290,OI004622,2025-11-02,Poor durability,Refunded,1
+R000291,OI004630,2025-10-15,Connectivity issue,Approved,1
+R000292,OI004646,2025-11-06,Damaged in transit,Refunded,2
+R000293,OI004648,2025-11-07,Charging problem,Refunded,1
+R000294,OI004650,2025-10-30,Poor battery life,Approved,1
+R000295,OI004662,2025-11-12,Other,Refunded,1
+R000296,OI004699,2025-11-11,Poor battery life,Refunded,1
+R000297,OI004709,2025-10-07,Changed mind,Refunded,1
+R000298,OI004716,2025-10-16,Damaged in transit,Approved,1
+R000299,OI004722,2025-10-15,Pairing problem,Approved,1
+R000300,OI004723,2025-10-28,Damaged in transit,Refunded,1
+R000301,OI004724,2025-10-13,Changed mind,Refunded,1
+R000302,OI004725,2025-10-06,Poor fit,Refunded,1
+R000303,OI004732,2025-10-16,Changed mind,Refunded,1
+R000304,OI004746,2025-10-19,Other,Approved,1
+R000305,OI004753,2025-10-12,Not as expected,Refunded,1
+R000306,OI004766,2025-11-03,Poor fit,Refunded,1
+R000307,OI004768,2025-10-16,Size mismatch,Approved,1
+R000308,OI004784,2025-10-08,Not as expected,Refunded,1
+R000309,OI004793,2025-10-22,Damaged in transit,Refunded,1
+R000310,OI004798,2025-10-12,Poor battery life,Refunded,1
+R000311,OI004815,2025-11-01,Changed mind,Refunded,2
+R000312,OI004816,2025-10-19,Charging problem,Refunded,1
+R000313,OI004818,2025-10-18,Damaged/defective,Refunded,2
+R000314,OI004851,2025-10-24,Connectivity issue,Refunded,1
+R000315,OI004856,2025-10-15,Charging problem,Refunded,1
+R000316,OI004908,2025-10-08,Changed mind,Approved,1
+R000317,OI004915,2025-11-10,Not as expected,Approved,1
+R000318,OI004918,2025-10-11,Wrong size,Approved,1
+R000319,OI004921,2025-10-21,Connection drops,Approved,1
+R000320,OI004947,2025-11-11,Damaged in transit,Refunded,1
+R000321,OI004957,2025-11-02,Connection drops,Refunded,1
+R000322,OI004993,2025-10-08,Other,Refunded,1
+R000323,OI005004,2025-10-29,Poor battery life,Approved,1
+R000324,OI005005,2025-11-06,Performance issue,Refunded,1
+R000325,OI005006,2025-10-13,Not as expected,Refunded,1
+R000326,OI005007,2025-10-27,Intermittent power,Approved,1
+R000327,OI005009,2025-10-28,Compatibility mismatch,Approved,1
+R000328,OI005013,2025-10-29,Product broke,Refunded,1
+R000329,OI005041,2025-11-04,Damaged in transit,Refunded,2
+R000330,OI005044,2025-10-06,Stopped working,Refunded,1
+R000331,OI005061,2025-12-09,Wrong size,Refunded,1
+R000332,OI005064,2025-11-19,Other,Refunded,1
+R000333,OI005069,2025-11-21,Damaged in transit,Approved,2
+R000334,OI005079,2025-11-08,Packaging issue,Refunded,1
+R000335,OI005098,2025-11-27,Damaged product,Refunded,1
+R000336,OI005120,2025-12-11,Damaged in transit,Approved,2
+R000337,OI005129,2025-11-09,Other,Refunded,1
+R000338,OI005182,2025-11-23,Not as expected,Approved,1
+R000339,OI005190,2025-11-11,Damaged package,Refunded,1
+R000340,OI005214,2025-11-17,Other,Approved,1
+R000341,OI005222,2025-11-24,Changed mind,Refunded,1
+R000342,OI005224,2025-11-28,Charging problem,Refunded,1
+R000343,OI005242,2025-11-29,Not as expected,Refunded,1
+R000344,OI005254,2025-12-05,Damaged in transit,Approved,1
+R000345,OI005256,2025-11-27,Damaged in transit,Approved,1
+R000346,OI005270,2025-12-11,Damaged in transit,Refunded,1
+R000347,OI005272,2025-11-06,Changed mind,Approved,1
+R000348,OI005278,2025-11-10,Size mismatch,Approved,1
+R000349,OI005291,2025-11-29,Changed mind,Refunded,1
+R000350,OI005292,2025-11-25,Changed mind,Refunded,1
+R000351,OI005296,2025-12-11,Other,Approved,1
+R000352,OI005298,2025-11-23,Poor durability,Approved,1
+R000353,OI005304,2025-11-30,Changed mind,Approved,1
+R000354,OI005305,2025-11-24,Changed mind,Refunded,1
+R000355,OI005310,2025-12-09,Damaged in transit,Refunded,1
+R000356,OI005322,2025-11-27,Does not work with device,Refunded,1
+R000357,OI005332,2025-11-09,Product broke,Refunded,1
+R000358,OI005337,2025-11-29,Poor durability,Refunded,1
+R000359,OI005342,2025-11-20,Poor fit,Refunded,1
+R000360,OI005381,2025-12-01,Charging problem,Refunded,1
+R000361,OI005405,2025-11-27,Damaged in transit,Refunded,1
+R000362,OI005408,2025-11-30,Damaged/defective,Refunded,1
+R000363,OI005425,2025-12-02,Poor durability,Refunded,2
+R000364,OI005433,2025-11-28,Changed mind,Refunded,1
+R000365,OI005450,2025-11-27,Damaged in transit,Refunded,1
+R000366,OI005459,2025-12-07,Poor battery life,Refunded,1
+R000367,OI005474,2025-11-24,Poor durability,Refunded,1
+R000368,OI005475,2025-11-10,Damaged in transit,Refunded,1
+R000369,OI005490,2025-12-02,Poor battery life,Refunded,1
+R000370,OI005499,2025-12-11,Not as expected,Refunded,1
+R000371,OI005512,2025-11-11,Connectivity issue,Refunded,1
+R000372,OI005529,2025-11-30,Motor noise,Refunded,1
+R000373,OI005536,2025-11-25,Poor fit,Approved,1
+R000374,OI005542,2025-11-30,Connection drops,Refunded,1
+R000375,OI005552,2025-11-17,Damaged in transit,Refunded,1
+R000376,OI005575,2025-11-15,Damaged/defective,Approved,1
+R000377,OI005590,2025-11-10,Wrong size,Approved,1
+R000378,OI005623,2025-11-14,Changed mind,Refunded,1
+R000379,OI005631,2025-12-13,Compatibility issue,Refunded,1
+R000380,OI005634,2025-12-21,Damaged in transit,Refunded,1
+R000381,OI005635,2025-12-31,Damaged in transit,Refunded,1
+R000382,OI005640,2025-12-14,Not as expected,Refunded,1
+R000383,OI005644,2025-12-26,Wrong size,Refunded,1
+R000384,OI005660,2025-12-31,Poor battery life,Refunded,1
+R000385,OI005661,2025-12-31,Damaged in transit,Refunded,1
+R000386,OI005674,2025-12-31,Damaged in transit,Refunded,1
+R000387,OI005683,2025-12-27,Changed mind,Refunded,1
+R000388,OI005685,2025-12-31,Changed mind,Refunded,1
+R000389,OI005699,2025-12-31,Packaging issue,Approved,1
+R000390,OI005710,2025-12-18,Poor durability,Refunded,1
+R000391,OI005711,2025-12-23,Poor durability,Refunded,1
+R000392,OI005734,2025-12-31,Intermittent power,Approved,1
+R000393,OI005747,2025-12-30,Other,Refunded,1
+R000394,OI005760,2025-12-31,Battery issue,Approved,1
+R000395,OI005781,2025-12-19,Other,Approved,1
+R000396,OI005794,2025-12-18,Intermittent power,Refunded,1
+R000397,OI005801,2025-12-18,Other,Refunded,1
+R000398,OI005803,2025-12-20,Poor battery life,Refunded,1
+R000399,OI005805,2025-12-18,Not as expected,Refunded,1
+R000400,OI005819,2025-12-31,Damaged in transit,Refunded,1
+R000401,OI005826,2025-12-12,Changed mind,Approved,1
+R000402,OI005854,2025-12-27,Charging problem,Refunded,1
+R000403,OI005878,2025-12-14,Motor noise,Approved,1
+R000404,OI005884,2025-12-23,Changed mind,Approved,1
+R000405,OI005902,2025-12-31,Changed mind,Refunded,1
+R000406,OI005903,2025-12-31,Pairing problem,Refunded,1
+R000407,OI005916,2025-12-31,Other,Refunded,1
+R000408,OI005923,2025-12-27,Poor battery life,Refunded,2
+R000409,OI005925,2025-12-31,Other,Approved,1
+R000410,OI005928,2025-12-29,Not as expected,Refunded,1
+R000411,OI005936,2025-12-31,Poor fit,Refunded,1
+R000412,OI005943,2025-12-30,Product broke,Refunded,1
+R000413,OI005960,2025-12-31,Battery issue,Refunded,1
+R000414,OI005961,2025-12-31,Charging problem,Approved,1
+R000415,OI005962,2025-12-24,Battery issue,Approved,1
+R000416,OI005975,2025-12-31,Not as expected,Refunded,1
+R000417,OI005986,2025-12-29,Changed mind,Refunded,1
+R000418,OI005988,2025-12-31,Other,Refunded,1
+R000419,OI005994,2025-12-25,Charging problem,Refunded,1
+R000420,OI006014,2025-12-18,Not as expected,Approved,1
+R000421,OI006018,2025-12-15,Stopped working,Refunded,1
+R000422,OI006019,2025-12-04,Changed mind,Refunded,1
+R000423,OI006027,2025-12-20,Connectivity issue,Refunded,1
+R000424,OI006029,2025-12-30,Product broke,Refunded,1
+R000425,OI006041,2025-12-31,Charging problem,Refunded,1
+R000426,OI006047,2025-12-31,Compatibility issue,Refunded,1
+R000427,OI006059,2025-12-15,Other,Refunded,2
+R000428,OI006060,2025-12-19,Motor noise,Refunded,1
+R000429,OI006083,2025-12-24,Changed mind,Refunded,1
+R000430,OI006085,2025-12-14,Poor fit,Approved,1
+R000431,OI006096,2025-12-26,Changed mind,Refunded,2
+R000432,OI006104,2025-12-18,Poor battery life,Refunded,1
+R000433,OI006107,2025-12-16,Damaged/defective,Refunded,1
+R000434,OI006124,2025-12-09,Damaged/defective,Refunded,1
+R000435,OI006139,2025-12-31,Not as expected,Refunded,1
+R000436,OI006145,2025-12-25,Damaged in transit,Refunded,1
+R000437,OI006155,2025-12-29,Compatibility mismatch,Refunded,1
+R000438,OI006163,2025-12-30,Changed mind,Refunded,1
+R000439,OI006164,2025-12-24,Compatibility mismatch,Refunded,1
+R000440,OI006165,2025-12-24,Not as expected,Refunded,1
+R000441,OI006174,2025-12-20,Changed mind,Refunded,1
+R000442,OI006175,2025-12-31,Poor durability,Refunded,1
+R000443,OI006188,2025-12-23,Damaged product,Refunded,1
+R000444,OI006191,2025-12-30,Not as expected,Approved,1

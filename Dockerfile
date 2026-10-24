@@ -30,6 +30,9 @@ COPY data ./data
 COPY docs ./docs
 COPY tests ./tests
 
+# Train the model into the image for live API inference.
+RUN python scripts/train_model.py
+
 EXPOSE 8000
 
 CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]

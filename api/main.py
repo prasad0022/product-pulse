@@ -29,7 +29,7 @@ class QueryRequest(BaseModel):
 
 app = FastAPI(
     title="Product Pulse API",
-    version="0.4.0",
+    version="1.0.0",
     description="Product Risk Detection and AI-assisted product investigation API.",
 )
 app.add_middleware(

@@ -2,6 +2,7 @@
 from __future__ import annotations
 from pathlib import Path
 import pandas as pd
+from src.analytics.ml_inference import predict_latest_month
 
 DATA_DIR = Path(__file__).resolve().parents[2] / "data" / "processed"
 
@@ -12,18 +13,20 @@ def _read(name: str) -> pd.DataFrame:
         raise RuntimeError(f"Required data file is missing: {path.name}. Run scripts/generate_data.py first.")
     return pd.read_csv(path)
 
-
 def _risk_frame() -> pd.DataFrame:
+    """Combine business risk signals with live ML predictions."""
     frame = _read("product_risk_summary.csv")
-    pred_path = DATA_DIR / "risk_model_predictions.csv"
-    if pred_path.exists():
-        pred = pd.read_csv(pred_path)
-        pred = pred[pred["month"].astype(str) == "2025-11"]
-        if not pred.empty:
-            pred = pred[["product_id", "predicted_next_month_high_risk_probability"]]
-            frame = frame.merge(pred, on="product_id", how="left")
-    return frame
+    monthly = _read("product_metrics_monthly.csv")
+    products = _read("products.csv")
 
+    predictions = predict_latest_month(monthly, products)
+
+    return frame.merge(
+        predictions,
+        on="product_id",
+        how="left",
+        validate="one_to_one",
+    )
 
 def get_products(limit: int = 40) -> list[dict]:
     df = _risk_frame().sort_values("risk_signal_score", ascending=False).head(max(1, min(limit, 100)))
